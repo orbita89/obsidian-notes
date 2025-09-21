@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "17611d74eac1e319",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce491a753bb04b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4953bb19ebb910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задачи"
+            }
+          },
+          {
+            "id": "40afce81f746ca86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Краткое самое важное прохождение собеседование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Краткое самое важное прохождение собеседование"
+            }
+          },
+          {
+            "id": "67a56eddbd151346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Краткое самое важное прохождение собеседование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Краткое самое важное прохождение собеседование"
+            }
+          },
+          {
+            "id": "ff13169830f45f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структурные патерны.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Структурные патерны"
+            }
+          },
+          {
+            "id": "c79e9e978183daa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elastic"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6d2807c9e84c76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa637ae0f157a45e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b019366b9d6075f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5c7b3212b6bcadb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629566c263add193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "28f9869f9d7bfb52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "41a092a964fd2ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7233e6164accfb34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "260640e359091e43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Краткое самое важное прохождение собеседование.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Краткое самое важное прохождение собеседование"
+            }
+          },
+          {
+            "id": "34157dc0852e229f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Краткое самое важное прохождение собеседование.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Краткое самое важное прохождение собеседование"
+            }
+          },
+          {
+            "id": "f27b1d5176bf10a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "040869fb973a1b0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c79e9e978183daa3",
+  "lastOpenFiles": [
+    "Краткое самое важное прохождение собеседование.md",
+    "Elastic.md",
+    "Порождающие паттерны.md",
+    "Задачи.md",
+    "Структурные патерны.md",
+    "Задачки домашние задание.md",
+    "Термин.md",
+    "СЛОВА.md",
+    "Подробное прохождение собеседование.md",
+    "2025-06-03.md",
+    "pdf.md",
+    "Добро пожаловать.md",
+    "Без названия.canvas",
+    "Как мне дальше жить.md"
+  ]
+}
