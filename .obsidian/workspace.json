@@ -11,10 +11,14 @@
             "id": "093ffc28b350b03c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Философия цель на год.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Философия цель на год"
             }
           }
         ]
@@ -159,16 +163,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "00f15020e023c866",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -180,6 +195,7 @@
   },
   "active": "093ffc28b350b03c",
   "lastOpenFiles": [
+    "Задачи.md",
     "Философия цель на год.md",
     "Термин.md",
     "Структурные патерны.md",
@@ -189,7 +205,6 @@
     "Краткое самое важное прохождение собеседование.md",
     "Заметки.md",
     "Задачки домашние задание.md",
-    "Задачи.md",
     "Elastic.md",
     "Welcome.md"
   ]
