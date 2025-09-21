@@ -1,56 +1,53 @@
 {
   "main": {
-    "id": "17611d74eac1e319",
+    "id": "432e89a114db4789",
     "type": "split",
     "children": [
       {
-        "id": "ce491a753bb04b78",
+        "id": "9693bc00ed45d2e0",
         "type": "tabs",
         "children": [
           {
-            "id": "39c367d2d59cd23e",
+            "id": "093ffc28b350b03c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Elastic"
-            }
-          },
-          {
-            "id": "c7b2629872435015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Заметки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Заметки"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "9decb0d73fee527b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa8f2f7b492b0762",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d6d2807c9e84c76c",
+    "id": "fe111c168e119bba",
     "type": "split",
     "children": [
       {
-        "id": "fa637ae0f157a45e",
+        "id": "763d5d367b62d045",
         "type": "tabs",
         "children": [
           {
-            "id": "b019366b9d6075f8",
+            "id": "0e2669d907cb20bd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,15 +58,9 @@
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
-          }
-        ]
-      },
-      {
-        "id": "a5c7b3212b6bcadb",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "629566c263add193",
+            "id": "9533e7f593e65e48",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,40 +73,39 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
-            "id": "28f9869f9d7bfb52",
+            "id": "734c9a93ae096fda",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 545.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "41a092a964fd2ce0",
+    "id": "ad9865416a954910",
     "type": "split",
     "children": [
       {
-        "id": "7233e6164accfb34",
+        "id": "eb92cacca330b841",
         "type": "tabs",
         "children": [
           {
-            "id": "260640e359091e43",
+            "id": "d74d740f64ad3067",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Философия цель на год.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,40 +115,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Философия цель на год"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "34157dc0852e229f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Философия цель на год.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Философия цель на год"
-            }
-          },
-          {
-            "id": "f27b1d5176bf10a1",
+            "id": "f5e83c7da6da0bd1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "040869fb973a1b0b",
+            "id": "f32cf826ac827c49",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,62 +143,54 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
-            "id": "caa6973b3cac3f07",
+            "id": "acb226224bba9734",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 805.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Создать новую базу": false
     }
   },
-  "active": "c7b2629872435015",
+  "active": "093ffc28b350b03c",
   "lastOpenFiles": [
-    "Краткое самое важное прохождение собеседование.md",
-    "Задачки домашние задание.md",
-    "Заметки.md",
-    "2025-06-03.md",
-    "Задачи.md",
+    "Философия цель на год.md",
+    "Термин.md",
     "Структурные патерны.md",
     "СЛОВА.md",
-    "Термин.md",
-    "Философия цель на год.md",
-    "Elastic.md",
-    "obsidian-exit-sync.sh",
-    "dfsfsfsf.md",
-    "dsasda.canvas",
-    "Без названия 2.base",
-    "Без названия 1.base",
-    "Без названия.base",
-    "Без названия 3.base",
     "Порождающие паттерны.md",
     "Подробное прохождение собеседование.md",
-    "pdf.md",
-    "Добро пожаловать.md",
-    "Как мне дальше жить.md"
+    "Краткое самое важное прохождение собеседование.md",
+    "Заметки.md",
+    "Задачки домашние задание.md",
+    "Задачи.md",
+    "Elastic.md",
+    "Welcome.md"
   ]
 }
