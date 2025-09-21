@@ -95,12 +95,13 @@
             "id": "39c367d2d59cd23e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Без названия 1.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.12"
+              "icon": "lucide-table",
+              "title": "Без названия 1"
             }
           }
         ],
@@ -167,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 545.5110321044922
   },
   "right": {
     "id": "41a092a964fd2ce0",
@@ -271,10 +272,10 @@
   },
   "active": "39c367d2d59cd23e",
   "lastOpenFiles": [
-    "Термин.md",
-    "Философия цель на год.md",
     "Без названия.base",
     "Без названия 1.base",
+    "Философия цель на год.md",
+    "Термин.md",
     "Задачки домашние задание.md",
     "Без названия 3.base",
     "Без названия 2.base",
