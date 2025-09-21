@@ -1,11 +1,11 @@
 {
-  "commitMessage": "\"{{files}} {{date}}\"",
+  "commitMessage": "{{hostname}} {{date}}",
   "autoCommitMessage": "{{files}} {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 10,
-  "autoPullInterval": 10,
+  "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "autoCommitOnlyStaged": false,
   "disablePush": false,
