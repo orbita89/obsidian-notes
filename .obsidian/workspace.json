@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Философия цель на год.md",
+                "file": "Задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Философия цель на год"
+              "title": "Задачи"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "093ffc28b350b03c",
   "lastOpenFiles": [
-    "Задачи.md",
     "Философия цель на год.md",
+    "Задачи.md",
     "Термин.md",
     "Структурные патерны.md",
     "СЛОВА.md",
