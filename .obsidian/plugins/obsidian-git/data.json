@@ -1,5 +1,5 @@
 {
-  "commitMessage": "{{hostname}} {{date}}",
+  "commitMessage": "\"{{files}} {{date}}\"",
   "autoCommitMessage": "{{files}} {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
