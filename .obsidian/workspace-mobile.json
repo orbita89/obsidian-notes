@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "obsi_tasks"
             }
+          },
+          {
+            "id": "d8ddb1d5c484dbef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b260d71c3eeec9ee",
+  "active": "d8ddb1d5c484dbef",
   "lastOpenFiles": [
-    "Задачи.md",
     "obsi_tasks.md",
+    "Задачи.md",
     "Djdjdjd.md"
   ]
 }
