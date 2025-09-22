@@ -9,5 +9,6 @@
   "showLineNumber": true,
   "spellcheck": false,
   "strictLineBreaks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false
 }
