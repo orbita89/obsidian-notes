@@ -25,10 +25,14 @@
             "id": "d8ddb1d5c484dbef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "СЛОВА.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "СЛОВА"
             }
           }
         ],
@@ -178,8 +182,9 @@
   },
   "active": "d8ddb1d5c484dbef",
   "lastOpenFiles": [
-    "obsi_tasks.md",
+    "Задачки домашние задание.md",
     "Задачи.md",
+    "obsi_tasks.md",
     "Djdjdjd.md"
   ]
 }
