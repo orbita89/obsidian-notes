@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 17,
-                "left": 37,
-                "top": 200,
-                "zoom": 0.82
+                "page": 22,
+                "left": -2,
+                "top": 191,
+                "zoom": 0.7023477872303123
               },
               "icon": "lucide-file-text",
               "title": "elastic"
@@ -27,10 +27,60 @@
             "id": "7df752ad8597280b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 17,
+                "left": -2,
+                "top": 218,
+                "zoom": 0.7023477872303123
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eecf4134feb8f787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565c75cee464e9fa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 28,
+                "left": -2,
+                "top": 326,
+                "zoom": 0.7023477872303123
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc0afe5a669fd5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a92d7ffc7db7a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 28,
+                "left": -2,
+                "top": 330,
+                "zoom": 0.7023477872303123
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
             }
           }
         ]
@@ -180,11 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d201904eab3645cf",
+  "active": "c2a92d7ffc7db7a6",
   "lastOpenFiles": [
     "Закладки.md",
     "elastic.pdf",
     "Elastic.md",
+    "Задачи.md",
     "conflict-files-obsidian-git.md",
     "/conflict-files-obsidian-git.md",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
@@ -194,7 +245,6 @@
     "Без названия",
     "Термин.md",
     "Задачки домашние задание.md",
-    "Задачи.md",
     "Djdjdjd.md"
   ]
 }
