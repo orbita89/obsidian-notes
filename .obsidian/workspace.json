@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 1,
-                "left": -17,
-                "top": 664,
-                "zoom": 0.9047741273100618
+                "page": 21,
+                "left": -4,
+                "top": 621,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "elastic"
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9865416a954910",
@@ -165,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
