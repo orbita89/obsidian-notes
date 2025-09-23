@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6bc0595346a5f9e",
+        "id": "267e0b949b187d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "7df480a426e227c9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Elasticsearch+для+разработчиков+индексирование,+ан"
-            }
-          },
-          {
-            "id": "94c33597194a631e",
+            "id": "c23954dfbf3e201b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -194,7 +180,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7df480a426e227c9",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
     "Тестирование_веб-API.pdf",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
