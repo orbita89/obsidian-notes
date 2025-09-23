@@ -11,28 +11,26 @@
             "id": "d201904eab3645cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Elastic.md",
-                "mode": "source",
-                "source": false
+                "file": "elastic.pdf",
+                "page": 17,
+                "left": 37,
+                "top": 200,
+                "zoom": 0.82
               },
-              "icon": "lucide-file",
-              "title": "Elastic"
+              "icon": "lucide-file-text",
+              "title": "elastic"
             }
           },
           {
             "id": "7df752ad8597280b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Закладки.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Закладки"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -145,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Elastic.md",
+            "file": "elastic.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,14 +183,14 @@
   "active": "d201904eab3645cf",
   "lastOpenFiles": [
     "Закладки.md",
-    "conflict-files-obsidian-git.md",
     "elastic.pdf",
+    "Elastic.md",
+    "conflict-files-obsidian-git.md",
     "/conflict-files-obsidian-git.md",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
     "obsi_tasks.md",
     "СЛОВА.md",
     "Термины(Философии, история, искусства).md",
-    "Elastic.md",
     "Без названия",
     "Термин.md",
     "Задачки домашние задание.md",
