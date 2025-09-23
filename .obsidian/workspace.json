@@ -25,16 +25,14 @@
             "id": "bdb5014447907f09",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "elastic.pdf",
-                "page": 27,
-                "left": -16,
-                "top": 388,
-                "zoom": 0.922031912459885
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "elastic"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           },
           {
@@ -209,8 +207,8 @@
   },
   "active": "bdb5014447907f09",
   "lastOpenFiles": [
-    "Закладки.md",
     "elastic.pdf",
+    "Закладки.md",
     "Мусор.md",
     "conflict-files-obsidian-git.md",
     "Elastic.md",
