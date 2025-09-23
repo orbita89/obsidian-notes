@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Целевая папка
+DEST="/home/dev/Documents/Obsidian Vault/Скопированые файлы"
+
+# Создадим папку, если её нет
+mkdir -p "$DEST"
+
+# Перебираем все файлы, переданные аргументами
+for file in "$@"; do
+    if [ -f "$file" ]; then
+        FILE_DIR=$(dirname "$(realpath "$file")")
+        FILE_NAME=$(basename "$file")
+        
+        # Копируем файл
+        cp "$file" "$DEST/$FILE_NAME"
+        
+        # Добавляем путь-источник в конец файла
+        echo -e "\n\n[Источник: $FILE_DIR]" >> "$DEST/$FILE_NAME"
+        
+        echo "✔ $file → $DEST/$FILE_NAME (добавлен путь $FILE_DIR)"
+    else
+        echo "✘ $file не найден или не является файлом"
+    fi
+done
+
+
+[Источник: /home/dev/bin]

@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +179,7 @@
   },
   "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
+    "Скопированые файлы/obc",
     "Скопированые файлы",
     "Задачи.md",
     "Термины(Философии, история, искусства).md",
