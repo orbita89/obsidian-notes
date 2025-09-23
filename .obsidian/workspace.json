@@ -28,9 +28,9 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 26,
+                "page": 27,
                 "left": -16,
-                "top": 597,
+                "top": 388,
                 "zoom": 0.922031912459885
               },
               "icon": "lucide-file-text",
@@ -209,9 +209,9 @@
   },
   "active": "bdb5014447907f09",
   "lastOpenFiles": [
-    "Мусор.md",
     "Закладки.md",
     "elastic.pdf",
+    "Мусор.md",
     "conflict-files-obsidian-git.md",
     "Elastic.md",
     "Задачки домашние задание.md",
