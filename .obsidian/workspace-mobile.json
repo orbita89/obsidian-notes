@@ -15,9 +15,9 @@
               "state": {
                 "file": "elastic.pdf",
                 "page": 28,
-                "left": 52,
-                "top": 572,
-                "zoom": 0.9
+                "left": -2,
+                "top": 212,
+                "zoom": 0.7023477872303123
               },
               "icon": "lucide-file-text",
               "title": "elastic"
@@ -170,8 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1992f1794e258155",
+  "active": "0943555770617ed1",
   "lastOpenFiles": [
+    "/Закладки.md",
     "Закладки.md",
     "elastic.pdf",
     "conflict-files-obsidian-git.md",
@@ -179,7 +180,6 @@
     "Мусор.md",
     "/Мусор.md",
     "Elastic.md",
-    "/Закладки.md",
     "/elastic.pdf",
     "Задачи.md",
     "/conflict-files-obsidian-git.md",
