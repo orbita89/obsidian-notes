@@ -11,20 +11,36 @@
             "id": "c33f6511f22c1c19",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Книги/Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "elastic.pdf",
+                "page": 20,
+                "left": -31,
+                "top": 504,
+                "zoom": 0.4778530607183404
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "icon": "lucide-file-text",
+              "title": "elastic"
+            }
+          },
+          {
+            "id": "0621139d73fa64a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 21,
+                "left": -17,
+                "top": 515,
+                "zoom": 0.9047741273100618
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +200,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c33f6511f22c1c19",
+  "active": "0621139d73fa64a0",
   "lastOpenFiles": [
-    "Заметки.md",
-    "Книги/Без названия.canvas",
+    "Закладки.md",
     "elastic.pdf",
+    "Без названия.canvas",
+    "Книги/Без названия.md",
+    "Книги/Закладки.canvas",
+    "Заметки.md",
     "Elastic.md",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
     "Термины(Философии, история, искусства).md",
