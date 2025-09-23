@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 31,
-                "left": -4,
-                "top": 29,
-                "zoom": 2.4437854514588953
+                "page": 37,
+                "left": -8,
+                "top": 274,
+                "zoom": 1.962725323218955
               },
               "icon": "lucide-file-text",
               "title": "elastic"
@@ -186,9 +186,9 @@
   "lastOpenFiles": [
     "Закладки.md",
     "elastic.pdf",
+    "Elastic.md",
     "Задачки домашние задание.md",
     "Задачи.md",
-    "Elastic.md",
     "Без названия.canvas",
     "Книги/Без названия.md",
     "Книги/Закладки.canvas",
