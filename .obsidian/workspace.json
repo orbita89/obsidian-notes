@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи.md",
+                "file": "obsi_tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9decb0d73fee527b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa8f2f7b492b0762",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "obsi_tasks"
             }
           }
         ]
@@ -179,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,11 +178,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "093ffc28b350b03c",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
+    "Скопированые файлы",
+    "Задачи.md",
+    "Термины(Философии, история, искусства).md",
+    "obsi_tasks.md",
     "Философия цель на год.md~",
     "Философия цель на год.md",
-    "Задачи.md",
     "Термин.md",
     "Структурные патерны.md",
     "СЛОВА.md",
