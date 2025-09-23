@@ -11,14 +11,12 @@
             "id": "093ffc28b350b03c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "obsi_tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "Elasticsearch+для+разработчиков+индексирование,+ан.pdf"
               },
-              "icon": "lucide-file",
-              "title": "obsi_tasks"
+              "icon": "lucide-file-text",
+              "title": "Elasticsearch+для+разработчиков+индексирование,+ан"
             }
           }
         ]
@@ -177,13 +175,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "093ffc28b350b03c",
   "lastOpenFiles": [
+    "obsi_tasks.md",
+    "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
+    "Книги",
     "Скопированые файлы/obc",
     "Скопированые файлы",
     "Задачи.md",
     "Термины(Философии, история, искусства).md",
-    "obsi_tasks.md",
     "Философия цель на год.md~",
     "Философия цель на год.md",
     "Термин.md",
