@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 28,
-                "left": 52,
-                "top": 572,
-                "zoom": 0.9
+                "page": 30,
+                "left": -2,
+                "top": 634,
+                "zoom": 0.7023477872303123
               },
               "icon": "lucide-file-text",
               "title": "elastic"
@@ -174,12 +174,12 @@
   "lastOpenFiles": [
     "Закладки.md",
     "elastic.pdf",
+    "/Закладки.md",
     "conflict-files-obsidian-git.md",
     "Термин.md",
     "Мусор.md",
     "/Мусор.md",
     "Elastic.md",
-    "/Закладки.md",
     "/elastic.pdf",
     "Задачи.md",
     "/conflict-files-obsidian-git.md",
