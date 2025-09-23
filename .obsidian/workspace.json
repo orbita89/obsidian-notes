@@ -11,10 +11,16 @@
             "id": "c33f6511f22c1c19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 1,
+                "left": -17,
+                "top": 664,
+                "zoom": 0.9047741273100618
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
             }
           }
         ]
@@ -159,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,16 +183,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00f15020e023c866",
+  "active": "c33f6511f22c1c19",
   "lastOpenFiles": [
-    "Тестирование_веб-API.pdf",
+    "Elastic.md",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
+    "elastic.pdf",
+    "Термины(Философии, история, искусства).md",
+    "Тестирование_веб-API.pdf",
     "obsi_tasks.md",
     "Книги",
     "Скопированые файлы/obc",
     "Скопированые файлы",
     "Задачи.md",
-    "Термины(Философии, история, искусства).md",
     "Философия цель на год.md~",
     "Философия цель на год.md",
     "Термин.md",
@@ -196,7 +205,6 @@
     "Краткое самое важное прохождение собеседование.md",
     "Заметки.md",
     "Задачки домашние задание.md",
-    "Elastic.md",
     "Welcome.md"
   ]
 }
