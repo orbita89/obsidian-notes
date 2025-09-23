@@ -4,118 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b9cb6eeb26048f",
+        "id": "32e9b5bcaee009d5",
         "type": "tabs",
         "children": [
           {
-            "id": "d201904eab3645cf",
+            "id": "1992f1794e258155",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 29,
-                "left": -2,
-                "top": 449,
-                "zoom": 0.7023477872303123
+                "page": 19,
+                "left": 59,
+                "top": 245,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "elastic"
-            }
-          },
-          {
-            "id": "af9decfbc8a63fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "7df752ad8597280b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 17,
-                "left": -2,
-                "top": 218,
-                "zoom": 0.7023477872303123
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "eecf4134feb8f787",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "565c75cee464e9fa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 28,
-                "left": -2,
-                "top": 326,
-                "zoom": 0.7023477872303123
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dc0afe5a669fd5f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2a92d7ffc7db7a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 31,
-                "left": -2,
-                "top": 473,
-                "zoom": 0.7023477872303123
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          }
-        ]
-      },
-      {
-        "id": "445a036ebcfd7611",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "91f38389ceb4dd5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "/Закладки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Закладки"
             }
           }
         ]
@@ -265,13 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af9decfbc8a63fbd",
+  "active": "1992f1794e258155",
   "lastOpenFiles": [
+    "Закладки.md",
     "elastic.pdf",
     "conflict-files-obsidian-git.md",
+    "Термин.md",
     "Мусор.md",
     "/Мусор.md",
-    "Закладки.md",
     "Elastic.md",
     "/Закладки.md",
     "/elastic.pdf",
@@ -282,7 +188,6 @@
     "СЛОВА.md",
     "Термины(Философии, история, искусства).md",
     "Без названия",
-    "Термин.md",
     "Задачки домашние задание.md",
     "Djdjdjd.md"
   ]
