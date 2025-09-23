@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9693bc00ed45d2e0",
+        "id": "e6bc0595346a5f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "093ffc28b350b03c",
+            "id": "7df480a426e227c9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Elasticsearch+для+разработчиков+индексирование,+ан.pdf"
+                "file": "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Elasticsearch+для+разработчиков+индексирование,+ан"
+            }
+          },
+          {
+            "id": "94c33597194a631e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Elasticsearch+для+разработчиков+индексирование,+ан"
@@ -172,13 +188,17 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "093ffc28b350b03c",
+  "active": "7df480a426e227c9",
   "lastOpenFiles": [
-    "obsi_tasks.md",
+    "Тестирование_веб-API.pdf",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
+    "obsi_tasks.md",
     "Книги",
     "Скопированые файлы/obc",
     "Скопированые файлы",
