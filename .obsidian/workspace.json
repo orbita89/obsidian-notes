@@ -11,16 +11,17 @@
             "id": "c33f6511f22c1c19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "elastic.pdf",
-                "page": 21,
-                "left": -4,
-                "top": 621,
-                "zoom": 1
+                "file": "Книги/Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "elastic"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ]
@@ -80,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -185,9 +185,11 @@
   },
   "active": "c33f6511f22c1c19",
   "lastOpenFiles": [
+    "Заметки.md",
+    "Книги/Без названия.canvas",
+    "elastic.pdf",
     "Elastic.md",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
-    "elastic.pdf",
     "Термины(Философии, история, искусства).md",
     "Тестирование_веб-API.pdf",
     "obsi_tasks.md",
@@ -203,7 +205,6 @@
     "Порождающие паттерны.md",
     "Подробное прохождение собеседование.md",
     "Краткое самое важное прохождение собеседование.md",
-    "Заметки.md",
     "Задачки домашние задание.md",
     "Welcome.md"
   ]
