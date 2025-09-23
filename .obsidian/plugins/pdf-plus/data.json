@@ -1,60 +1,30 @@
 {
   "displayTextFormats": [
-    {
-      "name": "Title & page",
-      "template": "{{file.basename}}, p.{{pageLabel}}"
-    },
-    {
-      "name": "Page",
-      "template": "p.{{pageLabel}}"
-    },
-    {
-      "name": "Text",
-      "template": "{{text}}"
-    },
-    {
-      "name": "Emoji",
-      "template": "📖"
-    },
-    {
-      "name": "None",
-      "template": ""
-    }
+    {"name": "Title & page","template": "{{file.basename}}, p.{{pageLabel}}"},
+    {"name": "Page","template": "p.{{pageLabel}}"},
+    {"name": "Text","template": "{{text}}"},
+    {"name": "Emoji","template": "📖"},
+    {"name": "None","template": ""}
   ],
   "defaultDisplayTextFormatIndex": 0,
   "syncDisplayTextFormat": true,
-  "syncDefaultDisplayTextFormat": false,
+  "syncDefaultDisplayTextFormat": true,
   "copyCommands": [
-    {
-      "name": "Quote",
-      "template": "> ({{linkWithDisplay}})\n> {{text}}\n"
-    },
-    {
-      "name": "Link",
-      "template": "{{linkWithDisplay}}"
-    },
-    {
-      "name": "Embed",
-      "template": "!{{link}}"
-    },
-    {
-      "name": "Callout",
-      "template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> {{text}}\n"
-    },
-    {
-      "name": "Quote in callout",
-      "template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> > {{text}}\n> \n> "
-    }
+    {"name": "Quote","template": "> ({{linkWithDisplay}})\n> {{text}}\n"},
+    {"name": "Link","template": "{{linkWithDisplay}}"},
+    {"name": "Embed","template": "!{{link}}"},
+    {"name": "Callout","template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> {{text}}\n"},
+    {"name": "Quote in callout","template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> > {{text}}\n> \n> "}
   ],
   "useAnotherCopyTemplateWhenNoSelection": false,
   "copyTemplateWhenNoSelection": "{{linkToPageWithDisplay}}",
   "trimSelectionEmbed": false,
   "embedMargin": 50,
-  "noSidebarInEmbed": true,
-  "noSpreadModeInEmbed": true,
+  "noSidebarInEmbed": false,
+  "noSpreadModeInEmbed": false,
   "embedUnscrollable": false,
   "singleTabForSinglePDF": true,
-  "highlightExistingTab": false,
+  "highlightExistingTab": true,
   "existingTabHighlightOpacity": 0.5,
   "existingTabHighlightDuration": 0.75,
   "paneTypeForFirstPDFLeaf": "left",
@@ -63,13 +33,13 @@
   "openPDFWithDefaultAppAndObsidian": true,
   "focusObsidianAfterOpenPDFWithDefaultApp": true,
   "syncWithDefaultApp": false,
-  "dontActivateAfterOpenPDF": true,
-  "dontActivateAfterOpenMD": true,
+  "dontActivateAfterOpenPDF": false,
+  "dontActivateAfterOpenMD": false,
   "highlightDuration": 0.75,
   "noTextHighlightsInEmbed": false,
-  "noAnnotationHighlightsInEmbed": true,
+  "noAnnotationHighlightsInEmbed": false,
   "persistentTextHighlightsInEmbed": true,
-  "persistentAnnotationHighlightsInEmbed": false,
+  "persistentAnnotationHighlightsInEmbed": true,
   "highlightBacklinks": true,
   "selectionBacklinkVisualizeStyle": "highlight",
   "dblclickEmbedToOpenLink": true,
@@ -80,15 +50,15 @@
     "Yellow": "#ffd000",
     "Red": "#ea5252",
     "Note": "#086ddd",
-    "Important": "#bb61e5"
+    "Important": "#bb61e5",
+    "Green": "#04a802"
   },
-  "defaultColor": "",
+  "defaultColor": "Yellow",
   "defaultColorPaletteItemIndex": 0,
   "syncColorPaletteItem": true,
-  "syncDefaultColorPaletteItem": false,
+  "syncDefaultColorPaletteItem": true,
   "colorPaletteInToolbar": true,
-  "noColorButtonInColorPalette": true,
-  "colorPaletteInEmbedToolbar": false,
+  "colorPaletteInEmbedToolbar": true,
   "quietColorPaletteTooltip": false,
   "showStatusInToolbar": true,
   "highlightColorSpecifiedOnly": false,
@@ -100,9 +70,9 @@
   "ignoreExistingMarkdownTabIn": [],
   "defaultColorPaletteActionIndex": 4,
   "syncColorPaletteAction": true,
-  "syncDefaultColorPaletteAction": false,
+  "syncDefaultColorPaletteAction": true,
   "proxyMDProperty": "PDF",
-  "hoverPDFLinkToOpen": false,
+  "hoverPDFLinkToOpen": true,
   "ignoreHeightParamInPopoverPreview": true,
   "filterBacklinksByPageDefault": true,
   "showBacklinkToPage": true,
@@ -113,78 +83,34 @@
   "enablePDFEdit": true,
   "author": "anton",
   "writeHighlightToFileOpacity": 0.2,
-  "defaultWriteFileToggle": false,
+  "defaultWriteFileToggle": true,
   "syncWriteFileToggle": true,
-  "syncDefaultWriteFileToggle": false,
+  "syncDefaultWriteFileToggle": true,
   "enableAnnotationDeletion": true,
   "warnEveryAnnotationDelete": false,
   "warnBacklinkedAnnotationDelete": true,
   "enableAnnotationContentEdit": true,
   "enableEditEncryptedPDF": false,
   "pdfLinkColor": "#04a802",
-  "pdfLinkBorder": false,
+  "pdfLinkBorder": true,
   "replaceContextMenu": true,
   "showContextMenuOnMouseUpIf": "Mod",
   "contextMenuConfig": [
-    {
-      "id": "action",
-      "visible": true
-    },
-    {
-      "id": "selection",
-      "visible": true
-    },
-    {
-      "id": "write-file",
-      "visible": true
-    },
-    {
-      "id": "annotation",
-      "visible": true
-    },
-    {
-      "id": "modify-annotation",
-      "visible": true
-    },
-    {
-      "id": "link",
-      "visible": true
-    },
-    {
-      "id": "text",
-      "visible": true
-    },
-    {
-      "id": "search",
-      "visible": true
-    },
-    {
-      "id": "speech",
-      "visible": true
-    },
-    {
-      "id": "page",
-      "visible": true
-    },
-    {
-      "id": "settings",
-      "visible": true
-    }
+    {"id": "action","visible": true},
+    {"id": "selection","visible": true},
+    {"id": "write-file","visible": true},
+    {"id": "annotation","visible": true},
+    {"id": "modify-annotation","visible": true},
+    {"id": "link","visible": true},
+    {"id": "text","visible": true},
+    {"id": "search","visible": true},
+    {"id": "speech","visible": true},
+    {"id": "page","visible": true},
+    {"id": "settings","visible": true}
   ],
-  "selectionProductMenuConfig": [
-    "color",
-    "copy-format",
-    "display"
-  ],
-  "writeFileProductMenuConfig": [
-    "color",
-    "copy-format",
-    "display"
-  ],
-  "annotationProductMenuConfig": [
-    "copy-format",
-    "display"
-  ],
+  "selectionProductMenuConfig": ["color","copy-format","display"],
+  "writeFileProductMenuConfig": ["color","copy-format","display"],
+  "annotationProductMenuConfig": ["color","copy-format","display"],
   "updateColorPaletteStateFromContextMenu": true,
   "mobileCopyAction": "pdf-plus",
   "showContextMenuOnTablet": false,
@@ -211,8 +137,8 @@
   "useCallout": true,
   "calloutType": "PDF",
   "calloutIcon": "highlighter",
-  "highlightBacklinksInEmbed": false,
-  "highlightBacklinksInHoverPopover": false,
+  "highlightBacklinksInEmbed": true,
+  "highlightBacklinksInHoverPopover": true,
   "highlightBacklinksInCanvas": true,
   "clickPDFInternalLinkWithModifierKey": true,
   "clickOutlineItemWithModifierKey": true,
@@ -271,11 +197,11 @@
   "rectEmbedResolution": 100,
   "includeColorWhenCopyingRectLink": true,
   "backlinkIconSize": 50,
-  "showBacklinkIconForSelection": false,
-  "showBacklinkIconForAnnotation": false,
+  "showBacklinkIconForSelection": true,
+  "showBacklinkIconForAnnotation": true,
   "showBacklinkIconForOffset": true,
-  "showBacklinkIconForRect": false,
-  "showBoundingRectForBacklinkedAnnot": false,
+  "showBacklinkIconForRect": true,
+  "showBoundingRectForBacklinkedAnnot": true,
   "hideReplyAnnotation": false,
   "hideStampAnnotation": false,
   "searchLinkHighlightAll": "true",
@@ -292,20 +218,15 @@
   "zoomLevelInputBoxInToolbar": true,
   "popoverPreviewOnExternalLinkHover": true,
   "actionOnCitationHover": "pdf-plus-bib-popover",
-  "enableBibInEmbed": false,
-  "enableBibInHoverPopover": false,
+  "enableBibInEmbed": true,
+  "enableBibInHoverPopover": true,
   "enableBibInCanvas": true,
   "citationIdPatterns": "^cite.\n^bib\\d+$",
   "copyAsSingleLine": true,
   "removeWhitespaceBetweenCJChars": true,
   "dummyFileFolderPath": "",
-  "externalURIPatterns": [
-    ".*\\.pdf$",
-    "https://arxiv.org/pdf/.*"
-  ],
-  "modifierToDropExternalPDFToCreateDummy": [
-    "Shift"
-  ],
+  "externalURIPatterns": [".*\\.pdf$","https://arxiv.org/pdf/.*"],
+  "modifierToDropExternalPDFToCreateDummy": ["Shift"],
   "vim": false,
   "vimrcPath": "",
   "vimVisualMotion": true,
@@ -313,8 +234,8 @@
   "vimLargerScrollSizeWhenZoomIn": true,
   "vimContinuousScrollSpeed": 1.2,
   "vimSmoothScroll": true,
-  "vimHlsearch": true,
-  "vimIncsearch": true,
+  "vimHlsearch": false,
+  "vimIncsearch": false,
   "enableVimInContextMenu": true,
   "enableVimOutlineMode": true,
   "vimSmoothOutlineMode": true,

@@ -30,10 +30,10 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 21,
-                "left": -17,
-                "top": 515,
-                "zoom": 0.9047741273100618
+                "page": 14,
+                "left": -11,
+                "top": 74,
+                "zoom": 1.4030920406998248
               },
               "icon": "lucide-file-text",
               "title": "elastic"
@@ -204,11 +204,11 @@
   "lastOpenFiles": [
     "Закладки.md",
     "elastic.pdf",
+    "Elastic.md",
     "Без названия.canvas",
     "Книги/Без названия.md",
     "Книги/Закладки.canvas",
     "Заметки.md",
-    "Elastic.md",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
     "Термины(Философии, история, искусства).md",
     "Тестирование_веб-API.pdf",
