@@ -14,13 +14,27 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 22,
+                "page": 29,
                 "left": -2,
-                "top": 191,
+                "top": 449,
                 "zoom": 0.7023477872303123
               },
               "icon": "lucide-file-text",
               "title": "elastic"
+            }
+          },
+          {
+            "id": "af9decfbc8a63fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -39,7 +53,8 @@
               "title": "elastic"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eecf4134feb8f787",
@@ -250,15 +265,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0943555770617ed1",
+  "active": "af9decfbc8a63fbd",
   "lastOpenFiles": [
     "elastic.pdf",
+    "conflict-files-obsidian-git.md",
+    "Мусор.md",
+    "/Мусор.md",
+    "Закладки.md",
     "Elastic.md",
     "/Закладки.md",
     "/elastic.pdf",
-    "Закладки.md",
     "Задачи.md",
-    "conflict-files-obsidian-git.md",
     "/conflict-files-obsidian-git.md",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
     "obsi_tasks.md",
