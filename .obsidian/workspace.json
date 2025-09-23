@@ -22,6 +22,22 @@
             }
           },
           {
+            "id": "bdb5014447907f09",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 26,
+                "left": -16,
+                "top": 597,
+                "zoom": 0.922031912459885
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
+            }
+          },
+          {
             "id": "3df3c0bca8982560",
             "type": "leaf",
             "state": {
@@ -31,7 +47,8 @@
               "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +207,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d261fd49f6cc56e6",
+  "active": "bdb5014447907f09",
   "lastOpenFiles": [
+    "Мусор.md",
     "Закладки.md",
     "elastic.pdf",
     "conflict-files-obsidian-git.md",
