@@ -11,16 +11,24 @@
             "id": "d261fd49f6cc56e6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "elastic.pdf",
-                "page": 23,
-                "left": -8,
-                "top": 418,
-                "zoom": 1.962725323218955
+                "aFile": ".obsidian/plugins/pdf-plus/data.json",
+                "bFile": ".obsidian/plugins/pdf-plus/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "elastic"
+              "icon": "diff",
+              "title": "Diff: data.json"
+            }
+          },
+          {
+            "id": "3df3c0bca8982560",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
