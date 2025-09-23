@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 37,
-                "left": -8,
-                "top": 274,
+                "page": 38,
+                "left": -65,
+                "top": 621,
                 "zoom": 1.962725323218955
               },
               "icon": "lucide-file-text",
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
