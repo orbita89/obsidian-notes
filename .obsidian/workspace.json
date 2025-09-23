@@ -11,14 +11,10 @@
             "id": "c33f6511f22c1c19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Тестирование_веб-API.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Тестирование_веб-API"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -180,7 +176,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c33f6511f22c1c19",
+  "active": "00f15020e023c866",
   "lastOpenFiles": [
     "Тестирование_веб-API.pdf",
     "Elasticsearch+для+разработчиков+индексирование,+ан.pdf",
