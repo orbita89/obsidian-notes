@@ -8,39 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3df3c0bca8982560",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 28,
-                "left": -16,
-                "top": 667,
-                "zoom": 0.922031912459885
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          },
-          {
             "id": "46d6ade8795029db",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 30,
-                "left": -16,
-                "top": 246,
-                "zoom": 0.922031912459885
+                "page": 25,
+                "left": 145,
+                "top": 665,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "elastic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,11 +182,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00f15020e023c866",
+  "active": "46d6ade8795029db",
   "lastOpenFiles": [
     "Закладки.md",
-    "conflict-files-obsidian-git.md",
     "elastic.pdf",
+    "conflict-files-obsidian-git.md",
     "Elastic.md",
     "Мусор.md",
     "Задачки домашние задание.md",
