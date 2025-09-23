@@ -4,43 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "1473bac15afd06f5",
+        "id": "74b7aa3c5e5977cb",
         "type": "tabs",
         "children": [
           {
-            "id": "c33f6511f22c1c19",
+            "id": "64c1c02898887799",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
                 "page": 20,
-                "left": -31,
-                "top": 504,
-                "zoom": 0.4778530607183404
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          },
-          {
-            "id": "0621139d73fa64a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 14,
-                "left": -11,
-                "top": 74,
-                "zoom": 1.4030920406998248
+                "left": -41,
+                "top": 384,
+                "zoom": 1.25
               },
               "icon": "lucide-file-text",
               "title": "elastic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +183,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0621139d73fa64a0",
+  "active": "64c1c02898887799",
   "lastOpenFiles": [
     "Закладки.md",
     "elastic.pdf",
