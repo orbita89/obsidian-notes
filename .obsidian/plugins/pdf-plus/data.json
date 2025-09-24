@@ -285,7 +285,7 @@
   "dontFitWidthWhenOpenPDFLink": true,
   "preserveCurrentLeftOffsetWhenOpenPDFLink": false,
   "defaultZoomValue": "90",
-  "scrollModeOnLoad": 1,
+  "scrollModeOnLoad": 0,
   "spreadModeOnLoad": 0,
   "usePageUpAndPageDown": true,
   "hoverableDropdownMenuInToolbar": true,

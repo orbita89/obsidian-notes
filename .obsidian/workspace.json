@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1f1e744a6e4c44",
+        "id": "fc60669cb17f458c",
         "type": "tabs",
         "children": [
           {
-            "id": "46d6ade8795029db",
+            "id": "3d002025157eff5f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
-                "page": 25,
-                "left": 145,
-                "top": 665,
+                "page": 22,
+                "left": -22,
+                "top": 667,
                 "zoom": 0.9
               },
               "icon": "lucide-file-text",
@@ -182,10 +182,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "46d6ade8795029db",
+  "active": "3d002025157eff5f",
   "lastOpenFiles": [
-    "Закладки.md",
     "elastic.pdf",
+    "Закладки.md",
     "conflict-files-obsidian-git.md",
     "Elastic.md",
     "Мусор.md",
