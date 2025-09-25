@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Размышление по задачам.md",
+                "file": "Мусор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Размышление по задачам"
+              "title": "Мусор"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "d93081b1efa3d394",
   "lastOpenFiles": [
-    "Задачи.md",
     "Размышление по задачам.md",
+    "Задачи.md",
     "elastic.pdf",
     "Закладки.md",
     "conflict-files-obsidian-git.md",
