@@ -11,16 +11,14 @@
             "id": "3d002025157eff5f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "elastic.pdf",
-                "page": 22,
-                "left": -22,
-                "top": 667,
-                "zoom": 0.9
+                "file": "Задачи.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "elastic"
+              "icon": "lucide-file",
+              "title": "Задачи"
             }
           }
         ]
