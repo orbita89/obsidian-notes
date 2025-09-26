@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мусор.md",
+                "file": "Задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мусор"
+              "title": "Задачи"
             }
           }
         ],
@@ -198,13 +198,13 @@
   },
   "active": "d93081b1efa3d394",
   "lastOpenFiles": [
+    "Мусор.md",
     "Размышление по задачам.md",
     "Задачи.md",
     "elastic.pdf",
     "Закладки.md",
     "conflict-files-obsidian-git.md",
     "Elastic.md",
-    "Мусор.md",
     "Задачки домашние задание.md",
     "Без названия.canvas",
     "Книги/Без названия.md",
