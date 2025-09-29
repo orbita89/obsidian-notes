@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проблемы/Dev/Проблемы и решения.md",
+                "file": "Задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проблемы и решения"
+              "title": "Задачи"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "d93081b1efa3d394",
   "lastOpenFiles": [
-    "Без названия.md",
     "Проблемы/Dev/Проблемы и решения.md",
+    "Без названия.md",
     "Задачи.md",
     "Проблемы/Dev",
     "Проблемы",
