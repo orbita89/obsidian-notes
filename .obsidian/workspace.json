@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +195,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d93081b1efa3d394",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
     "Проблемы/Dev/Проблемы и решения.md",
     "Работа/Заметки Optimax.md",
