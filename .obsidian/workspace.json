@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-09.md",
+                "file": "Работа/Хлам работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-09"
+              "title": "Хлам работа"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "b8ca8d0a8c3973a4",
   "lastOpenFiles": [
-    "Задачи.md",
     "2025-10-09.md",
+    "Задачи.md",
     "Работа/Заметки Optimax.md",
     "Работа/Хлам работа.md",
     "Без названия 2.md",
