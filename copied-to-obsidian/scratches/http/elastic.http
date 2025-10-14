@@ -1,0 +1,118 @@
+### /product
+GET https://{{elastic}}/v2/{{storeId}}/product/4911
+Accept: application/json
+
+<> 2025-10-07T140508.404.json
+<> 2025-10-07T140057.404.json
+<> 2025-10-07T135541.404.json
+<> 2025-10-02T012842.404.json
+<> 2025-09-29T174607.404.json
+<> 2025-09-29T174431.404.json
+<> 2025-09-29T174417.404.json
+<> 2025-09-29T173408.404.json
+<> 2025-09-29T170915.404.json
+<> 2025-09-29T170636.502.html
+<> 2025-09-29T161355.502.html
+<> 2025-09-29T135955.502.html
+<> 2025-09-29T135826.502.html
+
+
+### /products by category
+GET https://{{elastic}}/v2/{{storeId}}/products/3?q=wewr&enableReRanking=true&clickAnalytics=true
+Accept: application/json
+
+<> 2025-10-07T140524.200.json
+<> 2025-10-07T134718.200.json
+<> 2025-10-07T134234.200.json
+<> 2025-10-07T125621.200.json
+<> 2025-10-02T012938.404.html
+<> 2025-09-29T180726.200.json
+<> 2025-09-29T175121.200.json
+<> 2025-09-29T174422.200.json
+<> 2025-09-29T174355.200.json
+
+### /products
+GET https://{{elastic}}/v2/{{storeId}}/products
+Accept: application/json
+
+<> 2025-10-02T012948.404.html
+<> 2025-10-02T012943.404.html
+<> 2025-10-02T012858.200.json
+<> 2025-09-29T174620.200.json
+<> 2025-09-29T174538.200.json
+<> 2025-09-29T174249.200.json
+<> 2025-09-29T174159.502.html
+<> 2025-09-29T173457.200.json
+<> 2025-09-29T173432.404.html
+<> 2025-09-29T171112.200.json
+<> 2025-09-29T171056.502.html
+<> 2025-09-29T170933.200.json
+
+
+### 19. Products by field API v2 (POST)
+POST https://{{elastic}}/v2/{{storeId}}/products
+Content-Type: application/json
+
+{
+  "field": "value"
+}
+
+### 1. Index product
+GET https://{{elastic}}/admin/index-product
+Accept: application/json
+
+<> 2025-09-29T174448.401.json
+
+
+### 2. Change active index
+POST https://{{elastic}}/admin/change-active-index
+Content-Type: application/json
+
+{
+  "active": true
+}
+
+
+### 3. Delete index by name
+DELETE https://{{elastic}}/admin/index/{{indexName}}
+Accept: application/json
+
+
+### 4. Products by field (Admin)
+GET https://{{elastic}}/admin/{{storeId}}/products
+Accept: application/json
+
+
+### 5. Accessories (API v3)
+POST https://{{elastic}}/api/v3/accessories
+Content-Type: application/json
+
+{
+  "productId": 123
+}
+
+
+### 14. Filters API v2
+GET https://{{elastic}}/v2/{{storeId}}/filters
+Accept: application/json
+
+<> 2025-09-29T174615.500.json
+<> 2025-09-29T174505.500.json
+
+
+### 15. Filters by category API v2
+GET https://{{elastic}}/v2/{{storeId}}/filters/{{categoryId}}
+Accept: application/json
+
+### 17. Product by ID API v2
+GET https://{{elastic}}/v2/{{storeId}}/product/{{id}}
+Accept: application/json
+
+### 20. Search session ID
+GET https://{{elastic}}/v2/{{storeId}}/search-session-id/{{categoryId}}
+Accept: application/json
+
+
+### 21. Quiz search
+GET https://{{elastic}}/v2/{{storeId}}/quiz-search?q={{query}}
+Accept: application/json

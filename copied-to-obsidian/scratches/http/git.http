@@ -1,0 +1,18 @@
+### Get current branch for project
+GET {{gitlabApi}}/projects/47537319/repository/branches
+PRIVATE-TOKEN: {{gitlabToken}}
+
+<> 2025-10-09T182534.200.json
+<> 2025-09-29T182243.200.json
+<> 2025-09-29T182119.404.json
+<> 2025-09-29T182045.404.json
+<> 2025-09-29T181333.404.json
+
+###
+GET {{gitlabApi}}/projects/optimax%2Fbackend%2Fmicroservices%2Fwishlist/repository/branches/UVP-16458-wishlist-ms-extend-api-allow-remove-list-of-products-from-wishlist
+PRIVATE-TOKEN: {{gitlabToken}}
+
+<> 2025-10-02T012757.200.json
+<> 2025-09-29T183214.200.json
+<> 2025-09-29T182753.404.json
+<> 2025-09-29T182523.200.json
