@@ -1,0 +1,11 @@
+
+#Скопируй дефолтные конфиги в свою папку
+
+ranger --copy-config=all
+
+#Скопировать дефолтные конфиги в свою папку
+
+mkdir -p ~/.config/ranger
+cp /usr/share/doc/ranger/config/rc.conf ~/.config/ranger/
+cp /usr/share/doc/ranger/config/rifle.conf ~/.config/ranger/
+cp /usr/share/doc/ranger/config/scope.sh ~/.config/ranger/

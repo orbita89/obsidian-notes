@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи.md",
+                "file": "Seting_OC_instal/README_UBUNTU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "README_UBUNTU"
             }
           }
         ],
@@ -224,31 +224,33 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b8ca8d0a8c3973a4",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
+    "Задачи.md",
+    "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
+    "Seting_OC_instal/terminal/oh_my_zsh/install_info",
+    "Seting_OC_instal/terminal/ranger/scope.sh",
+    "Seting_OC_instal/terminal/ranger/rifle.conf",
+    "Seting_OC_instal/terminal/ranger/rc.conf",
+    "Seting_OC_instal/terminal/ranger/ranger_config",
+    "Seting_OC_instal/terminal/ranger/commands_full.py",
+    "Seting_OC_instal/terminal/ranger/commands.py",
+    "Seting_OC_instal/terminal/ranger",
+    "Seting_OC_instal/terminal/oh_my_zsh",
+    "Seting_OC_instal/README.md",
+    "Seting_OC_instal/README_UBUNTU.md",
     "Закладки.md",
     "Задачки домашние задание.md",
-    "Задачи.md",
     "Работа/Хлам работа.md",
-    "copied-to-obsidian/scratches/index.http",
     "copied-to-obsidian/scratches/elasticsearch.md",
     "copied-to-obsidian/scratches/symfony.md",
     "copied-to-obsidian/scratches/redis.md",
     "copied-to-obsidian/scratches/kubectl_and_cloud.md",
     "copied-to-obsidian/scratches/docker.md",
     "copied-to-obsidian/scratches/alias.md",
-    "copied-to-obsidian/scratches/docker_reset_up.sh",
-    "copied-to-obsidian/scratches/rest-api.http",
     "copied-to-obsidian/scratches/scratch.md",
     "copied-to-obsidian/scratches/magento-admin.md",
-    "copied-to-obsidian/scratches/generated-requests.http",
     "copied-to-obsidian/scratches/linux.md",
-    "copied-to-obsidian/scratches/http/http-client.private.env.json",
-    "copied-to-obsidian/scratches/http/http-client.env.json",
-    "copied-to-obsidian/scratches/http/git.http",
-    "copied-to-obsidian/scratches/http/elastic.http",
-    "copied-to-obsidian/scratches/http",
-    "copied-to-obsidian/scratches",
     "scripts-linux/scratches/http/sfsfsd.md",
     "Работа/Заметки Optimax.md",
     "2025-10-09.md",
@@ -260,9 +262,7 @@
     "Мусор.md",
     "Размышление по задачам.md",
     "conflict-files-obsidian-git.md",
-    "Elastic.md",
     "Без названия.canvas",
-    "Книги/Без названия.md",
     "Книги/Закладки.canvas"
   ]
 }
