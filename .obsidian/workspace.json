@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи.md",
+                "file": "Seting_OC_instal/README_UBUNTU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "README_UBUNTU"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9865416a954910",
@@ -226,8 +227,9 @@
   },
   "active": "b8ca8d0a8c3973a4",
   "lastOpenFiles": [
-    "Seting_OC_instal/README_UBUNTU.md",
+    "copied-to-obsidian/scratches/http/elastic.http~",
     "Задачи.md",
+    "Seting_OC_instal/README_UBUNTU.md",
     "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
     "Seting_OC_instal/terminal/oh_my_zsh/install_info",
     "Seting_OC_instal/terminal/ranger/scope.sh",
