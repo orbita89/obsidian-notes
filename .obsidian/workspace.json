@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Хлам работа.md",
+                "file": "Задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хлам работа"
+              "title": "Задачи"
             }
           }
         ],
@@ -225,6 +225,7 @@
   },
   "active": "b8ca8d0a8c3973a4",
   "lastOpenFiles": [
+    "Работа/Хлам работа.md",
     "copied-to-obsidian/scratches/index.http",
     "copied-to-obsidian/scratches/elasticsearch.md",
     "copied-to-obsidian/scratches/symfony.md",
@@ -244,9 +245,7 @@
     "copied-to-obsidian/scratches/http/elastic.http",
     "copied-to-obsidian/scratches/http",
     "copied-to-obsidian/scratches",
-    "copied-to-obsidian/bin/warp_on_top.sh",
     "scripts-linux/scratches/http/sfsfsd.md",
-    "Работа/Хлам работа.md",
     "Задачи.md",
     "Работа/Заметки Optimax.md",
     "2025-10-09.md",
