@@ -206,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +223,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "b8ca8d0a8c3973a4",
   "lastOpenFiles": [
     "copied-to-obsidian/scratches/index.http",
     "copied-to-obsidian/scratches/elasticsearch.md",
