@@ -1,84 +1,41 @@
 {
   "main": {
-    "id": "432e89a114db4789",
+    "id": "17611d74eac1e319",
     "type": "split",
     "children": [
       {
-        "id": "fc60669cb17f458c",
+        "id": "ce491a753bb04b78",
         "type": "tabs",
         "children": [
           {
-            "id": "3d002025157eff5f",
+            "id": "39c367d2d59cd23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи.md",
+                "file": "Elastic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
-            }
-          },
-          {
-            "id": "d93081b1efa3d394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа/Заметки Optimax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Заметки Optimax"
-            }
-          },
-          {
-            "id": "0a59fe648dda67d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа/Заметки Optimax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Заметки Optimax"
-            }
-          },
-          {
-            "id": "b8ca8d0a8c3973a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seting_OC_instal/README_UBUNTU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README_UBUNTU"
+              "title": "Elastic"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fe111c168e119bba",
+    "id": "d6d2807c9e84c76c",
     "type": "split",
     "children": [
       {
-        "id": "763d5d367b62d045",
+        "id": "fa637ae0f157a45e",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2669d907cb20bd",
+            "id": "b019366b9d6075f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,14 +46,20 @@
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a5c7b3212b6bcadb",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9533e7f593e65e48",
+            "id": "629566c263add193",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Поиск",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,36 +71,36 @@
             }
           },
           {
-            "id": "734c9a93ae096fda",
+            "id": "28f9869f9d7bfb52",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 545.5110321044922
   },
   "right": {
-    "id": "ad9865416a954910",
+    "id": "41a092a964fd2ce0",
     "type": "split",
     "children": [
       {
-        "id": "eb92cacca330b841",
+        "id": "7233e6164accfb34",
         "type": "tabs",
         "children": [
           {
-            "id": "d74d740f64ad3067",
+            "id": "260640e359091e43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Философия цель на год.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,24 +110,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Обратные ссылки для Философия цель на год"
             }
           },
           {
-            "id": "f5e83c7da6da0bd1",
+            "id": "34157dc0852e229f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Философия цель на год.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Философия цель на год"
+            }
+          },
+          {
+            "id": "f27b1d5176bf10a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки из Без названия"
             }
           },
           {
-            "id": "f32cf826ac827c49",
+            "id": "040869fb973a1b0b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,25 +154,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "acb226224bba9734",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "00f15020e023c866",
+            "id": "caa6973b3cac3f07",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -207,63 +172,59 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 805.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8ca8d0a8c3973a4",
+  "active": "39c367d2d59cd23e",
   "lastOpenFiles": [
-    "copied-to-obsidian/scratches/http/elastic.http~",
-    "Задачи.md",
-    "Seting_OC_instal/README_UBUNTU.md",
-    "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
-    "Seting_OC_instal/terminal/oh_my_zsh/install_info",
-    "Seting_OC_instal/terminal/ranger/scope.sh",
-    "Seting_OC_instal/terminal/ranger/rifle.conf",
-    "Seting_OC_instal/terminal/ranger/rc.conf",
-    "Seting_OC_instal/terminal/ranger/ranger_config",
-    "Seting_OC_instal/terminal/ranger/commands_full.py",
-    "Seting_OC_instal/terminal/ranger/commands.py",
-    "Seting_OC_instal/terminal/ranger",
-    "Seting_OC_instal/terminal/oh_my_zsh",
-    "Seting_OC_instal/README.md",
-    "Закладки.md",
-    "Задачки домашние задание.md",
-    "Работа/Хлам работа.md",
-    "copied-to-obsidian/scratches/elasticsearch.md",
-    "copied-to-obsidian/scratches/symfony.md",
-    "copied-to-obsidian/scratches/redis.md",
-    "copied-to-obsidian/scratches/kubectl_and_cloud.md",
-    "copied-to-obsidian/scratches/docker.md",
-    "copied-to-obsidian/scratches/alias.md",
-    "copied-to-obsidian/scratches/scratch.md",
-    "copied-to-obsidian/scratches/magento-admin.md",
-    "copied-to-obsidian/scratches/linux.md",
-    "scripts-linux/scratches/http/sfsfsd.md",
-    "Работа/Заметки Optimax.md",
-    "2025-10-09.md",
-    "Без названия 2.md",
-    "Без названия 1.md",
-    "Без названия.md",
-    "Работа/Без названия.canvas",
-    "Проблемы/Dev/Проблемы и решения.md",
-    "Мусор.md",
+    "Заметки.md",
+    "Термины(Философии, история, искусства).md",
+    "Скопированые файлы/warp_on_top.sh",
+    "Скопированые файлы/startup_apps.sh",
+    "Скопированые файлы/fix-keymap.sh",
+    "Скопированые файлы",
     "Размышление по задачам.md",
-    "conflict-files-obsidian-git.md",
-    "Без названия.canvas",
-    "Книги/Закладки.canvas"
+    "Работа/Хлам работа.md",
+    "Работа/Заметки Optimax.md",
+    "Работа",
+    "Проблемы/Dev/Проблемы и решения.md",
+    "Проблемы/Dev",
+    "Проблемы",
+    "Мусор.md",
+    "Закладки.md",
+    "obsi_tasks.md",
+    "elastic.pdf",
+    "copied-to-obsidian",
+    "Seting_OC_instal/terminal/ranger/scope.sh",
+    "Seting_OC_instal/README_UBUNTU.md",
+    "Seting_OC_instal/README.md",
+    "Краткое самое важное прохождение собеседование.md",
+    "Задачки домашние задание.md",
+    "2025-06-03.md",
+    "Задачи.md",
+    "Структурные патерны.md",
+    "СЛОВА.md",
+    "Термин.md",
+    "Философия цель на год.md",
+    "Elastic.md",
+    "dfsfsfsf.md",
+    "dsasda.canvas",
+    "Порождающие паттерны.md",
+    "Подробное прохождение собеседование.md",
+    "pdf.md",
+    "Добро пожаловать.md",
+    "Как мне дальше жить.md"
   ]
 }
