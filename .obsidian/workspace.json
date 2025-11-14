@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,14 +239,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a098561ebbdda2f3",
+  "active": "d93081b1efa3d394",
   "lastOpenFiles": [
-    "Задачи.md",
     "Работа/Заметки Optimax.md",
+    "Seting_OC_instal/README_UBUNTU.md",
     "Без названия.md",
+    "Задачи.md",
     "copied-to-obsidian/scratches/http/elastic.http~",
     "Мусор.md",
-    "Seting_OC_instal/README_UBUNTU.md",
     "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
     "Seting_OC_instal/terminal/oh_my_zsh/install_info",
     "Seting_OC_instal/terminal/ranger/scope.sh",
