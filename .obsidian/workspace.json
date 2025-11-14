@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,11 +225,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d93081b1efa3d394",
+  "active": "0a59fe648dda67d8",
   "lastOpenFiles": [
+    "Задачи.md",
     "copied-to-obsidian/scratches/http/elastic.http~",
     "Мусор.md",
-    "Задачи.md",
     "Работа/Заметки Optimax.md",
     "Seting_OC_instal/README_UBUNTU.md",
     "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
