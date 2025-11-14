@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +239,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a098561ebbdda2f3",
+  "active": "d93081b1efa3d394",
   "lastOpenFiles": [
-    "Без названия.md",
     "Работа/Заметки Optimax.md",
+    "Без названия.md",
     "Задачи.md",
     "copied-to-obsidian/scratches/http/elastic.http~",
     "Мусор.md",
