@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seting_OC_instal/README_UBUNTU.md",
+                "file": "Seting_OC_instal/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README_UBUNTU"
+              "title": "README"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -239,12 +238,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d93081b1efa3d394",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
-    "Работа/Заметки Optimax.md",
     "Seting_OC_instal/README_UBUNTU.md",
-    "Без названия.md",
     "Задачи.md",
+    "Работа/Заметки Optimax.md",
+    "Без названия.md",
     "copied-to-obsidian/scratches/http/elastic.http~",
     "Мусор.md",
     "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
