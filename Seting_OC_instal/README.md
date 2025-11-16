@@ -117,3 +117,6 @@ PRIORITY=100
 `cat /proc/sys/vm/swappiness cat /proc/sys/vm/vfs_cache_pressure`
 
 https://theresanaiforthat.com/
+
+
+php-class-diagram - выстраивания диаграмм
