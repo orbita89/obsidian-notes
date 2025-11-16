@@ -120,3 +120,8 @@ https://theresanaiforthat.com/
 
 
 php-class-diagram - выстраивания диаграмм
+
+php-class-diagram ~/docker/src/backend/microservices/elastic/src/Service \
+  > service.puml && plantuml -tsvg service.puml
+  > 
+   -   -     команда которая запускает схему классов
