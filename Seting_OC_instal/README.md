@@ -137,3 +137,10 @@ https://www.jetbrains.com/help/phpstorm/viewing-structure-and-hierarchy-of-the-s
 
 
 pieces разобраться, оптимизировать. если возможно 
+
+
+ссылки: которые не вошли в закладки
+https://code-basics.com/ru  - курс
+https://www.codechef.com/learn - курс
+https://stepik.org/users/441139505/profile  - профиль степик который каждый день решает куча задач
+https://stepik.org/users/297214247/profile - еще один профиль
