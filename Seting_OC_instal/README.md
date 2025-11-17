@@ -131,3 +131,6 @@ php-class-diagram ~/docker/src/backend/microservices/elastic/src/Service \
 
 phpMetric
 
+
+https://www.jetbrains.com/help/phpstorm/viewing-structure-and-hierarchy-of-the-source-code.html
+
