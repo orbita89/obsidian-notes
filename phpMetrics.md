@@ -197,3 +197,37 @@
     
 
 ---
+-Xmx4096m
+-XX:JbrShrinkingGcMaxHeapFreeRatio=40
+-XX:+UseLargePages
+-XX:LargePageSizeInBytes=2m
+-XX:+UseTransparentHugePages
+-XX:+UseG1GC
+-XX:MaxGCPauseMillis=200
+-XX:InitiatingHeapOccupancyPercent=45
+-XX:G1HeapRegionSize=16m
+-XX:ReservedCodeCacheSize=512m
+-XX:InitialCodeCacheSize=256m
+-XX:CICompilerCount=2
+-XX:+AlwaysPreTouch
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-XX:+UnlockDiagnosticVMOptions
+-XX:+IgnoreUnrecognizedVMOptions
+-ea
+-Dsun.io.useCanonCaches=false
+-Dsun.java2d.opengl=false
+-Dsun.java2d.uiScale.enabled=false 
+-Dsun.java2d.metal=true
+-Djbr.catch.SIGABRT=true
+-Djdk.tls.client.protocols=TLSv1.3
+-Djdk.attach.allowAttachSelf=true
+-Djdk.module.illegalAccess.silent=true
+-Dkotlinx.coroutines.debug=off
+-Djava.util.zip.use.nio.for.zip.file.access=true
+-Dsun.tools.attach.tmp.only=true
+-Dawt.lock.fair=true
+-Didea.max.intellisense.filesize=2500
+-Didea.max.content.load.size=50m
+-Dsun.net.spi.nameservice.nameservers=10.254.254.1,8.8.8.8
+-Dsun.net.spi.nameservice.provider.1=dns,sun
