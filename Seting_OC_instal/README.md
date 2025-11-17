@@ -150,3 +150,6 @@ https://mascloud.ru/category/arch/ - документация arch
 https://medium.com/@eda.kacmaz/a-cheat-sheet-for-practical-elasticsearch-queries-5e180449e20a  - документация шпаргалка по эластику
 
 https://docs.pieces.app/ - Документация
+
+
+https://www.canidev.tools/?category=CSS - DevTools/браузер/инструменты
