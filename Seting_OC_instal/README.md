@@ -144,3 +144,9 @@ https://code-basics.com/ru  - курс
 https://www.codechef.com/learn - курс
 https://stepik.org/users/441139505/profile  - профиль степик который каждый день решает куча задач
 https://stepik.org/users/297214247/profile - еще один профиль
+
+https://mascloud.ru/category/arch/ - документация arch
+
+https://medium.com/@eda.kacmaz/a-cheat-sheet-for-practical-elasticsearch-queries-5e180449e20a  - документация шпаргалка по эластику
+
+https://docs.pieces.app/ - Документация
