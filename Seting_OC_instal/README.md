@@ -134,3 +134,6 @@ phpMetric
 
 https://www.jetbrains.com/help/phpstorm/viewing-structure-and-hierarchy-of-the-source-code.html
 
+
+
+pieces разобраться, оптимизировать. если возможно 
