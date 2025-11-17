@@ -128,3 +128,4 @@ php-class-diagram ~/docker/src/backend/microservices/elastic/src/Service \
      
 
 phpMetric
+

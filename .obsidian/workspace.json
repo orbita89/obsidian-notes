@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,14 +252,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "73d7b94daa6412f8",
+  "active": "a098561ebbdda2f3",
   "lastOpenFiles": [
+    "Seting_OC_instal/README.md",
+    "Без названия.md",
+    "Работа/Заметки Optimax.md",
     "Seting_OC_instal/README_UBUNTU.md",
     "phpMetrics.md",
-    "Seting_OC_instal/README.md",
     "Задачи.md",
-    "Работа/Заметки Optimax.md",
-    "Без названия.md",
     "copied-to-obsidian/scratches/http/elastic.http~",
     "Мусор.md",
     "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
