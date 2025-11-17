@@ -124,6 +124,8 @@ php-class-diagram - выстраивания диаграмм
 php-class-diagram ~/docker/src/backend/microservices/elastic/src/Service \
   > service.puml && plantuml -tsvg service.puml
   > 
+  > phpmetrics --report-html=report.html ~/docker/src/backend/microservices/elastic/src
+  > 
    -   -     команда которая запускает схему классов
      
 
