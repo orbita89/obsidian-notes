@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,10 +252,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a098561ebbdda2f3",
+  "active": "73d7b94daa6412f8",
   "lastOpenFiles": [
-    "Seting_OC_instal/README.md",
     "Без названия.md",
+    "Seting_OC_instal/README.md",
     "Работа/Заметки Optimax.md",
     "Seting_OC_instal/README_UBUNTU.md",
     "phpMetrics.md",
