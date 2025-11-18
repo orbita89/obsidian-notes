@@ -95,14 +95,18 @@
             "id": "dbc579217d316090",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Без названия 1"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,8 +266,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dbc579217d316090",
+  "active": "73d7b94daa6412f8",
   "lastOpenFiles": [
+    "Без названия 1.md",
     "Seting_OC_instal/README.md",
     "Задачи.md",
     "Работа/Заметки Optimax.md",
