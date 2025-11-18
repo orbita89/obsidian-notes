@@ -90,9 +90,19 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "dbc579217d316090",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,11 +262,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "73d7b94daa6412f8",
+  "active": "dbc579217d316090",
   "lastOpenFiles": [
+    "Seting_OC_instal/README.md",
     "Задачи.md",
     "Работа/Заметки Optimax.md",
-    "Seting_OC_instal/README.md",
     "Без названия.md",
     "Seting_OC_instal/README_UBUNTU.md",
     "phpMetrics.md",
