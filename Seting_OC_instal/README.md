@@ -158,3 +158,14 @@ https://www.canidev.tools/?category=CSS - DevTools/браузер/инструм
 Разобраться как мы отправляем через кафку сообщение допустим на реиндексе продукта
 
 Срочно по рабоать с  самым лучшем инструменотм для разработчиков debug
+
+
+SELECT 
+    object_schema,
+    object_name,
+    count_read,
+    count_write,
+    sum_timer_read / 1000000000000 AS read_sec,
+    sum_timer_write / 1000000000000 AS write_sec
+FROM performance_schema.table_io_waits_summary_by_table
+ORDER BY (count_read + count_write) DESC;
