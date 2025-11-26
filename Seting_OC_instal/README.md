@@ -169,3 +169,6 @@ SELECT
     sum_timer_write / 1000000000000 AS write_sec
 FROM performance_schema.table_io_waits_summary_by_table
 ORDER BY (count_read + count_write) DESC;
+
+
+

@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seting_OC_instal/README.md",
+                "file": "Задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Задачи"
             }
           },
           {
@@ -268,8 +268,8 @@
   },
   "active": "73d7b94daa6412f8",
   "lastOpenFiles": [
-    "Без названия 1.md",
     "Seting_OC_instal/README.md",
+    "Без названия 1.md",
     "Задачи.md",
     "Работа/Заметки Optimax.md",
     "Без названия.md",
