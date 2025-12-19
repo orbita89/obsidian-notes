@@ -1,0 +1,10 @@
+##Миграция symfony
+
+php -f shell/indexer.php -- --reindex elasticsearch_product_indexer
+
+php shell/cache.php --flush --type all
+
+bin/console doctrine:migrations:execute DoctrineMigrations\\Main\\Catalog\\Version202511281500123 --up --no-interaction
+
+
+XDEBUG_MODE=debug PHP_IDE_CONFIG="serverName=admin.glassesusa.dev" php -d xdebug.start_with_request=yes bin/console doctrine:migrations:execute DoctrineMigrations\\Main\\Catalog\\Version20251118130200 --up
