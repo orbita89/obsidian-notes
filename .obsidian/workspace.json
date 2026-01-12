@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи OPTIMAX.md",
+                "file": "Краткое самое важное прохождение собеседование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи OPTIMAX"
+              "title": "Краткое самое важное прохождение собеседование"
             }
           }
         ],
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
