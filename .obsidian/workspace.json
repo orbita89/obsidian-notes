@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Краткое самое важное прохождение собеседование"
             }
+          },
+          {
+            "id": "bf177194ce09289f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа Optimax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа Optimax"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,8 +266,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f07f4f6cbb21c3ae",
+  "active": "bf177194ce09289f",
   "lastOpenFiles": [
+    "Краткое самое важное прохождение собеседование.md",
+    "Работа Optimax.md",
+    "Без названия",
     "Задачи OPTIMAX.md",
     "Задачи.md",
     "copied-to-obsidian/git.md",
@@ -274,7 +291,6 @@
     "Seting_OC_instal/terminal/ranger/ranger_config",
     "Seting_OC_instal/terminal/ranger/commands_full.py",
     "Seting_OC_instal/terminal/ranger/commands.py",
-    "Seting_OC_instal/terminal/ranger",
     "Закладки.md",
     "Задачки домашние задание.md",
     "Работа/Хлам работа.md",
@@ -288,9 +304,7 @@
     "copied-to-obsidian/scratches/magento-admin.md",
     "copied-to-obsidian/scratches/linux.md",
     "scripts-linux/scratches/http/sfsfsd.md",
-    "2025-10-09.md",
     "Работа/Без названия.canvas",
-    "Проблемы/Dev/Проблемы и решения.md",
     "Без названия.canvas",
     "Книги/Закладки.canvas"
   ]
