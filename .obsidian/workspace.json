@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Краткое самое важное прохождение собеседование.md",
+                "file": "Задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Краткое самое важное прохождение собеседование"
+              "title": "Задачи"
             }
           },
           {
@@ -268,8 +268,8 @@
   },
   "active": "f07f4f6cbb21c3ae",
   "lastOpenFiles": [
-    "Работа Optimax.md",
     "Краткое самое важное прохождение собеседование.md",
+    "Работа Optimax.md",
     "Без названия",
     "Задачи OPTIMAX.md",
     "Задачи.md",
