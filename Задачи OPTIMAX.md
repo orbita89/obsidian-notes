@@ -12,4 +12,5 @@ Elastic:
 	11. # [GUSA-100821](https://optimaxdev.atlassian.net/browse/GUSA-100821?atlOrigin=eyJpIjoiY2QyZTJiZDRkNGZhNGZlMWI3NzRkNTBmZmVlNzNiZTkiLCJwIjoianN3LWdpdGxhYi1pbnQifQ "Issue in Jira issues")-invalid-store-id-provided. Обновил store-bundle.
 magento-admin
 	12. # [GUSA-76121](https://optimaxdev.atlassian.net/browse/GUSA-76121?atlOrigin=eyJpIjoiY2QyZTJiZDRkNGZhNGZlMWI3NzRkNTBmZmVlNzNiZTkiLCJwIjoianN3LWdpdGxhYi1pbnQifQ)-DY Add Capri and Eight to Eighty brands into feed (as out of stock items). DY
-	13. 
+Wishlist
+	13. Обновления с php83 

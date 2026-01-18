@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи.md",
+                "file": "Задачи OPTIMAX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "Задачи OPTIMAX"
             }
           },
           {
@@ -268,11 +268,11 @@
   },
   "active": "f07f4f6cbb21c3ae",
   "lastOpenFiles": [
+    "Задачи.md",
     "Краткое самое важное прохождение собеседование.md",
     "Работа Optimax.md",
     "Без названия",
     "Задачи OPTIMAX.md",
-    "Задачи.md",
     "copied-to-obsidian/git.md",
     "git.md",
     "Seting_OC_instal/README.md",
