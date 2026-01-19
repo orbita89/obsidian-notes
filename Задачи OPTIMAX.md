@@ -12,6 +12,7 @@ Elastic:
 	11. # [GUSA-100821](https://optimaxdev.atlassian.net/browse/GUSA-100821?atlOrigin=eyJpIjoiY2QyZTJiZDRkNGZhNGZlMWI3NzRkNTBmZmVlNzNiZTkiLCJwIjoianN3LWdpdGxhYi1pbnQifQ "Issue in Jira issues")-invalid-store-id-provided. Обновил store-bundle.
 magento-admin
 	12. # [GUSA-76121](https://optimaxdev.atlassian.net/browse/GUSA-76121?atlOrigin=eyJpIjoiY2QyZTJiZDRkNGZhNGZlMWI3NzRkNTBmZmVlNzNiZTkiLCJwIjoianN3LWdpdGxhYi1pbnQifQ)-DY Add Capri and Eight to Eighty brands into feed (as out of stock items). DY
-	13. # [GUSA-104392](https://optimaxdev.atlassian.net/browse/GUSA-104392?atlOrigin=eyJpIjoiY2QyZTJiZDRkNGZhNGZlMWI3NzRkNTBmZmVlNzNiZTkiLCJwIjoianN3LWdpdGxhYi1pbnQifQ "Issue in Jira issues")-magento-admin-change-the-logic-for-updating-attributes-by-table-du... Обновил форму c помошью продукта взял дефолтные значения  и по какому принципу обновляеться продукт (глобально и стору)Subscribtion.php
+	13. # [GUSA-104392](https://optimaxdev.atlassian.net/browse/GUSA-104392?atlOrigin=eyJpIjoiY2QyZTJiZDRkNGZhNGZlMWI3NzRkNTBmZmVlNzNiZTkiLCJwIjoianN3LWdpdGxhYi1pbnQifQ "Issue in Jira issues")-magento-admin-change-the-logic-for-updating-attributes-by-table-du... Обновил форму c помошью продукта взял дефолтные значения  и по какому принципу обновляеться продукт (глобально и стору)Subscribtion.php.  Именно это поле добавляет все нужные мне атрибуты такие как - scope (Global / Website / Store)- Use Default- label + tooltip- disabled для store view
+- required логика
 Wishlist
-	14. Обновления с php83 
+	14. Обновления с php83 трибуты 
