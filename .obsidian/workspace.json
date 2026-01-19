@@ -97,15 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа Optimax.md",
+                "file": "Задачи OPTIMAX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа Optimax"
+              "title": "Задачи OPTIMAX"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -266,12 +266,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d93081b1efa3d394",
+  "active": "bf177194ce09289f",
   "lastOpenFiles": [
-    "Задачи OPTIMAX.md",
-    "Задачи.md",
-    "Краткое самое важное прохождение собеседование.md",
     "Работа Optimax.md",
+    "Задачи.md",
+    "Задачи OPTIMAX.md",
+    "Краткое самое важное прохождение собеседование.md",
     "Без названия",
     "copied-to-obsidian/git.md",
     "git.md",
