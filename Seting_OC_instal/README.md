@@ -7,7 +7,7 @@
 
 🔹 Основные приложения:
 
-🛡 Hiddify (VPN)
+🛡 Hiddify (VPN) 
 
 💬 Telegram (мессенджер)
 
