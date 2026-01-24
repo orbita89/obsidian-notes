@@ -25,14 +25,31 @@
             "id": "fcccd70f7f26c710",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "60aad4cdb960a007",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи.md",
+                "file": "Краткое самое важное прохождение собеседование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "Краткое самое важное прохождение собеседование"
             }
           },
           {
@@ -88,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Все",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5110321044922,
-    "collapsed": true
+    "width": 545.5110321044922
   },
   "right": {
     "id": "41a092a964fd2ce0",
@@ -130,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Философия цель на год.md",
+                "file": "Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Философия цель на год"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -149,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Философия цель на год.md",
+                "file": "Без названия.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Философия цель на год"
+              "title": "Структура Без названия"
             }
           },
           {
@@ -198,12 +214,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 805.5,
-    "collapsed": true
+    "width": 805.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcccd70f7f26c710",
+  "active": "629566c263add193",
   "lastOpenFiles": [
+    "Задачи.md",
+    "Без названия.canvas",
     "Краткое самое важное прохождение собеседование.md",
     "Задачки домашние задание.md",
-    "Задачи.md",
     "Задачи OPTIMAX.md",
     "Elastic.md",
     "Работа Optimax.md",
@@ -257,7 +273,6 @@
     "Seting_OC_instal/README_UBUNTU.md",
     "Seting_OC_instal/README.md",
     "2025-06-03.md",
-    "Структурные патерны.md",
     "dsasda.canvas"
   ]
 }
