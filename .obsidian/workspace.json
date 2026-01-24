@@ -1,28 +1,28 @@
 {
   "main": {
-    "id": "432e89a114db4789",
+    "id": "17611d74eac1e319",
     "type": "split",
     "children": [
       {
-        "id": "fc60669cb17f458c",
+        "id": "ce491a753bb04b78",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ca8d0a8c3973a4",
+            "id": "a5d29db6ed63b53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Краткое самое важное прохождение собеседование.md",
+                "file": "Задачки домашние задание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Краткое самое важное прохождение собеседование"
+              "title": "Задачки домашние задание"
             }
           },
           {
-            "id": "a098561ebbdda2f3",
+            "id": "fcccd70f7f26c710",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,34 +34,6 @@
               "icon": "lucide-file",
               "title": "Задачи"
             }
-          },
-          {
-            "id": "dbc579217d316090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 1"
-            }
-          },
-          {
-            "id": "f07f4f6cbb21c3ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задачи OPTIMAX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задачи OPTIMAX"
-            }
           }
         ],
         "currentTab": 1
@@ -70,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fe111c168e119bba",
+    "id": "d6d2807c9e84c76c",
     "type": "split",
     "children": [
       {
-        "id": "763d5d367b62d045",
+        "id": "fa637ae0f157a45e",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2669d907cb20bd",
+            "id": "b019366b9d6075f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,9 +61,15 @@
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a5c7b3212b6bcadb",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9533e7f593e65e48",
+            "id": "629566c263add193",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,35 +86,37 @@
             }
           },
           {
-            "id": "734c9a93ae096fda",
+            "id": "28f9869f9d7bfb52",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 545.5110321044922,
+    "collapsed": true
   },
   "right": {
-    "id": "ad9865416a954910",
+    "id": "41a092a964fd2ce0",
     "type": "split",
     "children": [
       {
-        "id": "eb92cacca330b841",
+        "id": "7233e6164accfb34",
         "type": "tabs",
         "children": [
           {
-            "id": "d74d740f64ad3067",
+            "id": "260640e359091e43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Философия цель на год.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,24 +126,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Обратные ссылки для Философия цель на год"
             }
           },
           {
-            "id": "f5e83c7da6da0bd1",
+            "id": "34157dc0852e229f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Философия цель на год.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Философия цель на год"
+            }
+          },
+          {
+            "id": "f27b1d5176bf10a1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки из Без названия"
             }
           },
           {
-            "id": "f32cf826ac827c49",
+            "id": "040869fb973a1b0b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -174,25 +170,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "acb226224bba9734",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "00f15020e023c866",
+            "id": "caa6973b3cac3f07",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -206,64 +188,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 805.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a098561ebbdda2f3",
+  "active": "fcccd70f7f26c710",
   "lastOpenFiles": [
+    "Задачи OPTIMAX.md",
+    "Задачки домашние задание.md",
+    "Elastic.md",
+    "Работа Optimax.md",
+    "phpMetrics.md",
+    "Задачи.md",
     "Без названия.md",
     "Без названия 1.md",
-    "Задачи OPTIMAX.md",
+    "git.md",
+    "copied-to-obsidian/symfony.md",
+    "copied-to-obsidian/magento.txt",
+    "copied-to-obsidian/git.md",
+    "copied-to-obsidian/docker.md",
+    "Закладки.md",
+    "Заметки.md",
+    "Термины(Философии, история, искусства).md",
+    "Скопированые файлы/warp_on_top.sh",
+    "Скопированые файлы/startup_apps.sh",
+    "Скопированые файлы/fix-keymap.sh",
+    "Скопированые файлы",
+    "Размышление по задачам.md",
+    "Работа/Хлам работа.md",
+    "Работа/Заметки Optimax.md",
+    "Работа",
+    "Проблемы/Dev/Проблемы и решения.md",
+    "Проблемы/Dev",
+    "Проблемы",
+    "Мусор.md",
+    "obsi_tasks.md",
+    "elastic.pdf",
+    "copied-to-obsidian",
+    "Seting_OC_instal/README_UBUNTU.md",
     "Seting_OC_instal/README.md",
     "Краткое самое важное прохождение собеседование.md",
-    "Работа/Заметки Optimax.md",
-    "Подробное прохождение собеседование.md",
-    "Задачи.md",
-    "Работа Optimax.md",
-    "Без названия",
-    "copied-to-obsidian/git.md",
-    "git.md",
-    "Seting_OC_instal/README_UBUNTU.md",
-    "phpMetrics.md",
-    "copied-to-obsidian/scratches/http/elastic.http~",
-    "Мусор.md",
-    "Seting_OC_instal/terminal/oh_my_zsh/powerlevel10_config",
-    "Seting_OC_instal/terminal/oh_my_zsh/install_info",
-    "Seting_OC_instal/terminal/ranger/scope.sh",
-    "Seting_OC_instal/terminal/ranger/rifle.conf",
-    "Seting_OC_instal/terminal/ranger/rc.conf",
-    "Seting_OC_instal/terminal/ranger/ranger_config",
-    "Seting_OC_instal/terminal/ranger/commands_full.py",
-    "Seting_OC_instal/terminal/ranger/commands.py",
-    "Закладки.md",
-    "Задачки домашние задание.md",
-    "Работа/Хлам работа.md",
-    "copied-to-obsidian/scratches/elasticsearch.md",
-    "copied-to-obsidian/scratches/symfony.md",
-    "copied-to-obsidian/scratches/redis.md",
-    "copied-to-obsidian/scratches/kubectl_and_cloud.md",
-    "copied-to-obsidian/scratches/docker.md",
-    "copied-to-obsidian/scratches/alias.md",
-    "copied-to-obsidian/scratches/scratch.md",
-    "copied-to-obsidian/scratches/magento-admin.md",
-    "copied-to-obsidian/scratches/linux.md",
-    "Работа/Без названия.canvas",
-    "Без названия.canvas",
-    "Книги/Закладки.canvas"
+    "2025-06-03.md",
+    "Структурные патерны.md",
+    "dsasda.canvas"
   ]
 }
