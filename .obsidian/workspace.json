@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструменты/Задачи инструменты.md",
+                "file": "Закладки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи инструменты"
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "d9c4fdbd1d853bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
             }
           },
           {
@@ -106,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инструменты/Задачи инструменты.md",
+                "file": "tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Задачи инструменты"
+              "title": "Структура tasks"
             }
           },
           {
@@ -283,10 +297,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d49208d31754489c",
+  "active": "d9c4fdbd1d853bc4",
   "lastOpenFiles": [
-    "Tasks Plugin - Просмотреть и проверить свои статусы 2026-01-25 02-57-51.md",
+    "Закладки.md",
+    "tasks.md",
+    "elastic.pdf",
     "Инструменты/Задачи инструменты.md",
+    "Tasks Plugin - Просмотреть и проверить свои статусы 2026-01-25 02-57-51.md",
     "Инструменты/Obsidian.md",
     "Проблемы/Devops/Проблемы и решения.md",
     "Без названия 1.md",
@@ -314,14 +331,11 @@
     "2026-01-23.md",
     "Задачки домашние задание.md",
     "Мусор.md",
-    "elastic.pdf",
-    "Закладки.md",
     "Задачи OPTIMAX.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Работа Optimax.md",
     "phpMetrics.md",
-    "git.md",
     "copied-to-obsidian/magento.txt",
     "Скопированые файлы/warp_on_top.sh",
     "dsasda.canvas"
