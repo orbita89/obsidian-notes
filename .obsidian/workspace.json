@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "5e05b10167195dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe41ccd777d74fe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 30,
+                "left": -19,
+                "top": 531,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
+            }
+          }
+        ]
+      },
+      {
         "id": "ce491a753bb04b78",
         "type": "tabs",
         "children": [
@@ -19,23 +41,6 @@
               },
               "icon": "lucide-file",
               "title": "Задачки домашние задание"
-            }
-          },
-          {
-            "id": "fcccd70f7f26c710",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
             }
           },
           {
@@ -105,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Все",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,11 +131,13 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 545.5110321044922
+    "width": 545.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "41a092a964fd2ce0",
@@ -146,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -165,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура"
             }
           },
           {
@@ -180,12 +185,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -214,11 +218,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 805.5
+    "width": 805.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,24 +240,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "629566c263add193",
+  "active": "afe41ccd777d74fe",
   "lastOpenFiles": [
-    "Задачи.md",
-    "Без названия.canvas",
-    "Краткое самое важное прохождение собеседование.md",
+    "Закладки.md",
     "Задачки домашние задание.md",
     "Задачи OPTIMAX.md",
+    "Задачи.md",
+    "Без названия.md",
+    "Без названия 1.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Краткое самое важное прохождение собеседование.md",
     "Elastic.md",
     "Работа Optimax.md",
     "phpMetrics.md",
-    "Без названия.md",
-    "Без названия 1.md",
     "git.md",
     "copied-to-obsidian/symfony.md",
     "copied-to-obsidian/magento.txt",
     "copied-to-obsidian/git.md",
     "copied-to-obsidian/docker.md",
-    "Закладки.md",
     "Заметки.md",
     "Термины(Философии, история, искусства).md",
     "Скопированые файлы/warp_on_top.sh",
@@ -269,7 +276,6 @@
     "Мусор.md",
     "obsi_tasks.md",
     "elastic.pdf",
-    "copied-to-obsidian",
     "Seting_OC_instal/README_UBUNTU.md",
     "Seting_OC_instal/README.md",
     "2025-06-03.md",
