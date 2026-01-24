@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5e05b10167195dd4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "afe41ccd777d74fe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 30,
-                "left": -19,
-                "top": 531,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          }
-        ]
-      },
-      {
         "id": "ce491a753bb04b78",
         "type": "tabs",
         "children": [
@@ -136,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5110321044922,
+    "width": 255.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -240,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afe41ccd777d74fe",
+  "active": "60aad4cdb960a007",
   "lastOpenFiles": [
+    "elastic.pdf",
     "Закладки.md",
     "Задачки домашние задание.md",
     "Задачи OPTIMAX.md",
@@ -275,7 +254,6 @@
     "Проблемы",
     "Мусор.md",
     "obsi_tasks.md",
-    "elastic.pdf",
     "Seting_OC_instal/README_UBUNTU.md",
     "Seting_OC_instal/README.md",
     "2025-06-03.md",
