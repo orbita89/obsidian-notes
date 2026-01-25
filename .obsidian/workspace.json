@@ -44,9 +44,19 @@
               "icon": "lucide-file",
               "title": "QuickCapture"
             }
+          },
+          {
+            "id": "05606d2b3c912e50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,10 +236,11 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "fbde64be41aea82e",
+  "active": "05606d2b3c912e50",
   "lastOpenFiles": [
-    "2026-01-26.md",
+    "Книги",
     "QuickCapture.md",
+    "2026-01-26.md",
     "Задачи.md",
     "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
     "phpstorm.md",
@@ -255,7 +266,6 @@
     "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md",
     "Excalidraw",
     "Работа Optimax.md",
-    "Инструменты/Obsidian.md",
     "Без названия.base",
     "Инструменты/Без названия.canvas",
     "Инструменты/Без названия",
