@@ -711,7 +711,7 @@
     "sources": [],
     "globalRefreshInterval": 60,
     "maxCacheAge": 24,
-    "enableBackgroundRefresh": false,
+    "enableBackgroundRefresh": true,
     "networkTimeout": 30,
     "maxEventsPerSource": 1000,
     "showInCalendar": false,
@@ -962,7 +962,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769308634356,
+        "updatedAt": 1769309409814,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1007,23 +1007,9 @@
             },
             "review": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769308554862",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769308554862",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1039,13 +1025,7 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "id-1769308239406-mlnuav935",
-                    "groupCondition": "all",
-                    "filters": []
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1059,23 +1039,9 @@
             },
             "projects": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769308554862",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769308554862",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1111,45 +1077,17 @@
             },
             "tags": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769308554862",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769308554862",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "flagged": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769308554862",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769308554862",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1168,7 +1106,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "today"
+          "fluentActiveViewId": "tags"
         }
       }
     }

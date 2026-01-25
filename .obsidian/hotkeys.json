@@ -14,5 +14,13 @@
       ],
       "key": "K"
     }
+  ],
+  "obsidian-task-progress-bar:quick-capture": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }
