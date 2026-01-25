@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project/Инструменты",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.50418853759766,
-    "collapsed": true
+    "width": 279.50418853759766
   },
   "right": {
     "id": "41a092a964fd2ce0",
@@ -240,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,11 +259,11 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "09c820170afe2771",
+  "active": "b472285918662e0c",
   "lastOpenFiles": [
+    "QuickCapture.md",
     "Задачи.md",
     "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
-    "QuickCapture.md",
     "phpstorm.md",
     "phpMetrics.md",
     "git.md",
