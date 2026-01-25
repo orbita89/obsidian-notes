@@ -3,12 +3,12 @@
     "enabled": true,
     "lastVersion": "9.13.1"
   },
-  "progressBarDisplayMode": "both",
-  "supportHoverToShowProgressInfo": false,
-  "addProgressBarToNonTaskBullet": false,
+  "progressBarDisplayMode": "graphical",
+  "supportHoverToShowProgressInfo": true,
+  "addProgressBarToNonTaskBullet": true,
   "addTaskProgressBarToHeading": false,
   "addProgressBarToProjectsView": false,
-  "enableProgressbarInReadingMode": false,
+  "enableProgressbarInReadingMode": true,
   "notifications": {
     "enabled": false,
     "dailySummary": {
@@ -122,9 +122,9 @@
     }
   ],
   "enableTaskGeniusIcons": false,
-  "enablePriorityPicker": false,
+  "enablePriorityPicker": true,
   "enablePriorityKeyboardShortcuts": false,
-  "enableDatePicker": false,
+  "enableDatePicker": true,
   "recurrenceDateBase": "due",
   "taskFilter": {
     "enableTaskFilter": false,
@@ -963,36 +963,46 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769307151502,
+        "updatedAt": 1769307599566,
         "settings": {
           "fluentFilterState": {
             "forecast": {
               "filters": {},
-              "advancedFilter": null,
-              "viewMode": "list"
-            },
-            "inbox": {
-              "filters": {},
-              "advancedFilter": null,
-              "viewMode": "list"
-            },
-            "working-on": {
-              "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
                     "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769307055784",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
+                    "groupCondition": "any",
+                    "filters": []
+                  }
+                ]
+              },
+              "viewMode": "list"
+            },
+            "inbox": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769307055784",
+                    "groupCondition": "any",
+                    "filters": []
+                  }
+                ]
+              },
+              "viewMode": "list"
+            },
+            "working-on": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769307055784",
+                    "groupCondition": "any",
+                    "filters": []
                   }
                 ]
               },
@@ -1000,21 +1010,13 @@
             },
             "today": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
                     "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769307055784",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
+                    "groupCondition": "any",
+                    "filters": []
                   }
                 ]
               },
@@ -1022,21 +1024,13 @@
             },
             "upcoming": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
                     "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769307055784",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
+                    "groupCondition": "any",
+                    "filters": []
                   }
                 ]
               },
@@ -1044,17 +1038,44 @@
             },
             "review": {
               "filters": {},
-              "advancedFilter": null,
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769307055784",
+                    "groupCondition": "any",
+                    "filters": []
+                  }
+                ]
+              },
               "viewMode": "list"
             },
             "table": {
               "filters": {},
-              "advancedFilter": null,
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769307055784",
+                    "groupCondition": "any",
+                    "filters": []
+                  }
+                ]
+              },
               "viewMode": "list"
             },
             "gantt": {
               "filters": {},
-              "advancedFilter": null,
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769307055784",
+                    "groupCondition": "any",
+                    "filters": []
+                  }
+                ]
+              },
               "viewMode": "list"
             },
             "kanban": {
@@ -1122,9 +1143,23 @@
                 ]
               },
               "viewMode": "list"
+            },
+            "quadrant": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769307055784",
+                    "groupCondition": "any",
+                    "filters": []
+                  }
+                ]
+              },
+              "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "kanban"
+          "fluentActiveViewId": "today"
         }
       }
     }
