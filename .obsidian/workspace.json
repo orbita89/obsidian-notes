@@ -158,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "задачи ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,7 +297,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9c4fdbd1d853bc4",
+  "active": "629566c263add193",
   "lastOpenFiles": [
     "Инструменты/Задачи инструменты.md",
     "Инструменты/Obsidian.md",

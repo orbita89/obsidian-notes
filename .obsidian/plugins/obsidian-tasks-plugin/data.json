@@ -23,7 +23,7 @@
   "useFilenameAsScheduledDate": false,
   "filenameAsScheduledDateFormat": "",
   "filenameAsDateFolders": [],
-  "recurrenceOnNextLine": false,
+  "recurrenceOnNextLine": true,
   "removeScheduledDateOnRecurrence": false,
   "statusSettings": {
     "coreStatuses": [
