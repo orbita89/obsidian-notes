@@ -65,16 +65,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Книги/1984.md",
-                "mode": "preview",
+                "file": "Шаблоны/Книги.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1984"
+              "title": "Книги"
+            }
+          },
+          {
+            "id": "b5cf06e12c98c73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблоны/Книги.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Книги"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,10 +268,13 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "7c76f8ae045db9f8",
+  "active": "b5cf06e12c98c73e",
   "lastOpenFiles": [
-    "Книги/Библиотека.md",
+    "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
+    "Шаблоны/Книги.md",
     "Книги/1984.md",
+    "Шаблоны",
+    "Книги/Библиотека.md",
     "Библиотека.md",
     "Горячие клавиши.md",
     "Задачи.md",
@@ -284,15 +301,12 @@
     "Подробное прохождение собеседование.md",
     "Мусор.md",
     "Краткое самое важное прохождение собеседование.md",
-    "Закладки.md",
-    "Excalidraw/Drawing 2026-01-25 23.53.41.excalidraw.md",
     "Excalidraw",
     "Инструменты/Без названия.canvas",
     "Инструменты/Без названия",
     "Инструменты",
     "Проблемы и решение/Life",
     "Без названия 1.base",
-    "Проблемы и решение/Frontend",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "dsasda.canvas"
