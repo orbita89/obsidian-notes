@@ -985,7 +985,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769348419079,
+        "updatedAt": 1769371046925,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1109,7 +1109,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "quadrant"
+          "fluentActiveViewId": "kanban"
         }
       }
     }
