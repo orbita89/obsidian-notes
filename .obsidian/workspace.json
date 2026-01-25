@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Инструменты/Задачи инструменты.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -285,6 +285,7 @@
   },
   "active": "0438655c40eea193",
   "lastOpenFiles": [
+    "Работа Optimax/Задачи Optimax.md",
     "Задачи список.md",
     "Инструменты/Задачи инструменты.md",
     "Инструменты/Obsidian.md",
@@ -292,7 +293,6 @@
     "Задачи.md",
     "Задачи OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
-    "Работа Optimax/Задачи Optimax.md",
     "Без названия.base",
     "Задачки домашние задание.md",
     "phpstorm.md",
