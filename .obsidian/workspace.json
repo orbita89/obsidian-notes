@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотека.md",
+                "file": "Книги/1984.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Библиотека"
+              "title": "1984"
             }
           }
         ],
@@ -256,11 +256,11 @@
   },
   "active": "7c76f8ae045db9f8",
   "lastOpenFiles": [
+    "Книги/Библиотека.md",
     "Книги/1984.md",
     "Библиотека.md",
     "Горячие клавиши.md",
     "Задачи.md",
-    "Книги/Библиотека.md",
     "Без названия.base",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Книги/Без названия.base",
