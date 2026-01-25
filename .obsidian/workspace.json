@@ -17,26 +17,12 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "inbox": "calendar",
-                  "forecast": "list",
-                  "working-on": "list",
-                  "today": "list",
-                  "upcoming": "list",
-                  "review": "list",
-                  "table": "list",
-                  "gantt": "list",
-                  "kanban": "list",
-                  "projects": "list",
-                  "calendar": "list",
-                  "quadrant": "list",
-                  "tags": "list",
-                  "flagged": "list",
                   "habit": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "tags"
+                "currentViewId": "habit"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -237,7 +223,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "fbde64be41aea82e",
+  "active": "af773b475e3f2e05",
   "lastOpenFiles": [
     "git.md",
     "Задачки домашние задание.md",

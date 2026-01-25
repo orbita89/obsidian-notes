@@ -667,7 +667,21 @@
   },
   "habit": {
     "enableHabits": true,
-    "habits": []
+    "habits": [
+      {
+        "id": "1769310178265xa3emte",
+        "name": "Чтение",
+        "description": "Хочу в течения пол года читать по 2 книги в неделю",
+        "icon": "lucide-book-audio",
+        "type": "mapping",
+        "property": "Чтение",
+        "mapping": {
+          "1": "😊",
+          "2": "😐",
+          "3": "😔"
+        }
+      }
+    ]
   },
   "filterConfig": {
     "enableSavedFilters": true,
@@ -842,9 +856,9 @@
   "customDateFormats": [],
   "onboarding": {
     "completed": false,
-    "version": "",
+    "version": "9.13.1",
     "configMode": "beginner",
-    "skipOnboarding": false,
+    "skipOnboarding": true,
     "completedAt": ""
   },
   "fileSource": {
@@ -962,7 +976,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769310169061,
+        "updatedAt": 1769310350448,
         "settings": {
           "fluentFilterState": {
             "forecast": {
