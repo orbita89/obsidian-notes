@@ -33,7 +33,7 @@
   ],
   "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "Книги",
+  "templateFolderPath": "Шаблоны",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {

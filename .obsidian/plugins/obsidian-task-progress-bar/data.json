@@ -985,7 +985,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769372332012,
+        "updatedAt": 1769378925146,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1081,11 +1081,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1769372211036",
+                    "id": "fluent-proj-group-1769378924644",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1769372211036",
+                        "id": "fluent-proj-filter-1769378924644",
                         "property": "project",
                         "condition": "is",
                         "value": "Инструменты"
@@ -1151,7 +1151,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "today"
+          "fluentActiveViewId": "projects"
         }
       }
     }
