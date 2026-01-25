@@ -18,7 +18,12 @@
                 "viewMode": "list",
                 "viewModeByViewId": {
                   "quadrant": "list",
-                  "table": "list"
+                  "table": "list",
+                  "review": "list",
+                  "today": "list",
+                  "forecast": "list",
+                  "calendar": "list",
+                  "kanban": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
@@ -163,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.50418853759766,
-    "collapsed": true
+    "width": 279.50418853759766
   },
   "right": {
     "id": "41a092a964fd2ce0",

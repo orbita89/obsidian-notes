@@ -985,7 +985,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769371046925,
+        "updatedAt": 1769371770053,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1002,7 +1002,7 @@
                 "rootCondition": "all",
                 "filterGroups": []
               },
-              "viewMode": "calendar"
+              "viewMode": "tree"
             },
             "working-on": {
               "filters": {},
@@ -1018,7 +1018,7 @@
                 "rootCondition": "all",
                 "filterGroups": []
               },
-              "viewMode": "list"
+              "viewMode": "calendar"
             },
             "upcoming": {
               "filters": {},
@@ -1109,7 +1109,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "kanban"
+          "fluentActiveViewId": "projects"
         }
       }
     }
