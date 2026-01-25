@@ -17,13 +17,7 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "habit": "list",
-                  "gantt": "list",
-                  "kanban": "list",
-                  "calendar": "list",
-                  "quadrant": "list",
-                  "table": "list",
-                  "flagged": "list"
+                  "quadrant": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
@@ -76,9 +70,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-01-25 17.45.40.excalidraw"
             }
+          },
+          {
+            "id": "b472285918662e0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-25 17.48.46.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
+                "file": "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Drawing 2026-01-25 17.45.40.excalidraw"
+              "title": "Структура Drawing 2026-01-25 17.48.46.excalidraw"
             }
           },
           {
@@ -228,8 +234,8 @@
             "state": {
               "type": "tg-timeline-sidebar-view",
               "state": {},
-              "icon": "calendar-clock",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "tg-timeline-sidebar-view"
             }
           }
         ],
@@ -253,12 +259,14 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "375fff2d5a9e94c7",
+  "active": "b472285918662e0c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md",
+    "Мусор.md",
     "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
     "Excalidraw",
     "QuickCapture.md",
@@ -266,7 +274,6 @@
     "Инструменты/Obsidian.md",
     "Подробное прохождение собеседование.md",
     "Краткое самое важное прохождение собеседование.md",
-    "Мусор.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
     "Порождающие паттерны.md",
     "Закладки.md",
@@ -285,7 +292,6 @@
     "2026-01-24.md",
     "2026-01-23.md",
     "copied-to-obsidian/docker.md",
-    "git.md",
     "Без названия.base",
     "elastic.pdf",
     "Инструменты/Без названия.canvas",
