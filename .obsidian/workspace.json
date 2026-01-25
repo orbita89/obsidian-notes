@@ -15,20 +15,20 @@
               "type": "fluent-task-genius-view",
               "state": {
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
-                "viewMode": "list",
+                "viewMode": "tree",
                 "viewModeByViewId": {
-                  "quadrant": "list",
+                  "gantt": "list",
                   "table": "list",
-                  "review": "list",
-                  "today": "list",
+                  "projects": "list",
+                  "today": "tree",
+                  "working-on": "kanban",
                   "forecast": "list",
-                  "calendar": "list",
-                  "kanban": "list"
+                  "upcoming": "kanban"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "table"
+                "currentViewId": "today"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -49,32 +49,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "QuickCapture"
-            }
-          },
-          {
-            "id": "09b112474f265c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QuickCapture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QuickCapture"
-            }
-          },
-          {
-            "id": "375fff2d5a9e94c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-25 17.45.40.excalidraw"
             }
           },
           {
@@ -105,7 +79,8 @@
               "title": "QuickCapture"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.50418853759766
+    "width": 279.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "41a092a964fd2ce0",
@@ -202,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md",
+                "file": "QuickCapture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Drawing 2026-01-25 17.48.46.excalidraw"
+              "title": "Структура QuickCapture"
             }
           },
           {
@@ -255,17 +231,16 @@
             "state": {
               "type": "tg-timeline-sidebar-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tg-timeline-sidebar-view"
+              "icon": "calendar-clock",
+              "title": "Timeline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,8 +259,11 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "af773b475e3f2e05",
+  "active": "09c820170afe2771",
   "lastOpenFiles": [
+    "Задачи.md",
+    "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
+    "QuickCapture.md",
     "phpstorm.md",
     "phpMetrics.md",
     "git.md",
@@ -303,14 +281,11 @@
     "Мусор.md",
     "Краткое самое важное прохождение собеседование.md",
     "Закладки.md",
-    "Задачи.md",
     "Excalidraw/Drawing 2026-01-25 23.53.41.excalidraw.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
     "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
     "Excalidraw",
-    "QuickCapture.md",
     "Работа Optimax.md",
     "Инструменты/Obsidian.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
