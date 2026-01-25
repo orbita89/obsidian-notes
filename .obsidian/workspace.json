@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c555bf588f2b562",
-            "type": "leaf",
-            "state": {
-              "type": "task-genius-changelog",
-              "state": {},
-              "icon": "task-genius",
-              "title": "Changelog"
-            }
-          },
-          {
-            "id": "d9f47a75a31f4711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 3"
-            }
-          },
-          {
             "id": "af773b475e3f2e05",
             "type": "leaf",
             "pinned": true,
@@ -43,12 +19,20 @@
                 "viewModeByViewId": {
                   "inbox": "list",
                   "forecast": "list",
-                  "working-on": "list"
+                  "working-on": "list",
+                  "today": "list",
+                  "upcoming": "list",
+                  "review": "list",
+                  "table": "list",
+                  "gantt": "list",
+                  "kanban": "list",
+                  "projects": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "working-on"
+                "selectedProject": "Инструменты",
+                "currentViewId": "today"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -63,6 +47,20 @@
               "state": {},
               "icon": "lucide-file",
               "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "eedafd14de8a8498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuickCapture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QuickCapture"
             }
           }
         ]
@@ -223,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 214.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,15 +240,16 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "2c555bf588f2b562",
+  "active": "af773b475e3f2e05",
   "lastOpenFiles": [
+    "QuickCapture.md",
+    "Без названия 3.md",
     "2026-01-23.md",
     "Краткое самое важное прохождение собеседование.md",
     "Работа Optimax/Задачи Optimax.md",
     "Инструменты/Задачи инструменты.md",
     "Инструменты/Obsidian.md",
     "Закладки.md",
-    "Без названия 3.md",
     "2026-01-24.md",
     "2026-01-25.md",
     "Работа Optimax.md",
@@ -273,7 +273,6 @@
     "Инструменты/Без названия.canvas",
     "Инструменты/Без названия",
     "Инструменты",
-    "Работа Optimax/Хлам работа.md",
     "Проблемы/Life",
     "Без названия 1.base",
     "Проблемы/Frontend",
