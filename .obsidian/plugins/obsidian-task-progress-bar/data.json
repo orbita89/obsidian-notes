@@ -962,7 +962,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769309409814,
+        "updatedAt": 1769310169061,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1095,18 +1095,12 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "id-1769308239406-mlnuav935",
-                    "groupCondition": "all",
-                    "filters": []
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "tags"
+          "fluentActiveViewId": "habit"
         }
       }
     }
