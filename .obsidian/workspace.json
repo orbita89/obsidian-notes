@@ -17,7 +17,7 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "inbox": "list",
+                  "inbox": "calendar",
                   "forecast": "list",
                   "working-on": "list",
                   "today": "list",
@@ -28,7 +28,9 @@
                   "kanban": "list",
                   "projects": "list",
                   "calendar": "list",
-                  "quadrant": "list"
+                  "quadrant": "list",
+                  "tags": "list",
+                  "flagged": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
@@ -223,16 +225,6 @@
             }
           },
           {
-            "id": "ba598ce7264214be",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "f480199eef7adb20",
             "type": "leaf",
             "state": {
@@ -243,11 +235,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 1144.5
+    "width": 1144.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

@@ -549,15 +549,14 @@
         "enableInlineEditing": true,
         "visibleColumns": [
           "status",
-          "content",
           "priority",
           "dueDate",
           "startDate",
           "scheduledDate",
-          "tags",
           "project",
-          "context",
-          "filePath"
+          "filePath",
+          "recurrence",
+          "content"
         ],
         "columnWidths": {
           "status": 80,
@@ -963,20 +962,14 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769307599566,
+        "updatedAt": 1769308336802,
         "settings": {
           "fluentFilterState": {
             "forecast": {
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "any",
-                    "filters": []
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -984,27 +977,15 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "any",
-                    "filters": []
-                  }
-                ]
+                "filterGroups": []
               },
-              "viewMode": "list"
+              "viewMode": "calendar"
             },
             "working-on": {
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "any",
-                    "filters": []
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1014,8 +995,8 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "any",
+                    "id": "id-1769308239406-mlnuav935",
+                    "groupCondition": "all",
                     "filters": []
                   }
                 ]
@@ -1026,13 +1007,7 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "any",
-                    "filters": []
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1056,8 +1031,8 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "any",
+                    "id": "id-1769308239406-mlnuav935",
+                    "groupCondition": "all",
                     "filters": []
                   }
                 ]
@@ -1102,45 +1077,17 @@
             },
             "projects": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769307055784",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "calendar": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769307055784",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769307055784",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1155,6 +1102,22 @@
                     "filters": []
                   }
                 ]
+              },
+              "viewMode": "list"
+            },
+            "tags": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
+              },
+              "viewMode": "list"
+            },
+            "flagged": {
+              "filters": {},
+              "advancedFilter": {
+                "rootCondition": "all",
+                "filterGroups": []
               },
               "viewMode": "list"
             }
