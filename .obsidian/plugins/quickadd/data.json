@@ -5,14 +5,16 @@
       "name": "add new book",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "Шаблоны/Книги.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{VALUE:title}}"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Книги"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -27,26 +29,16 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
-    },
-    {
-      "id": "d1fb7b4c-053f-4309-bb29-d8d0bdc48c81",
-      "name": "add new books",
-      "type": "Macro",
-      "command": false,
-      "runOnStartup": false,
-      "macro": {
-        "name": "add new books",
-        "id": "155d3d19-76ad-4277-83ef-38012387197d",
-        "commands": []
-      }
     }
   ],
-  "inputPrompt": "single-line",
+  "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Книги",
   "announceUpdates": "all",
   "version": "2.9.4",
-  "globalVariables": {},
+  "globalVariables": {
+    "NewVar": ""
+  },
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
