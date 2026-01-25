@@ -17,12 +17,15 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "habit": "list"
+                  "habit": "list",
+                  "gantt": "list",
+                  "kanban": "list",
+                  "calendar": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "habit"
+                "currentViewId": "kanban"
               },
               "pinned": true,
               "icon": "task-genius",

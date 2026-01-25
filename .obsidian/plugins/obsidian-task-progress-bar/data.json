@@ -680,6 +680,15 @@
           "2": "😐",
           "3": "😔"
         }
+      },
+      {
+        "id": "1769346702953nz2eov1",
+        "name": "Зарядка",
+        "description": "Зарядка",
+        "icon": "circle-check",
+        "type": "daily",
+        "property": "Зарядка",
+        "completionText": "Зарядка"
       }
     ]
   },
@@ -976,7 +985,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769310350448,
+        "updatedAt": 1769346960946,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1069,23 +1078,9 @@
             },
             "quadrant": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769308554862",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769308554862",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1114,7 +1109,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "habit"
+          "fluentActiveViewId": "kanban"
         }
       }
     }

@@ -3,7 +3,6 @@
 - [ ] ываыфвфывф
 - [/] фывфыв #project/Инструменты 🔽 🛫 2026-01-25 06:09
 - [ ] sldlsddsldsldls
-- [ ] сука мразь
 - [ ] cerdsf
 - [ ] sdsad
 - [ ] sdfsadf
