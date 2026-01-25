@@ -22,12 +22,13 @@
                   "kanban": "list",
                   "calendar": "list",
                   "quadrant": "list",
-                  "table": "list"
+                  "table": "list",
+                  "flagged": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "habit"
+                "currentViewId": "quadrant"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -63,9 +64,21 @@
               "icon": "lucide-file",
               "title": "QuickCapture"
             }
+          },
+          {
+            "id": "375fff2d5a9e94c7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-25 17.45.40.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 761.5041885375977,
-    "collapsed": true
+    "width": 279.50418853759766
   },
   "right": {
     "id": "41a092a964fd2ce0",
@@ -163,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QuickCapture.md",
+                "file": "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура QuickCapture"
+              "title": "Структура Drawing 2026-01-25 17.45.40.excalidraw"
             }
           },
           {
@@ -241,13 +253,16 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "09b112474f265c50",
+  "active": "375fff2d5a9e94c7",
   "lastOpenFiles": [
-    "Работа Optimax.md",
+    "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
+    "Excalidraw",
     "QuickCapture.md",
+    "Работа Optimax.md",
     "Инструменты/Obsidian.md",
     "Подробное прохождение собеседование.md",
     "Краткое самое важное прохождение собеседование.md",
@@ -271,7 +286,6 @@
     "2026-01-23.md",
     "copied-to-obsidian/docker.md",
     "git.md",
-    "phpstorm.md",
     "Без названия.base",
     "elastic.pdf",
     "Инструменты/Без названия.canvas",
@@ -284,7 +298,6 @@
     "Без названия.canvas",
     "Без названия 1.canvas",
     "copied-to-obsidian/magento.txt",
-    "Скопированые файлы/warp_on_top.sh",
     "dsasda.canvas"
   ]
 }
