@@ -985,7 +985,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769411379082,
+        "updatedAt": 1769467361209,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1052,45 +1052,17 @@
             },
             "table": {
               "filters": {},
-              "selectedProject": "Разработка",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769411356644",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769411356644",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Разработка"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "gantt": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769372149442",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769372149442",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1112,23 +1084,9 @@
             },
             "calendar": {
               "filters": {},
-              "selectedProject": "Разработка",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769372137110",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769372137110",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Разработка"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1207,7 +1165,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "today"
+          "fluentActiveViewId": "upcoming"
         }
       }
     }

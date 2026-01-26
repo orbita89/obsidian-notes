@@ -17,12 +17,13 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "today": "list"
+                  "today": "list",
+                  "table": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "today"
+                "currentViewId": "table"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -59,8 +60,7 @@
               "title": "Exception"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9865416a954910",
@@ -223,13 +224,13 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "548ec1d8bf37d3bd",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
+    "Разработка/Symfony/Exception.md",
     "Работа Optimax/Хлам работа.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Задачи OPTIMAX.md",
-    "Разработка/Symfony/Exception.md",
     "Закладки.md",
     "Разработка/Symfony",
     "QuickCapture.md",
