@@ -985,7 +985,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1769378925146,
+        "updatedAt": 1769411379082,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1018,7 +1018,7 @@
                 "rootCondition": "all",
                 "filterGroups": []
               },
-              "viewMode": "tree"
+              "viewMode": "list"
             },
             "upcoming": {
               "filters": {},
@@ -1026,21 +1026,49 @@
                 "rootCondition": "all",
                 "filterGroups": []
               },
-              "viewMode": "kanban"
+              "viewMode": "list"
             },
             "review": {
               "filters": {},
+              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769411349986",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1769411349986",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Инструменты"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
             "table": {
               "filters": {},
+              "selectedProject": "Разработка",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769411356644",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1769411356644",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Разработка"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1076,23 +1104,9 @@
             },
             "projects": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769378924644",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769378924644",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1120,25 +1134,67 @@
             },
             "quadrant": {
               "filters": {},
+              "selectedProject": "Разработка",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769411356644",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1769411356644",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Разработка"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
             "tags": {
               "filters": {},
+              "selectedProject": "Разработка",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769411356644",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1769411356644",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Разработка"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
             "flagged": {
               "filters": {},
+              "selectedProject": "Разработка",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1769411356644",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1769411356644",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Разработка"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1151,7 +1207,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "projects"
+          "fluentActiveViewId": "today"
         }
       }
     }

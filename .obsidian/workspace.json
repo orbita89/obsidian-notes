@@ -17,13 +17,15 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "projects": "list"
+                  "projects": "list",
+                  "table": "list",
+                  "today": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "selectedProject": "Инструменты",
-                "currentViewId": "projects"
+                "selectedProject": "Разработка",
+                "currentViewId": "today"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -45,19 +47,8 @@
               "icon": "lucide-file",
               "title": "QuickCapture"
             }
-          },
-          {
-            "id": "dbc579217d316090",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +211,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "dbc579217d316090",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
     "QuickCapture.md",
     "Excalidraw/Drawing 2026-01-26 10.41.21.excalidraw.md",
