@@ -17,13 +17,12 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "today": "list",
-                  "table": "list"
+                  "upcoming": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "table"
+                "currentViewId": "upcoming"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -220,8 +219,7 @@
       "bases:Создать новую базу": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "a098f49970d70c38",
