@@ -1,0 +1,1 @@
+Подключение шаблона $this->setTemplate('catalog/product/tab/video.phtml');
