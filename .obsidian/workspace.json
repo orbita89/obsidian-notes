@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,7 +236,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "8f885083036dd2b0",
+  "active": "548ec1d8bf37d3bd",
   "lastOpenFiles": [
     "Разработка/Magento/Magento.md",
     "Разработка/Magento",
