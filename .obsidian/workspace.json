@@ -17,13 +17,18 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "today": "list"
+                  "today": "list",
+                  "table": "list",
+                  "projects": "list",
+                  "review": "list",
+                  "quadrant": "list",
+                  "upcoming": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "selectedProject": "Работа",
-                "currentViewId": "today"
+                "selectedProject": "Инструменты",
+                "currentViewId": "upcoming"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -61,17 +66,20 @@
             }
           },
           {
-            "id": "8f885083036dd2b0",
+            "id": "c4f47295f40dbe17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "QuickCapture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QuickCapture"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,18 +243,18 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "548ec1d8bf37d3bd",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
+    "QuickCapture.md",
+    "Разработка/Symfony/Exception.md",
     "Разработка/Magento/Magento.md",
     "Разработка/Magento",
-    "Разработка/Symfony/Exception.md",
     "Работа Optimax/Хлам работа.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Закладки.md",
     "Разработка/Symfony",
-    "QuickCapture.md",
     "Разработка",
     "Excalidraw/Drawing 2026-01-26 10.41.21.excalidraw.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
