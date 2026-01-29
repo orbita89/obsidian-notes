@@ -80,12 +80,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разработка/Magento/Magento.md",
+                "file": "Работа Optimax/Хлам работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magento"
+              "title": "Хлам работа"
             }
           }
         ],
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -255,14 +254,14 @@
   },
   "active": "65366eef4d875183",
   "lastOpenFiles": [
+    "Работа Optimax/Заметки Optimax.md",
+    "Работа Optimax/Задачи OPTIMAX.md",
+    "Разработка/Magento/Magento.md",
     "QuickCapture.md",
     "Разработка/Symfony/Exception.md",
-    "Разработка/Magento/Magento.md",
     "Разработка/Magento",
     "Работа Optimax/Хлам работа.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
-    "Работа Optimax/Заметки Optimax.md",
-    "Работа Optimax/Задачи OPTIMAX.md",
     "Закладки.md",
     "Разработка/Symfony",
     "Разработка",
