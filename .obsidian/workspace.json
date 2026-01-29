@@ -17,19 +17,7 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "today": "list",
-                  "table": "list",
-                  "projects": "list",
-                  "review": "list",
-                  "quadrant": "list",
-                  "upcoming": "list",
-                  "inbox": "list",
-                  "kanban": "list",
-                  "calendar": "list",
-                  "gantt": "list",
-                  "habit": "list",
-                  "forecast": "list",
-                  "working-on": "list"
+                  "projects": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
