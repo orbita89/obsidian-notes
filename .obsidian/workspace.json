@@ -22,7 +22,7 @@
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "selectedProject": "Инструменты",
+                "selectedProject": "Работа",
                 "currentViewId": "projects"
               },
               "pinned": true,
@@ -88,8 +88,7 @@
               "title": "Хлам работа"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,11 +247,10 @@
       "bases:Создать новую базу": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "65366eef4d875183",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
     "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Задачи OPTIMAX.md",
