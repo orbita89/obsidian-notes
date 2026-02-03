@@ -17,9 +17,7 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "kanban",
                 "viewModeByViewId": {
-                  "table": "list",
-                  "projects": "kanban",
-                  "review": "list"
+                  "projects": "kanban"
                 },
                 "searchQuery": "",
                 "filters": {},
