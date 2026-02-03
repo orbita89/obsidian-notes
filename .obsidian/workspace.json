@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа Optimax/Хлам работа.md",
+                "file": "2026-02-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хлам работа"
+              "title": "2026-02-03"
             }
           },
           {
@@ -117,8 +117,7 @@
               "title": "Хлам работа"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,10 +280,11 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "65366eef4d875183",
   "lastOpenFiles": [
-    "Работа Optimax/Задачи OPTIMAX.md",
     "Работа Optimax/Хлам работа.md",
+    "2026-02-03.md",
+    "Работа Optimax/Задачи OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
     "Разработка/Magento/Magento.md",
     "QuickCapture.md",
@@ -318,7 +318,6 @@
     "Excalidraw",
     "Без названия.md",
     "Без названия 1.md",
-    "Задачи OPTIMAX.md",
     "Без названия",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
