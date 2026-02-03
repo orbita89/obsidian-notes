@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа Optimax/Хлам работа.md",
+                "file": "Работа Optimax/Задачи OPTIMAX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хлам работа"
+              "title": "Задачи OPTIMAX"
             }
           },
           {
@@ -281,15 +281,15 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "65366eef4d875183",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
+    "Работа Optimax/Хлам работа.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
     "Разработка/Magento/Magento.md",
     "QuickCapture.md",
     "Разработка/Symfony/Exception.md",
     "Разработка/Magento",
-    "Работа Optimax/Хлам работа.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
     "Закладки.md",
     "Разработка/Symfony",
