@@ -4,4 +4,4 @@ Magento-admin
 	2. https://master-gusa-admin.gusadev.com/index.php/ldradmin/system_convert_gui/edit/id/12/  -  экспрот продуктов, можно добавить аттрибут
 Catalog ms
 	3. Все исключения ловаить до запуска контролеров  в файле ExceptionEventSubscriber.php
-	4. Напримере аттрибутов как произходит реиндекс в catalog ms  запускаеться  ImportAttributeValueCommand, потом запускаеться AttributeValuePayloadHandler
+		1. Напримере аттрибутов как произходит реиндекс в catalog ms  запускаеться  ImportAttributeValueCommand, потом запускаеться AttributeValuePayloadHandler
