@@ -17,10 +17,7 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "table": "list",
-                  "projects": "kanban",
-                  "review": "list",
-                  "quadrant": "list"
+                  "table": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
@@ -269,7 +266,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "0cedf86aca57e841",
   "lastOpenFiles": [
     "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Задачи OPTIMAX.md",
