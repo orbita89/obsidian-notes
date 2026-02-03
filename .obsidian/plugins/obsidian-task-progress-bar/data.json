@@ -995,7 +995,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770066466904,
+        "updatedAt": 1770101644599,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1127,15 +1127,21 @@
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1770066422078",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      },
-                      {
                         "id": "id-1770066451402-kjodcouhf",
                         "property": "completed",
                         "condition": "isFalse"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "fluent-proj-group-1770101644098",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1770101644098",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Работа"
                       }
                     ]
                   }
@@ -1198,7 +1204,18 @@
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1770066422078",
+                        "id": "id-1770066451402-kjodcouhf",
+                        "property": "completed",
+                        "condition": "isFalse"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "fluent-proj-group-1770101644098",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1770101644098",
                         "property": "project",
                         "condition": "is",
                         "value": "Работа"
@@ -1207,7 +1224,7 @@
                   }
                 ]
               },
-              "viewMode": "kanban"
+              "viewMode": "list"
             },
             "calendar": {
               "filters": {},
@@ -1292,7 +1309,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "table"
+          "fluentActiveViewId": "projects"
         }
       }
     }
