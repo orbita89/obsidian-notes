@@ -144,8 +144,7 @@
               "title": "Заметки Optimax"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,7 +307,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "45fdeafe12f9de55",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
     "Работа Optimax/Задачи OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
