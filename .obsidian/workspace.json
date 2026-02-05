@@ -49,48 +49,36 @@
             "id": "548ec1d8bf37d3bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Разработка/Symfony/Exception.md",
-                "mode": "source",
-                "source": false
+                "file": "elastic.pdf",
+                "page": 22,
+                "left": -300,
+                "top": 94,
+                "zoom": 1.1
               },
-              "icon": "lucide-file",
-              "title": "Exception"
+              "icon": "lucide-file-text",
+              "title": "elastic"
             }
           },
           {
             "id": "c4f47295f40dbe17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QuickCapture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QuickCapture"
-            }
-          },
-          {
-            "id": "5ab9c849165eba51",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
                 "file": "elastic.pdf",
                 "page": 23,
-                "left": -418,
-                "top": 423,
-                "zoom": 0.9
+                "left": -228,
+                "top": 562,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "elastic"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9865416a954910",
@@ -256,16 +245,18 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "5ab9c849165eba51",
+  "active": "c4f47295f40dbe17",
   "lastOpenFiles": [
-    "Закладки.md",
+    "Разработка/Elasticsearch",
+    "Elastic.md",
+    "Краткое самое важное прохождение собеседование.md",
     "elastic.pdf",
+    "Разработка/Symfony/Exception.md",
+    "Закладки.md",
+    "Работа Optimax/Хлам работа.md",
+    "QuickCapture.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "2026-02-03.md",
-    "QuickCapture.md",
-    "Разработка/Symfony/Exception.md",
-    "Работа Optimax/Хлам работа.md",
-    "Elastic.md",
     "Работа Optimax/Заметки Optimax.md",
     "Шаблоны/Книги.md",
     "Разработка/Magento/Magento.md",
@@ -281,7 +272,6 @@
     "Excalidraw/Drawing 2026-01-26 10.41.21.excalidraw.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
     "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md",
-    "Краткое самое важное прохождение собеседование.md",
     "Без названия.canvas",
     "Задачи.md",
     "Шаблоны",
