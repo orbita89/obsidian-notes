@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Книги.md",
+                "file": "Книги/1984.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Книги"
+              "title": "1984"
             }
           }
         ],
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шаблоны/Книги.md",
+                "file": "Книги/1984.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Книги"
+              "title": "Обратные ссылки для 1984"
             }
           },
           {
@@ -254,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шаблоны/Книги.md",
+                "file": "Книги/1984.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Книги"
+              "title": "Исходящие ссылки из 1984"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шаблоны/Книги.md",
+                "file": "Книги/1984.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Книги"
+              "title": "Структура 1984"
             }
           },
           {
@@ -329,6 +329,10 @@
   },
   "active": "927b2ddb05100b1d",
   "lastOpenFiles": [
+    "Книги/Библиотека.md",
+    "Шаблоны/Книги.md",
+    "Книги/SAA\n\n.md",
+    "Книги/1984.md",
     "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
     "Разработка/Magento/Magento.md",
@@ -348,15 +352,11 @@
     "Краткое самое важное прохождение собеседование.md",
     "Без названия.canvas",
     "Задачи.md",
-    "Шаблоны/Книги.md",
     "Шаблоны",
     "Работа Optimax",
     "Проблемы и решение/Devops/Проблемы и решения.md",
     "Проблемы и решение/Devops",
     "Проблемы и решение",
-    "Книги/Библиотека.md",
-    "Книги/SAA\n\n.md",
-    "Книги/1984.md",
     "Инструменты/Obsidian.md",
     "Инструменты",
     "Горячие клавиши.md",
