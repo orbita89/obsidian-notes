@@ -22,7 +22,7 @@
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "selectedProject": "Работа",
+                "selectedProject": "Инструменты",
                 "currentViewId": "projects"
               },
               "pinned": true,
@@ -303,8 +303,7 @@
       "bases:Создать новую базу": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "a098f49970d70c38",
