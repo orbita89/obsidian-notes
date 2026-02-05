@@ -17,12 +17,13 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "today": "list"
+                  "projects": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "today"
+                "selectedProject": "Обычная",
+                "currentViewId": "projects"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -196,11 +197,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9865416a954910",
@@ -225,7 +228,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -238,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -253,7 +256,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -267,7 +270,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Структура"
             }
           },
           {
@@ -280,12 +283,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 544.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -302,7 +304,8 @@
       "bases:Создать новую базу": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
   "active": "a098f49970d70c38",

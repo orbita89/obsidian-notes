@@ -995,14 +995,26 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770327722608,
+        "updatedAt": 1770328235722,
         "settings": {
           "fluentFilterState": {
             "forecast": {
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "id-1770328081112-2shod2k6b",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "id-1770328081113-rotscdoe0",
+                        "property": "completed",
+                        "condition": "isFalse"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1046,19 +1058,19 @@
             },
             "upcoming": {
               "filters": {},
-              "selectedProject": "Инструменты",
+              "selectedProject": "Обычная",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1770327711292",
+                    "id": "fluent-proj-group-1770327839579",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1770327711292",
+                        "id": "fluent-proj-filter-1770327839579",
                         "property": "project",
                         "condition": "is",
-                        "value": "Инструменты"
+                        "value": "Обычная"
                       }
                     ]
                   }
@@ -1070,7 +1082,19 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "id-1770328081112-2shod2k6b",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "id-1770328081113-rotscdoe0",
+                        "property": "completed",
+                        "condition": "isFalse"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1114,19 +1138,17 @@
             },
             "projects": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1770327711292",
+                    "id": "id-1770328223284-9xh66ufll",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1770327711292",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
+                        "id": "id-1770328223285-j9s0aqsnp",
+                        "property": "completed",
+                        "condition": "isFalse"
                       }
                     ]
                   }
@@ -1168,7 +1190,19 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "id-1770328081112-2shod2k6b",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "id-1770328081113-rotscdoe0",
+                        "property": "completed",
+                        "condition": "isFalse"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1176,9 +1210,21 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "id-1770328081112-2shod2k6b",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "id-1770328081113-rotscdoe0",
+                        "property": "completed",
+                        "condition": "isFalse"
+                      }
+                    ]
+                  }
+                ]
               },
-              "viewMode": "kanban"
+              "viewMode": "list"
             },
             "habit": {
               "filters": {},
@@ -1189,7 +1235,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "today"
+          "fluentActiveViewId": "projects"
         }
       }
     }
