@@ -995,7 +995,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770327083494,
+        "updatedAt": 1770327722608,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1038,23 +1038,9 @@
             },
             "today": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1770327043187",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770327043187",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1065,11 +1051,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1769619258532",
+                    "id": "fluent-proj-group-1770327711292",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1769619258532",
+                        "id": "fluent-proj-filter-1770327711292",
                         "property": "project",
                         "condition": "is",
                         "value": "Инструменты"
@@ -1090,9 +1076,23 @@
             },
             "table": {
               "filters": {},
+              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "fluent-proj-group-1770327043187",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1770327043187",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Работа"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1114,25 +1114,25 @@
             },
             "projects": {
               "filters": {},
-              "selectedProject": "Работа",
+              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1770327043187",
+                    "id": "fluent-proj-group-1770327711292",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1770327043187",
+                        "id": "fluent-proj-filter-1770327711292",
                         "property": "project",
                         "condition": "is",
-                        "value": "Работа"
+                        "value": "Инструменты"
                       }
                     ]
                   }
                 ]
               },
-              "viewMode": "kanban"
+              "viewMode": "list"
             },
             "calendar": {
               "filters": {},
@@ -1166,34 +1166,9 @@
             },
             "tags": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1770066422078",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "id-1770066451402-kjodcouhf",
-                        "property": "completed",
-                        "condition": "isFalse"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "fluent-proj-group-1770300288179",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770300288179",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },

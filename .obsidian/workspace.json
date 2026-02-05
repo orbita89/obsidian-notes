@@ -15,15 +15,14 @@
               "type": "fluent-task-genius-view",
               "state": {
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
-                "viewMode": "kanban",
+                "viewMode": "list",
                 "viewModeByViewId": {
-                  "projects": "kanban"
+                  "today": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "selectedProject": "Инструменты",
-                "currentViewId": "projects"
+                "currentViewId": "today"
               },
               "pinned": true,
               "icon": "task-genius",
