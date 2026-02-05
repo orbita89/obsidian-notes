@@ -259,10 +259,10 @@
   "copyOutlineAsHeadingsFormat": "{{text}}\n\n{{linkWithDisplay}}",
   "copyOutlineAsHeadingsDisplayTextFormat": "p.{{pageLabel}}",
   "copyOutlineAsHeadingsMinLevel": 2,
-  "newFileNameFormat": "",
+  "newFileNameFormat": "{{file.basename}}",
   "newFileTemplatePath": "",
-  "newPDFLocation": "current",
-  "newPDFFolderPath": "",
+  "newPDFLocation": "custom",
+  "newPDFFolderPath": "Заметки",
   "rectEmbedStaticImage": false,
   "rectImageFormat": "file",
   "rectImageExtension": "webp",
@@ -298,7 +298,7 @@
   "citationIdPatterns": "^cite.\n^bib\\d+$",
   "copyAsSingleLine": true,
   "removeWhitespaceBetweenCJChars": true,
-  "dummyFileFolderPath": "",
+  "dummyFileFolderPath": "/",
   "externalURIPatterns": [
     ".*\\.pdf$",
     "https://arxiv.org/pdf/.*"
