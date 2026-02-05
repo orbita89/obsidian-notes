@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа Optimax/Хлам работа.md",
+                "file": "elastic.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Хлам работа"
+              "title": "Обратные ссылки для elastic"
             }
           },
           {
@@ -229,12 +229,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа Optimax/Хлам работа.md",
+                "file": "elastic.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Хлам работа"
+              "title": "Исходящие ссылки из elastic"
             }
           },
           {
@@ -258,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа Optimax/Хлам работа.md",
+                "file": "elastic.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Хлам работа"
+              "title": "Структура elastic"
             }
           },
           {
@@ -303,10 +303,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2bde9c478bbe4e3",
+  "active": "5ab9c849165eba51",
   "lastOpenFiles": [
-    "elastic.pdf",
     "Работа Optimax/Хлам работа.md",
+    "elastic.pdf",
     "Elastic.md",
     "Работа Optimax/Заметки Optimax.md",
     "Закладки.md",
