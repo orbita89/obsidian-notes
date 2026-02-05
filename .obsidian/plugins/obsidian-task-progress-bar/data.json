@@ -995,39 +995,14 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770302648026,
+        "updatedAt": 1770327083494,
         "settings": {
           "fluentFilterState": {
             "forecast": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1770066422078",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "id-1770066451402-kjodcouhf",
-                        "property": "completed",
-                        "condition": "isFalse"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "fluent-proj-group-1770300288179",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770300288179",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1055,23 +1030,9 @@
             },
             "working-on": {
               "filters": {},
-              "selectedProject": "Инструменты",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769619234068",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769619234068",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Инструменты"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
@@ -1082,22 +1043,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1770066422078",
+                    "id": "fluent-proj-group-1770327043187",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770066451402-kjodcouhf",
-                        "property": "completed",
-                        "condition": "isFalse"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "fluent-proj-group-1770300288179",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770300288179",
+                        "id": "fluent-proj-filter-1770327043187",
                         "property": "project",
                         "condition": "is",
                         "value": "Работа"
@@ -1132,140 +1082,51 @@
             },
             "review": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1770066422078",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "id-1770066451402-kjodcouhf",
-                        "property": "completed",
-                        "condition": "isFalse"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "fluent-proj-group-1770300288179",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770300288179",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "table": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1770066422078",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "id-1770066451402-kjodcouhf",
-                        "property": "completed",
-                        "condition": "isFalse"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "fluent-proj-group-1770300288179",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770300288179",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "gantt": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769856822052",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769856822052",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "kanban": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1769856822052",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1769856822052",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
               "viewMode": "list"
             },
             "projects": {
               "filters": {},
-              "selectedProject": "Инструменты",
+              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1770066422078",
+                    "id": "fluent-proj-group-1770327043187",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770066451402-kjodcouhf",
-                        "property": "completed",
-                        "condition": "isFalse"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "fluent-proj-group-1770302647525",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770302647525",
+                        "id": "fluent-proj-filter-1770327043187",
                         "property": "project",
                         "condition": "is",
-                        "value": "Инструменты"
+                        "value": "Работа"
                       }
                     ]
                   }
@@ -1338,36 +1199,11 @@
             },
             "flagged": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": [
-                  {
-                    "id": "fluent-proj-group-1770066422078",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "id-1770066451402-kjodcouhf",
-                        "property": "completed",
-                        "condition": "isFalse"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "fluent-proj-group-1770300288179",
-                    "groupCondition": "all",
-                    "filters": [
-                      {
-                        "id": "fluent-proj-filter-1770300288179",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
-                      }
-                    ]
-                  }
-                ]
+                "filterGroups": []
               },
-              "viewMode": "list"
+              "viewMode": "kanban"
             },
             "habit": {
               "filters": {},
@@ -1378,7 +1214,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "projects"
+          "fluentActiveViewId": "today"
         }
       }
     }
