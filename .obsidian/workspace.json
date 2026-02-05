@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "0cedf86aca57e841",
+            "id": "5ab9c849165eba51",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -82,25 +82,11 @@
                 "file": "elastic.pdf",
                 "page": 23,
                 "left": -418,
-                "top": 565,
+                "top": 423,
                 "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "elastic"
-            }
-          },
-          {
-            "id": "5ab9c849165eba51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Закладки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Закладки"
             }
           }
         ],
@@ -270,14 +256,14 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0cedf86aca57e841",
+  "active": "5ab9c849165eba51",
   "lastOpenFiles": [
+    "Закладки.md",
+    "elastic.pdf",
     "Работа Optimax/Задачи OPTIMAX.md",
     "2026-02-03.md",
     "QuickCapture.md",
     "Разработка/Symfony/Exception.md",
-    "Закладки.md",
-    "elastic.pdf",
     "Работа Optimax/Хлам работа.md",
     "Elastic.md",
     "Работа Optimax/Заметки Optimax.md",
