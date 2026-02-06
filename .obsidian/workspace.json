@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -227,12 +226,13 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "c4f47295f40dbe17",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
+    "Подробное прохождение собеседование.md",
+    "Краткое самое важное прохождение собеседование.md",
     "elastic.pdf",
     "Разработка/Elasticsearch",
     "Elastic.md",
-    "Краткое самое важное прохождение собеседование.md",
     "Разработка/Symfony/Exception.md",
     "Закладки.md",
     "Работа Optimax/Хлам работа.md",
@@ -265,7 +265,6 @@
     "Инструменты",
     "Горячие клавиши.md",
     "phpstorm.md",
-    "Excalidraw",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
   ]
