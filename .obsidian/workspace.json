@@ -46,39 +46,21 @@
             }
           },
           {
-            "id": "548ec1d8bf37d3bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 22,
-                "left": -300,
-                "top": 94,
-                "zoom": 1.1
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          },
-          {
             "id": "c4f47295f40dbe17",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "elastic.pdf",
-                "page": 27,
-                "left": -135,
-                "top": 141,
-                "zoom": 1.5
+                "file": "Краткое самое важное прохождение собеседование.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "elastic"
+              "icon": "lucide-file",
+              "title": "Краткое самое важное прохождение собеседование"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,10 +229,10 @@
   },
   "active": "c4f47295f40dbe17",
   "lastOpenFiles": [
+    "elastic.pdf",
     "Разработка/Elasticsearch",
     "Elastic.md",
     "Краткое самое важное прохождение собеседование.md",
-    "elastic.pdf",
     "Разработка/Symfony/Exception.md",
     "Закладки.md",
     "Работа Optimax/Хлам работа.md",
