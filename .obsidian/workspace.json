@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9865416a954910",
@@ -226,7 +227,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "c4f47295f40dbe17",
   "lastOpenFiles": [
     "Подробное прохождение собеседование.md",
     "Краткое самое важное прохождение собеседование.md",
