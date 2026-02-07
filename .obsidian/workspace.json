@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -229,15 +228,15 @@
   },
   "active": "c4f47295f40dbe17",
   "lastOpenFiles": [
-    "Подробное прохождение собеседование.md",
+    "QuickCapture.md",
     "Краткое самое важное прохождение собеседование.md",
+    "Подробное прохождение собеседование.md",
     "elastic.pdf",
     "Разработка/Elasticsearch",
     "Elastic.md",
     "Разработка/Symfony/Exception.md",
     "Закладки.md",
     "Работа Optimax/Хлам работа.md",
-    "QuickCapture.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "2026-02-03.md",
     "Работа Optimax/Заметки Optimax.md",
