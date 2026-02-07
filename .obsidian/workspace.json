@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Ежедневник.md",
-                "mode": "source",
+                "file": "Untitled.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ежедневник"
+              "title": "Untitled"
             }
           }
         ],
@@ -228,10 +228,11 @@
   },
   "active": "c4f47295f40dbe17",
   "lastOpenFiles": [
+    "Шаблоны/Ежедневник.md",
+    "Untitled.md",
     "Шаблоны/Книги.md",
     "elastic.pdf",
     "Templates/Ежедневник.md",
-    "Шаблоны/Ежедневник.md",
     "Краткое самое важное прохождение собеседование.md",
     "Templates/Daily Reflection.md~",
     "Templates",
