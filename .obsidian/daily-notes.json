@@ -1,0 +1,6 @@
+{
+  "template": "Templates/Daily Reflection.md",
+  "folder": "Daily",
+  "format": "YYYY-MM-DD",
+  "autorun": false
+}
