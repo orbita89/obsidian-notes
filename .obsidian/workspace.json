@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Reflection.md",
+                "file": "Шаблоны/Ежедневник.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Reflection"
+              "title": "Ежедневник"
             }
           }
         ],
@@ -228,14 +228,16 @@
   },
   "active": "c4f47295f40dbe17",
   "lastOpenFiles": [
+    "Шаблоны/Книги.md",
+    "elastic.pdf",
+    "Templates/Ежедневник.md",
+    "Шаблоны/Ежедневник.md",
     "Краткое самое важное прохождение собеседование.md",
     "Templates/Daily Reflection.md~",
-    "Templates/Daily Reflection.md",
     "Templates",
     "Daily",
     "QuickCapture.md",
     "Подробное прохождение собеседование.md",
-    "elastic.pdf",
     "Разработка/Elasticsearch",
     "Elastic.md",
     "Разработка/Symfony/Exception.md",
@@ -244,7 +246,6 @@
     "Работа Optimax/Задачи OPTIMAX.md",
     "2026-02-03.md",
     "Работа Optimax/Заметки Optimax.md",
-    "Шаблоны/Книги.md",
     "Разработка/Magento/Magento.md",
     "Книги/Библиотека.md",
     "Книги/SAA\n\n.md",
@@ -263,7 +264,6 @@
     "Шаблоны",
     "Работа Optimax",
     "Проблемы и решение/Devops/Проблемы и решения.md",
-    "Инструменты/Obsidian.md",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
   ]
