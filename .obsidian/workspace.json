@@ -10,21 +10,20 @@
           {
             "id": "a098f49970d70c38",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "fluent-task-genius-view",
               "state": {
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "habit": "list"
+                  "habit": "list",
+                  "gantt": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "habit"
+                "currentViewId": "gantt"
               },
-              "pinned": true,
               "icon": "task-genius",
               "title": "Task Genius"
             }
@@ -51,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/Ежедневник-2026-02-09-02-00.md",
+                "file": "Инструменты/Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ежедневник-2026-02-09-02-00"
+              "title": "Obsidian"
             }
           },
           {
@@ -84,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,8 @@
               "title": "Vertical tabs"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -261,14 +261,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "3f27bd868947ce98",
   "lastOpenFiles": [
+    "Инструменты/Obsidian.md",
+    "QuickCapture.md",
+    "Daily/2026-02-09.md",
+    "Графики/Отчет ежедневника.md",
+    "Ежедневник/Ежедневник-2026-02-09-02-00.md",
     "Ежедневник/Ежедневник-2026-02-09-02-09.md",
     "Ежедневник/Ежедневник-2026-02-09-02-11.md",
-    "Инструменты/Obsidian.md",
-    "Графики/Отчет ежедневника.md",
-    "QuickCapture.md",
-    "Ежедневник/Ежедневник-2026-02-09-02-00.md",
     "Untitled 1.md",
     "Untitled 3.md",
     "Ежедневник/Ежедневник-2026-02-09.md",
@@ -290,7 +291,6 @@
     "Ежедневник/Ежедневник-2026-02-09-00-27.md",
     "Ежедневник/Ежедневник-2026-02-09-00-26.md",
     "Ежедневник/Ежедневник-2026-02-09-00-22.md",
-    "Графики/Графики ежедневника.md",
     "Графики",
     "База данных/ЕжедневникБаза.base",
     "Шаблоны/Сохранения.md~",
