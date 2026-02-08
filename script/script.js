@@ -1,0 +1,49 @@
+module.exports = async (tp) => {
+    // ==== Запрос переменных ====
+    let important = await tp.system.prompt("📌 Что сегодня было важно?");
+    let win = await tp.system.prompt("🏆 Маленькая победа?");
+    let problem = await tp.system.prompt("🚧 Проблема или затык?");
+    let fix = await tp.system.prompt("🔧 Что попробуете изменить?");
+    let mood = await tp.system.prompt("Настрой (1–10)");
+    let energy = await tp.system.prompt("Энергия (1–10)");
+
+    if (!/^[1-9]$|^10$/.test(mood)) mood = "не указано";
+    if (!/^[1-9]$|^10$/.test(energy)) energy = "не указано";
+
+    // ==== Имя файла ====
+    let fileName = `Ежедневник-${tp.date.now("YYYY-MM-DD")}.md`;
+    let folderPath = "Ежедневник/";
+
+    // ==== Контент файла ====
+    let content = `---
+дата: ${tp.date.now("YYYY-MM-DD")}
+важное: |
+  ${important}
+победа: ${win}
+проблема: ${problem}
+решение: ${fix}
+настрой: ${mood}
+энергия: ${energy}
+---
+
+## 📌 Что сегодня было важно
+${important}
+
+## 🚧 Проблема или затык
+**Что случилось:**  
+${problem}
+
+**Что попробую изменить:**  
+${fix}
+
+## 🏆 Маленькая победа
+${win}
+
+## 📊 Состояние
+Настрой: ${mood}  
+Энергия: ${energy}
+`;
+
+    // ==== Создаём новый файл в папке Ежедневник ====
+    await tp.file.create_new(folderPath + fileName, content);
+};
