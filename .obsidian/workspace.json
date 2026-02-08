@@ -163,12 +163,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Ежедневник1.md",
+                "file": "2026-02-03.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ежедневник1"
+              "title": "2026-02-03"
             }
           },
           {
@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/Фильтр заметок.md",
+                "file": "Ежедневник/Без названия1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фильтр заметок"
+              "title": "Без названия1"
             }
           }
         ],
@@ -353,24 +353,27 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "2c9bb73adfa8d477",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
     "Ежедневник/Ежедневник-2026-02-08.md.md",
-    "Ежедневник/Фильтр заметок.md",
-    "Ежедневник/Untitled 1.md",
-    "Ежедневник/Untitled 3.md",
+    "Ежедневник/Без названия1.md",
+    "Ежедневник/Без названия1.md~",
+    "Untitled.md",
     "Шаблоны/Ежедневник1.md",
+    "Ежедневник/Untitled.md",
+    "Ежедневник/Untitled 3.md",
+    "Ежедневник/Untitled 1.md",
+    "script/script.js",
+    "script",
+    "Ежедневник/Фильтр заметок.md",
+    "Ежедневник/Ежедневник1.md",
+    "Шаблоны/Ежедневник.md",
     "Шаблоны/Книги.md",
     "Untitled 1.md",
-    "Untitled.md",
     "script/script.js~",
-    "Ежедневник/Untitled.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "script/script.js",
-    "script",
-    "Шаблоны/Ежедневник.md",
     "Шаблоны/Ежедневник1.md~",
     "Ежедневник/Лог-2026-02-08-17-35.md",
     "Ежедневник/Лог-2026-02-08-17-33.md",
@@ -384,13 +387,9 @@
     "2026-02-03.md",
     "Ежедневник/Лог-2026-02-08-16-15.md",
     "Шаблоны/Лог-2026-02-08-17-03.md",
-    "Книги/Библиотека.md",
-    "Книги/прив.md",
-    "Ежедневник/Лог-2026-02-08-16-19.md",
     "elastic.pdf",
     "Templates/Daily Reflection.md~",
     "Templates",
-    "Daily",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
