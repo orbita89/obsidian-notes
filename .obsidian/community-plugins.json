@@ -7,5 +7,7 @@
   "obsidian-tracker",
   "dataview",
   "quickadd",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-charts",
+  "obsidian-chartsview-plugin"
 ]
