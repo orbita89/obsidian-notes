@@ -31,20 +31,18 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "e2c41ee0-278c-40bc-a52a-bb42a0931cd2",
+      "id": "6960ce77-1f8c-4ee3-bac0-f3b1c5c0d852",
       "name": "Ежедневник",
       "type": "Template",
       "command": false,
-      "templatePath": "Шаблоны/Ежедневник.md",
+      "templatePath": "",
       "fileNameFormat": {
-        "enabled": true,
-        "format": "Ежедневник-{{DATE:YYYY-MM-DD-HH-mm}}"
+        "enabled": false,
+        "format": ""
       },
       "folder": {
-        "enabled": true,
-        "folders": [
-          "Ежедневник"
-        ],
+        "enabled": false,
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -58,10 +56,10 @@
         "focus": true
       },
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
+      "setFileExistsBehavior": false
     }
   ],
-  "inputPrompt": "multi-line",
+  "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "Шаблоны",
   "announceUpdates": "all",
@@ -78,9 +76,9 @@
   "onePageInputEnabled": false,
   "disableOnlineFeatures": false,
   "enableRibbonIcon": false,
-  "showCaptureNotification": true,
+  "showCaptureNotification": false,
   "showInputCancellationNotification": false,
-  "enableTemplatePropertyTypes": true,
+  "enableTemplatePropertyTypes": false,
   "ai": {
     "defaultModel": "Ask me",
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
