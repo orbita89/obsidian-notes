@@ -63,14 +63,10 @@
             "id": "3f27bd868947ce98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневник/Лог-2026-02-08-17-33.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Лог-2026-02-08-17-33"
+              "title": "Новая вкладка"
             }
           },
           {
@@ -88,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,6 +135,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e592f36808bd313e",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
             }
           }
         ]
@@ -238,9 +244,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -248,20 +251,25 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9b8e8fe6fd59f53b",
+  "active": "133065a80f84c589",
   "lastOpenFiles": [
+    "Графики/Отчет ежедневника.md",
+    "Инструменты/Obsidian.md",
+    "QuickCapture.md",
     "Ежедневник/Ежедневник-2026-02-09-02-00.md",
     "Ежедневник/Ежедневник-2026-02-09-02-11.md",
     "Untitled 1.md",
     "Ежедневник/Ежедневник-2026-02-09-02-09.md",
-    "Графики/Отчет ежедневника.md",
     "Untitled 3.md",
     "Ежедневник/Ежедневник-2026-02-09.md",
     "Ежедневник/Ежедневник-2026-02-09 2.md",
@@ -284,9 +292,7 @@
     "Ежедневник/Ежедневник-2026-02-09-00-22.md",
     "Графики/Графики ежедневника.md",
     "Графики",
-    "Инструменты/Obsidian.md",
     "База данных/ЕжедневникБаза.base",
-    "Ежедневник/Ежедневник-2026-02-08-23-28.md",
     "Шаблоны/Сохранения.md~",
     "База данных",
     "Ежедневник/Ежедневник.md~",
