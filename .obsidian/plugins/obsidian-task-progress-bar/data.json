@@ -995,7 +995,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770578477565,
+        "updatedAt": 1770578845317,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1124,7 +1124,19 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "id-1770328223284-9xh66ufll",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "id-1770328223285-j9s0aqsnp",
+                        "property": "completed",
+                        "condition": "isFalse"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             },
@@ -1230,12 +1242,24 @@
               "filters": {},
               "advancedFilter": {
                 "rootCondition": "all",
-                "filterGroups": []
+                "filterGroups": [
+                  {
+                    "id": "id-1770328223284-9xh66ufll",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "id-1770328223285-j9s0aqsnp",
+                        "property": "completed",
+                        "condition": "isFalse"
+                      }
+                    ]
+                  }
+                ]
               },
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "projects"
+          "fluentActiveViewId": "habit"
         }
       }
     }

@@ -17,12 +17,14 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "projects": "list"
+                  "projects": "list",
+                  "habit": "list",
+                  "gantt": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "projects"
+                "currentViewId": "habit"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -43,90 +45,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "QuickCapture"
-            }
-          },
-          {
-            "id": "c1638c865a9933ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шаблоны/Ежедневник.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ежедневник"
-            }
-          },
-          {
-            "id": "e80fd2d1bf972b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шаблоны/Ежедневник.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ежедневник"
-            }
-          },
-          {
-            "id": "bcda8cc71aa3bb7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Шаблоны/Ежедневник.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ежедневник"
-            }
-          },
-          {
-            "id": "495c8593d4ef3312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневник/Ежедневник.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ежедневник"
-            }
-          },
-          {
-            "id": "843d713981b7207b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневник/Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "443131871ee60bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневник/Без названия 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 1"
             }
           },
           {
@@ -163,29 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-03.md",
+                "file": "Ежедневник/Ежедневник-2026-02-08-23-05.md",
                 "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-03"
-            }
-          },
-          {
-            "id": "2c9bb73adfa8d477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневник/Ежедневник.md",
-                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ежедневник"
+              "title": "Ежедневник-2026-02-08-23-05"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -258,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инструменты/Obsidian.md",
+                "file": "Ежедневник/Ежедневник-2026-02-08-23-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Obsidian"
+              "title": "Обратные ссылки для Ежедневник-2026-02-08-23-05"
             }
           },
           {
@@ -352,24 +257,27 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "a098f49970d70c38",
+  "active": "98abaae21d1e7950",
   "lastOpenFiles": [
+    "Инструменты/Obsidian.md",
     "База данных/ЕжедневникБаза.base",
     "Ежедневник/Ежедневник-2026-02-08-23-05.md",
+    "Ежедневник/Ежедневник-2026-02-08-23-28.md",
+    "Untitled.md",
+    "QuickCapture.md",
+    "Daily/2026-02-08.md",
+    "Шаблоны/Ежедневник.md",
     "Ежедневник/Фильтр заметок.md",
     "Untitled 1.md",
     "Ежедневник/Без названия.md",
     "Ежедневник/ТЕСТ.md",
-    "Шаблоны/Ежедневник.md",
     "Ежедневник/Ежедневник-2026-02-08-23-02.md",
     "Ежедневник/Ежедневник-2026-02-08-23-01.md",
     "Шаблоны/Ежедневник.md~",
     "Ежедневник/Ежедневник-2026-02-08-23-00.md",
     "Ежедневник/Ежедневник-2026-02-08-22-59.md",
     "Ежедневник/Ежедневник-2026-02-08-22-56.md",
-    "Untitled.md",
     "Шаблоны/Сохранения.md",
-    "QuickCapture.md",
     "Untitled 2.md",
     "Ежедневник/Ежедневник-2026-02-08-22-53 1.md",
     "Ежедневник/Ежедневник-2026-02-08-22-48.md",
@@ -378,10 +286,7 @@
     "Ежедневник/Ежедневник-2026-02-08-22-50.md",
     "Untitled 11.md",
     "Untitled 6.md",
-    "Untitled 3.md",
-    "Ежедневник/Ежедневник-2026-02-08-22-45.md",
     "Шаблоны/Сохранения.md~",
-    "Ежедневник/Ежедневник-2026-02-08-22-27.md",
     "База данных",
     "Ежедневник/Ежедневник.md~",
     "Ежедневник/Без названия1.md~",
