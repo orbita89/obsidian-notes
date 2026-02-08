@@ -6,12 +6,12 @@
       "type": "Capture",
       "command": false,
       "appendLink": false,
-      "captureTo": "",
+      "captureTo": "Ежедневник/<% tp.date.now(\"YYYY-MM-DD\") %>",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
         "enabled": false,
-        "createWithTemplate": false,
+        "createWithTemplate": true,
         "template": ""
       },
       "format": {
@@ -53,8 +53,8 @@
     "DATE": "{{DATE:YYYY-MM-DD}}"
   },
   "onePageInputEnabled": false,
-  "disableOnlineFeatures": true,
-  "enableRibbonIcon": true,
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": false,
   "showCaptureNotification": false,
   "showInputCancellationNotification": false,
   "enableTemplatePropertyTypes": false,

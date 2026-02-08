@@ -107,12 +107,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/Фильтр заметок.md",
-                "mode": "preview",
+                "file": "Ежедневник/Без названия.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фильтр заметок"
+              "title": "Без названия"
             }
           },
           {
@@ -335,7 +335,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
@@ -355,18 +354,18 @@
   },
   "active": "843d713981b7207b",
   "lastOpenFiles": [
+    "Ежедневник/Фильтр заметок.md",
+    "Ежедневник/Без названия.md",
     "Ежедневник/Ежедневник.md",
     "Ежедневник/Ежедневник.md~",
     "Untitled 5.md",
     "Untitled 4.md",
-    "Ежедневник/Без названия.md",
     "Ежедневник/Без названия 1.md",
     "Ежедневник/Без названия 2.md",
     "Ежедневник/Без названия 3.md",
     "Без названия.md",
     "Без названия 1.md",
     "Шаблоны/Ежедневник. add.md",
-    "Ежедневник/Фильтр заметок.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Шаблоны/Книги.md",
