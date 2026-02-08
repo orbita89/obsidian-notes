@@ -30,5 +30,13 @@
       ],
       "key": "D"
     }
+  ],
+  "templater-obsidian:create-Шаблоны/Ежедневник.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }
