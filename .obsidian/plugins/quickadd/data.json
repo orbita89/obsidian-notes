@@ -33,23 +33,34 @@
     {
       "id": "c7b03017-4337-4e72-aefc-ea766c189c33",
       "name": "Ежедневник",
-      "type": "Template",
+      "type": "Capture",
       "command": false,
-      "templatePath": "Шаблоны/Ежедневник.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Лог-{{DATE:YYYY-MM-DD-HH-mm}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Ежедневник"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
       "appendLink": false,
+      "captureTo": "Ежедневник/Лог-{{DATE:YYYY-MM-DD-HH-mm}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Шаблоны/Ежедневник.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
       "openFile": true,
       "fileOpening": {
         "location": "tab",
@@ -57,8 +68,78 @@
         "mode": "source",
         "focus": true
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "captureVariables": [
+        {
+          "name": "MOOD",
+          "type": "Text"
+        },
+        {
+          "name": "ENERGY",
+          "type": "Text"
+        },
+        {
+          "name": "IMPORTANT",
+          "type": "Text"
+        },
+        {
+          "name": "WIN",
+          "type": "Text"
+        },
+        {
+          "name": "PROBLEM",
+          "type": "Text"
+        },
+        {
+          "name": "FIX",
+          "type": "Text"
+        }
+      ],
+      "templater": {
+        "afterCapture": "none"
+      }
+    },
+    {
+      "id": "70ea3f86-bf91-498e-9ab3-3bb8929972ab",
+      "name": "1212",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
+      }
     }
   ],
   "inputPrompt": "multi-line",
