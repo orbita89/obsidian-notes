@@ -24,9 +24,14 @@ views:
         - file.folder == "Ежедневник"
     order:
       - file.name
-      - дата
-      - настрой
-      - победа
       - проблема
       - энергия
       - решение
+  - type: list
+    name: представление 2
+    filters:
+      and:
+        - file.folder == "Ежедневник"
+    order:
+      - file.name
+      - важное
