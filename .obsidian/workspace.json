@@ -93,8 +93,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Ежедневник.md",
-                "mode": "preview",
+                "file": "Ежедневник/Ежедневник.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -177,16 +177,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/Без названия1.md",
+                "file": "Ежедневник/Ежедневник.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия1"
+              "title": "Ежедневник"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -353,27 +353,27 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "495c8593d4ef3312",
   "lastOpenFiles": [
-    "Ежедневник/Ежедневник-2026-02-08.md.md",
-    "Ежедневник/Без названия1.md",
-    "Ежедневник/Без названия1.md~",
-    "Untitled.md",
-    "Шаблоны/Ежедневник1.md",
-    "Ежедневник/Untitled.md",
-    "Ежедневник/Untitled 3.md",
-    "Ежедневник/Untitled 1.md",
-    "script/script.js",
-    "script",
-    "Ежедневник/Фильтр заметок.md",
-    "Ежедневник/Ежедневник1.md",
-    "Шаблоны/Ежедневник.md",
-    "Шаблоны/Книги.md",
-    "Untitled 1.md",
-    "script/script.js~",
-    "Untitled 4.md",
+    "Шаблоны/Ежедневник. add.md",
     "Untitled 3.md",
     "Untitled 2.md",
+    "Ежедневник/Ежедневник.md",
+    "Ежедневник/Фильтр заметок.md",
+    "Шаблоны/Книги.md",
+    "Шаблоны/Ежедневник1.md",
+    "Untitled 1.md",
+    "Ежедневник/Без названия1.md~",
+    "Untitled.md",
+    "Ежедневник/Ежедневник-2026-02-08.md.md",
+    "Ежедневник/Untitled.md",
+    "Ежедневник/Untitled 1.md",
+    "Ежедневник/Untitled 3.md",
+    "script/script.js",
+    "script",
+    "Ежедневник/Ежедневник1.md",
+    "script/script.js~",
+    "Untitled 4.md",
     "Шаблоны/Ежедневник1.md~",
     "Ежедневник/Лог-2026-02-08-17-35.md",
     "Ежедневник/Лог-2026-02-08-17-33.md",
