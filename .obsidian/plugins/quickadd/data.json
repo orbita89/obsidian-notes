@@ -35,14 +35,19 @@
       "name": "Ежедневник",
       "type": "Capture",
       "command": false,
-      "appendLink": false,
-      "captureTo": "",
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "captureTo": "Ежедневник-{{DATE:YYYY-MM-DD-HH-mm}}",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Шаблоны/Ежедневник.md"
       },
       "format": {
         "enabled": false,
@@ -62,7 +67,7 @@
       },
       "prepend": false,
       "task": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
@@ -70,15 +75,8 @@
         "focus": true
       },
       "templater": {
-        "afterCapture": "none"
+        "afterCapture": "wholeFile"
       }
-    },
-    {
-      "id": "38e96b28-a8a1-4295-94e3-b1779cbb690a",
-      "name": "2222",
-      "type": "Multi",
-      "command": false,
-      "choices": []
     }
   ],
   "inputPrompt": "multi-line",
