@@ -68,31 +68,39 @@
         "mode": "source",
         "focus": true
       },
+      "onePageInputEnabled": false,
       "captureVariables": [
         {
-          "name": "MOOD",
-          "type": "Text",
+          "name": "IMPORTANT",
+          "type": "textarea",
           "prompt": "📌 Что сегодня было важно?"
         },
         {
-          "name": "ENERGY",
-          "type": "Text"
-        },
-        {
-          "name": "IMPORTANT",
-          "type": "Text"
-        },
-        {
           "name": "WIN",
-          "type": "Text"
+          "type": "input",
+          "prompt": "🏆 Маленькая победа?"
         },
         {
           "name": "PROBLEM",
-          "type": "Text"
+          "type": "input",
+          "prompt": "🚧 Какая была проблема или затык?"
         },
         {
           "name": "FIX",
-          "type": "Text"
+          "type": "input",
+          "prompt": "🔧 Что попробуете изменить?"
+        },
+        {
+          "name": "MOOD",
+          "type": "dropdown",
+          "prompt": "Настрой",
+          "options": ["1","2","3","4","5","6","7","8","9","10"]
+        },
+        {
+          "name": "ENERGY",
+          "type": "dropdown",
+          "prompt": "Энергия",
+          "options": ["1","2","3","4","5","6","7","8","9","10"]
         }
       ],
       "templater": {
@@ -109,7 +117,7 @@
   "globalVariables": {
     "DATE": "{{DATE:YYYY-MM-DD}}"
   },
-  "onePageInputEnabled": true,
+  "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableRibbonIcon": true,
   "showCaptureNotification": false,
