@@ -29,37 +29,9 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
-    },
-    {
-      "id": "6960ce77-1f8c-4ee3-bac0-f3b1c5c0d852",
-      "name": "Ежедневник",
-      "type": "Template",
-      "command": false,
-      "templatePath": "",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
     }
   ],
-  "inputPrompt": "single-line",
+  "inputPrompt": "multi-line",
   "devMode": false,
   "templateFolderPath": "Шаблоны",
   "announceUpdates": "all",
@@ -75,9 +47,9 @@
   },
   "onePageInputEnabled": false,
   "disableOnlineFeatures": false,
-  "enableRibbonIcon": false,
+  "enableRibbonIcon": true,
   "showCaptureNotification": false,
-  "showInputCancellationNotification": false,
+  "showInputCancellationNotification": true,
   "enableTemplatePropertyTypes": false,
   "ai": {
     "defaultModel": "Ask me",
