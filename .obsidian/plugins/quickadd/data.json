@@ -55,7 +55,7 @@
         "location": "tab",
         "direction": "vertical",
         "mode": "default",
-        "focus": true
+        "focus": false
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
@@ -67,12 +67,6 @@
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {
-    "IMPORTANT": "Что сегодня было важно?",
-    "WIN": "Маленькая победа?",
-    "PROBLEM": "Какая была проблема или затык?",
-    "FIX": "Что попробуете изменить?",
-    "MOOD": "Настрой (1–10)?",
-    "ENERGY": "Энергия (1–10)?",
     "DATE": "{{DATE:YYYY-MM-DD}}"
   },
   "onePageInputEnabled": true,
@@ -80,7 +74,7 @@
   "enableRibbonIcon": true,
   "showCaptureNotification": false,
   "showInputCancellationNotification": false,
-  "enableTemplatePropertyTypes": false,
+  "enableTemplatePropertyTypes": true,
   "ai": {
     "defaultModel": "Ask me",
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
