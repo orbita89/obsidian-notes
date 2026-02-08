@@ -33,41 +33,23 @@
     {
       "id": "c7b03017-4337-4e72-aefc-ea766c189c33",
       "name": "Ежедневник",
-      "type": "Capture",
+      "type": "Template",
       "command": false,
-      "onePageInput": "always",
-      "appendLink": {
+      "templatePath": "Шаблоны/Ежедневник.md",
+      "fileNameFormat": {
         "enabled": true,
-        "placement": "newLine",
-        "requireActiveFile": true,
-        "linkType": "link"
+        "format": "Лог-{{DATE:YYYY-MM-DD-HH-mm}}"
       },
-      "captureTo": "Ежедневник/Лог-{{DATE:YYYY-MM-DD-HH-mm}}",
-      "captureToActiveFile": false,
-      "activeFileWritePosition": "cursor",
-      "createFileIfItDoesntExist": {
+      "folder": {
         "enabled": true,
-        "createWithTemplate": true,
-        "template": "Шаблоны/Ежедневник.md"
+        "folders": [
+          "Ежедневник"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
       },
-      "format": {
-        "enabled": false,
-        "format": ""
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": true,
+      "appendLink": false,
       "openFile": true,
       "fileOpening": {
         "location": "tab",
@@ -75,9 +57,8 @@
         "mode": "default",
         "focus": true
       },
-      "templater": {
-        "afterCapture": "wholeFile"
-      }
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",
@@ -94,7 +75,7 @@
     "ENERGY": "Энергия (1–10)?",
     "DATE": "{{DATE:YYYY-MM-DD}}"
   },
-  "onePageInputEnabled": false,
+  "onePageInputEnabled": true,
   "disableOnlineFeatures": false,
   "enableRibbonIcon": true,
   "showCaptureNotification": false,
