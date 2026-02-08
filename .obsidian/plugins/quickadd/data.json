@@ -1,47 +1,18 @@
 {
   "choices": [
     {
-      "id": "38a45225-bd4b-4137-b799-66e12412c1e7",
-      "name": "add new book",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Шаблоны/Книги.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{VALUE:title}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Книги"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "c7b03017-4337-4e72-aefc-ea766c189c33",
-      "name": "Ежедневник",
+      "id": "8e2419f7-4a21-4c1c-b969-b462d732364b",
+      "name": "Новая заметка в Ежедневник",
       "type": "Capture",
       "command": false,
       "appendLink": false,
-      "captureTo": "Ежедневник/Лог-{{DATE:YYYY-MM-DD-HH-mm}}",
+      "captureTo": "",
       "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": true,
-        "template": "Шаблоны/Ежедневник.md"
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
       },
       "format": {
         "enabled": false,
@@ -61,52 +32,16 @@
       },
       "prepend": false,
       "task": false,
-      "openFile": true,
+      "openFile": false,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
-        "mode": "source",
+        "mode": "default",
         "focus": true
       },
-      "onePageInputEnabled": false,
-      "captureVariables": [
-        {
-          "name": "IMPORTANT",
-          "type": "textarea",
-          "prompt": "📌 Что сегодня было важно?"
-        },
-        {
-          "name": "WIN",
-          "type": "input",
-          "prompt": "🏆 Маленькая победа?"
-        },
-        {
-          "name": "PROBLEM",
-          "type": "input",
-          "prompt": "🚧 Какая была проблема или затык?"
-        },
-        {
-          "name": "FIX",
-          "type": "input",
-          "prompt": "🔧 Что попробуете изменить?"
-        },
-        {
-          "name": "MOOD",
-          "type": "dropdown",
-          "prompt": "Настрой",
-          "options": ["1","2","3","4","5","6","7","8","9","10"]
-        },
-        {
-          "name": "ENERGY",
-          "type": "dropdown",
-          "prompt": "Энергия",
-          "options": ["1","2","3","4","5","6","7","8","9","10"]
-        }
-      ],
       "templater": {
         "afterCapture": "none"
-      },
-      "activeFileWritePosition": "cursor"
+      }
     }
   ],
   "inputPrompt": "multi-line",
