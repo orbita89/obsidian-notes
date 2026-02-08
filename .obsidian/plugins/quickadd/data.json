@@ -31,13 +31,13 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "16989814-60e7-4ffb-86f1-d9608c890e90",
-      "name": "Добавить ежедневник",
+      "id": "e2c41ee0-278c-40bc-a52a-bb42a0931cd2",
+      "name": "Ежедневник",
       "type": "Template",
       "command": false,
-      "templatePath": "Шаблоны/Ежедневник.md",
+      "templatePath": "",
       "fileNameFormat": {
-        "enabled": true,
+        "enabled": false,
         "format": ""
       },
       "folder": {

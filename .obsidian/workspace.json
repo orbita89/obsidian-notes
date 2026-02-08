@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Книги.md",
-                "mode": "source",
+                "file": "Шаблоны/Ежедневник.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Книги"
+              "title": "Ежедневник"
             }
           }
         ],
@@ -228,11 +228,16 @@
   },
   "active": "c4f47295f40dbe17",
   "lastOpenFiles": [
+    "Шаблоны/Книги.md",
+    "Книги/1984.md",
+    "Книги/прив.md",
+    "Книги/Библиотека.md",
+    "Книги/SAA\n\n.md",
+    "Книги/вава.md",
+    "Шаблоны/Ежедневник.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Шаблоны/Ежедневник.md",
     "QuickCapture.md",
-    "Шаблоны/Книги.md",
     "elastic.pdf",
     "Templates/Ежедневник.md",
     "Краткое самое важное прохождение собеседование.md",
@@ -249,10 +254,7 @@
     "2026-02-03.md",
     "Работа Optimax/Заметки Optimax.md",
     "Разработка/Magento/Magento.md",
-    "Книги/Библиотека.md",
-    "Книги/SAA\n\n.md",
     "Библиотека.md",
-    "Книги/1984.md",
     "Excalidraw/Drawing 2026-01-25 17.45.40.excalidraw.md",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
     "Разработка/Magento",
@@ -260,9 +262,7 @@
     "Разработка",
     "Excalidraw/Drawing 2026-01-26 10.41.21.excalidraw.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-25 17.48.46.excalidraw.md",
     "Без названия.canvas",
-    "Задачи.md",
     "Шаблоны",
     "Работа Optimax",
     "Работа/Без названия.canvas",
