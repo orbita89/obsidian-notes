@@ -29,6 +29,56 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "71a0eb05-44b3-4813-8f02-5f0aac074e5e",
+      "name": "Ежедневник",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
+      }
+    },
+    {
+      "id": "38e96b28-a8a1-4295-94e3-b1779cbb690a",
+      "name": "2222",
+      "type": "Multi",
+      "command": false,
+      "choices": []
     }
   ],
   "inputPrompt": "multi-line",
