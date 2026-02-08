@@ -1,0 +1,32 @@
+views:
+  - type: cards
+    name: Таблица
+    filters:
+      and:
+        - file.folder == "Ежедневник"
+    order:
+      - file.name
+      - дата
+    viewMode: projects
+    taskContent: file.basename
+    taskStatus: note.status
+    taskPriority: note.priority
+    taskProject: note.project
+    taskTags: note.tags
+    taskDueDate: note.dueDate
+    taskStartDate: note.startDate
+    taskCompletedDate: note.completionDate
+    taskContext: note.context
+  - type: table
+    name: представление
+    filters:
+      and:
+        - file.folder == "Ежедневник"
+    order:
+      - file.name
+      - дата
+      - настрой
+      - победа
+      - проблема
+      - энергия
+      - решение
