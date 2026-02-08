@@ -185,8 +185,7 @@
               "title": "Ежедневник"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,7 +352,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "133065a80f84c589",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
     "База данных/ЕжедневникБаза.base",
     "Ежедневник/Ежедневник-2026-02-08-23-05.md",
