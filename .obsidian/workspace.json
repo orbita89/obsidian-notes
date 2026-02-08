@@ -178,7 +178,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ежедневник/Фильтр заметок.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -353,10 +353,12 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "2c9bb73adfa8d477",
   "lastOpenFiles": [
-    "Шаблоны/Ежедневник1.md",
     "Ежедневник/Untitled 1.md",
+    "Ежедневник/Untitled 3.md",
+    "Ежедневник/Фильтр заметок.md",
+    "Шаблоны/Ежедневник1.md",
     "Шаблоны/Книги.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -365,12 +367,10 @@
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Ежедневник/Untitled 3.md",
     "script/script.js",
     "script",
     "Шаблоны/Ежедневник.md",
     "Шаблоны/Ежедневник1.md~",
-    "Ежедневник/Фильтр заметок.md",
     "Ежедневник/Лог-2026-02-08-17-35.md",
     "Ежедневник/Лог-2026-02-08-17-33.md",
     "Ежедневник/Лог-2026-02-08-17-27.md",
