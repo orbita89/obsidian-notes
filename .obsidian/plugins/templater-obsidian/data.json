@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Ежедневник",
-      "template": "Ежедневник/Ежедневник.md"
+      "template": "Шаблоны/Ежедневник.md"
     }
   ],
   "enable_file_templates": false,
@@ -29,7 +29,7 @@
   "syntax_highlighting": false,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Ежедневник/Ежедневник.md"
+    "Шаблоны/Ежедневник.md"
   ],
   "startup_templates": [
     ""
