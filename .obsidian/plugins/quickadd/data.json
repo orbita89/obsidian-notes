@@ -35,14 +35,16 @@
       "name": "Ежедневник",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "Шаблоны/Ежедневник.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "Ежедневник-{{DATE:YYYY-MM-DD-HH-mm}}"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Ежедневник"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -56,7 +58,7 @@
         "focus": true
       },
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "setFileExistsBehavior": true
     }
   ],
   "inputPrompt": "multi-line",
@@ -64,11 +66,9 @@
   "templateFolderPath": "Шаблоны",
   "announceUpdates": "all",
   "version": "2.9.4",
-  "globalVariables": {
-    "NewVar": ""
-  },
+  "globalVariables": {},
   "onePageInputEnabled": false,
-  "disableOnlineFeatures": true,
+  "disableOnlineFeatures": false,
   "enableRibbonIcon": false,
   "showCaptureNotification": true,
   "showInputCancellationNotification": false,
