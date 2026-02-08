@@ -1,49 +1,5 @@
 {
-  "choices": [
-    {
-      "id": "8e2419f7-4a21-4c1c-b969-b462d732364b",
-      "name": "Новая заметка в Ежедневник",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "Ежедневник/{{DATE:YYYY-MM-DD}}",
-      "captureToActiveFile": false,
-      "activeFileWritePosition": "cursor",
-      "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": false,
-        "format": ""
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "templater": {
-        "afterCapture": "none"
-      }
-    }
-  ],
+  "choices": [],
   "inputPrompt": "none",
   "devMode": false,
   "templateFolderPath": "Шаблоны",
