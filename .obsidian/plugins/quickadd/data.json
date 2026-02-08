@@ -31,17 +31,12 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "71a0eb05-44b3-4813-8f02-5f0aac074e5e",
+      "id": "c7b03017-4337-4e72-aefc-ea766c189c33",
       "name": "Ежедневник",
       "type": "Capture",
       "command": false,
-      "appendLink": {
-        "enabled": true,
-        "placement": "replaceSelection",
-        "requireActiveFile": true,
-        "linkType": "link"
-      },
-      "captureTo": "Ежедневник-{{DATE:YYYY-MM-DD-HH-mm}}",
+      "appendLink": false,
+      "captureTo": "Ежедневник/Лог-{{DATE:YYYY-MM-DD-HH-mm}}",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
@@ -75,7 +70,7 @@
         "focus": true
       },
       "templater": {
-        "afterCapture": "wholeFile"
+        "afterCapture": "none"
       }
     }
   ],
@@ -98,7 +93,7 @@
   "enableRibbonIcon": true,
   "showCaptureNotification": false,
   "showInputCancellationNotification": true,
-  "enableTemplatePropertyTypes": false,
+  "enableTemplatePropertyTypes": true,
   "ai": {
     "defaultModel": "Ask me",
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
