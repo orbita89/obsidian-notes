@@ -22,5 +22,13 @@
       ],
       "key": "A"
     }
+  ],
+  "templater-obsidian:create-Ежедневник/Ежедневник.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }
