@@ -9,9 +9,9 @@
   ],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
+  "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "script",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -34,5 +34,5 @@
   "startup_templates": [
     ""
   ],
-  "intellisense_render": 3
+  "intellisense_render": 1
 }

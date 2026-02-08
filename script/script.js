@@ -1,22 +1,36 @@
 module.exports = async (tp) => {
-    // ==== Запрос переменных ====
-    let important = await tp.system.prompt("📌 Что сегодня было важно?");
-    let win = await tp.system.prompt("🏆 Маленькая победа?");
-    let problem = await tp.system.prompt("🚧 Проблема или затык?");
-    let fix = await tp.system.prompt("🔧 Что попробуете изменить?");
-    let mood = await tp.system.prompt("Настрой (1–10)");
-    let energy = await tp.system.prompt("Энергия (1–10)");
+  // ==== Создаём форму для ввода всех полей сразу ====
+  const responses = await tp.system.prompt(
+    `📌 Введите данные через | разделитель в следующем порядке:
+1. Что было важно
+2. Маленькая победа
+3. Проблема или затык
+4. Что попробуете изменить
+5. Настрой (1–10)
+6. Энергия (1–10)
 
-    if (!/^[1-9]$|^10$/.test(mood)) mood = "не указано";
-    if (!/^[1-9]$|^10$/.test(energy)) energy = "не указано";
+Пример:
+Сделал настройку Templater|Протестировал скрипт|Ошибка формы|Исправить блок|8|7`
+  );
 
-    // ==== Имя файла ====
-    let fileName = `Ежедневник-${tp.date.now("YYYY-MM-DD")}.md`;
-    let folderPath = "Ежедневник/";
+  // Разбиваем на отдельные поля
+  let [important, win, problem, fix, mood, energy] = responses.split("|");
 
-    // ==== Контент файла ====
-    let content = `---
-дата: ${tp.date.now("YYYY-MM-DD")}
+  if (!important) important = "";
+  if (!win) win = "";
+  if (!problem) problem = "";
+  if (!fix) fix = "";
+  if (!/^[1-9]$|^10$/.test(mood)) mood = "не указано";
+  if (!/^[1-9]$|^10$/.test(energy)) energy = "не указано";
+
+  // ==== Имя файла ====
+  const date = tp.date.now("YYYY-MM-DD");
+  const fileName = `Ежедневник-${date}.md`;
+  const folderPath = "Ежедневник/";
+
+  // ==== Контент файла ====
+  const content = `---
+дата: ${date}
 важное: |
   ${important}
 победа: ${win}
@@ -44,6 +58,6 @@ ${win}
 Энергия: ${energy}
 `;
 
-    // ==== Создаём новый файл в папке Ежедневник ====
-    await tp.file.create_new(folderPath + fileName, content);
+  // ==== Создаём новый файл в папке Ежедневник ====
+  await tp.file.create_new(folderPath + fileName, content);
 };
