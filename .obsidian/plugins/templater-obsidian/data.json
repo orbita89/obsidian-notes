@@ -15,18 +15,18 @@
   "enable_folder_templates": false,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Ежедневник",
+      "template": "Ежедневник/Ежедневник.md"
     }
   ],
-  "enable_file_templates": true,
+  "enable_file_templates": false,
   "file_templates": [
     {
       "regex": ".*",
       "template": ""
     }
   ],
-  "syntax_highlighting": true,
+  "syntax_highlighting": false,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
