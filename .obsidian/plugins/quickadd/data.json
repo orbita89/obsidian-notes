@@ -71,7 +71,8 @@
       "captureVariables": [
         {
           "name": "MOOD",
-          "type": "Text"
+          "type": "Text",
+          "prompt": "📌 Что сегодня было важно?"
         },
         {
           "name": "ENERGY",
@@ -96,50 +97,8 @@
       ],
       "templater": {
         "afterCapture": "none"
-      }
-    },
-    {
-      "id": "70ea3f86-bf91-498e-9ab3-3bb8929972ab",
-      "name": "1212",
-      "type": "Capture",
-      "command": false,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": false,
-      "activeFileWritePosition": "cursor",
-      "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": true,
-        "template": ""
       },
-      "format": {
-        "enabled": false,
-        "format": ""
-      },
-      "insertAfter": {
-        "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "templater": {
-        "afterCapture": "none"
-      }
+      "activeFileWritePosition": "cursor"
     }
   ],
   "inputPrompt": "multi-line",
