@@ -4,7 +4,7 @@
       "id": "8e2419f7-4a21-4c1c-b969-b462d732364b",
       "name": "Новая заметка в Ежедневник",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "captureTo": "Ежедневник/{{DATE:YYYY-MM-DD}}",
       "captureToActiveFile": false,
@@ -44,14 +44,12 @@
       }
     }
   ],
-  "inputPrompt": "multi-line",
+  "inputPrompt": "none",
   "devMode": false,
   "templateFolderPath": "Шаблоны",
   "announceUpdates": "all",
   "version": "2.9.4",
-  "globalVariables": {
-    "DATE": "{{DATE:YYYY-MM-DD}}"
-  },
+  "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": false,
   "enableRibbonIcon": false,
@@ -60,7 +58,7 @@
   "enableTemplatePropertyTypes": false,
   "ai": {
     "defaultModel": "Ask me",
-    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively.",
+    "defaultSystemPrompt": "",
     "promptTemplatesFolderPath": "",
     "showAssistant": true,
     "providers": []
