@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Какие самые полезные плагины для новичка в Obsidian.md",
+                "file": "Clippings/Most Downloaded Obsidian Plugins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Какие самые полезные плагины для новичка в Obsidian"
+              "title": "Most Downloaded Obsidian Plugins"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа Optimax/Хлам работа.md",
+                "file": "Clippings/Most Downloaded Obsidian Plugins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Хлам работа"
+              "title": "Структура Most Downloaded Obsidian Plugins"
             }
           },
           {
@@ -256,13 +256,35 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "9b8e8fe6fd59f53b",
   "lastOpenFiles": [
-    "Инструменты/Obsidian.md",
+    "copilot/copilot-conversations/Привет_ты_работает@20260209_032432.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
+    "Clippings/Most Downloaded Obsidian Plugins.md",
     "Clippings/Какие самые полезные плагины для новичка в Obsidian.md",
+    "Инструменты/Obsidian.md",
     "Clippings",
     "Книги/222.md",
     "Графики/Отчет ежедневника.md",
@@ -270,33 +292,12 @@
     "phpstorm.md",
     "Книги/Библиотека.md",
     "Книги/1984.md",
-    "Шаблоны/Книги.md",
-    "Untitled.md",
-    "Горячие клавиши.md",
     "Без названия.base",
-    "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-26 10.41.21.excalidraw.md",
-    "Краткое самое важное прохождение собеседование.md",
-    "Daily/2026-02-09.md",
-    "Ежедневник/Ежедневник-2026-02-09-02-00.md",
-    "Ежедневник/Ежедневник-2026-02-09-02-09.md",
-    "Ежедневник/Ежедневник-2026-02-09-02-11.md",
-    "Untitled 1.md",
-    "Untitled 3.md",
-    "Ежедневник/Ежедневник-2026-02-09.md",
-    "Ежедневник/Ежедневник-2026-02-09 2.md",
     "Шаблоны/Ежедневник.md~",
-    "Untitled 2.md",
-    "Ежедневник/Ежедневник-2026-02-09 1.md",
-    "Шаблоны/Ежедневник.md",
-    "Ежедневник/Ежедневник-2026-02-09-01-42.md",
     "Ежедневник/Ежедневник-2026-02-08-23-05.md~",
     "Графики",
     "База данных/ЕжедневникБаза.base",
     "Шаблоны/Сохранения.md~",
-    "База данных",
-    "Ежедневник/Ежедневник.md~",
-    "Ежедневник/Без названия1.md~",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
