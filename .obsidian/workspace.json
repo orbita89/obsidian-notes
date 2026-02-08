@@ -65,16 +65,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ежедневник/Лог-2026-02-08-16-15.md",
+                "file": "Шаблоны/Ежедневник.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лог-2026-02-08-16-15"
+              "title": "Ежедневник"
+            }
+          },
+          {
+            "id": "bcda8cc71aa3bb7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблоны/Ежедневник.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ежедневник"
+            }
+          },
+          {
+            "id": "495c8593d4ef3312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Шаблоны/Ежедневник.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ежедневник"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,8 +269,10 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "e80fd2d1bf972b5c",
+  "active": "495c8593d4ef3312",
   "lastOpenFiles": [
+    "Ежедневник/Лог-2026-02-08-16-19.md",
+    "Ежедневник/Лог-2026-02-08-16-21.md",
     "Шаблоны/Ежедневник.md",
     "Ежедневник/Лог-2026-02-08-16-15.md",
     "Ежедневник-2026-02-08-16-03.md",
@@ -267,8 +297,6 @@
     "Книги/прив.md",
     "Книги/Библиотека.md",
     "Книги/SAA\n\n.md",
-    "Книги/вава.md",
-    "Untitled 1.md",
     "elastic.pdf",
     "Templates/Daily Reflection.md~",
     "Templates",
