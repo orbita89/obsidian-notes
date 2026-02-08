@@ -8,6 +8,5 @@
   "dataview",
   "quickadd",
   "templater-obsidian",
-  "obsidian-charts",
-  "obsidian-chartsview-plugin"
+  "obsidian-charts"
 ]
