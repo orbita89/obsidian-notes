@@ -115,7 +115,23 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a5b2912c18de461d",
+                "id": "856c26bf0e87149a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Новая вкладка"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0b53c676d6d6c0d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33902999231005ad",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -345,7 +361,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a5b2912c18de461d",
+  "active": "33902999231005ad",
   "lastOpenFiles": [
     "Clippings/Most Downloaded Obsidian Plugins.md",
     "copilot/copilot-conversations/Привет_ты_работает@20260209_032432.md",
