@@ -1,0 +1,15 @@
+formulas:
+  Без названия: ""
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.folder == "Ежедневник"
+    order:
+      - file.basename
+      - важное
+    sort:
+      - property: file.basename
+        direction: DESC
+    rowHeight: medium
