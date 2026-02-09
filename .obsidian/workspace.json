@@ -49,13 +49,14 @@
             "id": "9b8e8fe6fd59f53b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "-video-screenshots-without-notes.base",
-                "viewName": "Screenshots"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "-video-screenshots-without-notes"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -159,11 +160,13 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9865416a954910",
@@ -287,11 +290,12 @@
   },
   "active": "9b8e8fe6fd59f53b",
   "lastOpenFiles": [
-    "Untitled.md.crswap",
-    "Untitled.md",
     "-hovernotes.base",
-    "-video-screenshots.base",
+    "Untitled 1.md",
+    "Untitled.md",
     "-video-screenshots-without-notes.base",
+    "-video-screenshots.base",
+    "Untitled.md.crswap",
     "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "Ежедневник/Ежедневник-2026-02-09-04-40.md",
     "База данных/Без названия.base",
@@ -319,10 +323,8 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Clippings",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
