@@ -2,14 +2,26 @@ formulas:
   Без названия: ""
 views:
   - type: table
-    name: Таблица
+    name: Таблица Ежедневника
     filters:
       and:
         - file.folder == "Ежедневник"
     order:
-      - file.basename
+      - file.name
       - важное
+      - проблема
+      - решение
+      - победа
     sort:
       - property: file.basename
         direction: DESC
     rowHeight: medium
+  - type: cards
+    name: представление
+    filters:
+      and:
+        - file.folder == "Ежедневник"
+    order:
+      - file.name
+    cardSize: 250
+    imageFit: contain
