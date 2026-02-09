@@ -17,12 +17,7 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "gantt": "list",
-                  "projects": "list",
-                  "today": "list",
-                  "upcoming": "list",
-                  "inbox": "list",
-                  "review": "list"
+                  "projects": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
@@ -287,8 +282,8 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "terminal:Open terminal": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
   "active": "9b8e8fe6fd59f53b",
