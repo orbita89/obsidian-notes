@@ -995,7 +995,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770590759732,
+        "updatedAt": 1770597461150,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1135,6 +1135,18 @@
                         "condition": "isFalse"
                       }
                     ]
+                  },
+                  {
+                    "id": "fluent-proj-group-1770597454779",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1770597454779",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Работа"
+                      }
+                    ]
                   }
                 ]
               },
@@ -1259,7 +1271,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "gantt"
+          "fluentActiveViewId": "projects"
         }
       }
     }

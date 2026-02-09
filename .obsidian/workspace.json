@@ -17,12 +17,13 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "gantt": "list"
+                  "gantt": "list",
+                  "projects": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "gantt"
+                "currentViewId": "projects"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -91,14 +92,13 @@
             "id": "ed77a5e32bd96c5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Графики/Отчет ежедневника.md",
-                "mode": "source",
-                "source": false
+                "file": "База данных/Ежедневник.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "Отчет ежедневника"
+              "icon": "lucide-table",
+              "title": "Ежедневник"
             }
           }
         ],
@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -293,9 +292,13 @@
   },
   "active": "ed77a5e32bd96c5d",
   "lastOpenFiles": [
+    "Ежедневник/Ежедневник-2026-02-09-04-40.md",
+    "База данных/Ежедневник.base",
     "База данных/ЕжедневникБаза.base",
     "Ежедневник/Ежедневник-2026-02-09-04-26.md",
+    "QuickCapture.md",
     "Untitled.md",
+    "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
     "Графики/Отчет ежедневника.md",
     "Ежедневник/Ежедневник-2026-02-09-02-00.md",
     "Ежедневник/Ежедневник-2026-02-09-02-09.md",
@@ -317,17 +320,13 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "Clippings",
     "Без названия.base",
     "Шаблоны/Ежедневник.md~",
     "Ежедневник/Ежедневник-2026-02-08-23-05.md~",
     "Графики",
-    "Шаблоны/Сохранения.md~",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
