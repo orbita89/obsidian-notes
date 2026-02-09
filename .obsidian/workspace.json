@@ -111,22 +111,6 @@
             "currentTab": 5
           },
           {
-            "id": "6c877f2fca89cd5c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "856c26bf0e87149a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Новая вкладка"
-                }
-              }
-            ]
-          },
-          {
             "id": "0b53c676d6d6c0d4",
             "type": "tabs",
             "children": [
@@ -167,7 +151,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: sh"
+                  "title": "Terminal: ◇  Ready (Obsidian Vault)"
                 }
               }
             ]
@@ -363,6 +347,7 @@
   },
   "active": "33902999231005ad",
   "lastOpenFiles": [
+    "Без названия 1.md",
     "Clippings/Most Downloaded Obsidian Plugins.md",
     "copilot/copilot-conversations/Привет_ты_работает@20260209_032432.md",
     "copilot/copilot-conversations",
@@ -392,7 +377,6 @@
     "QuickCapture.md",
     "phpstorm.md",
     "Книги/Библиотека.md",
-    "Книги/1984.md",
     "Без названия.base",
     "Шаблоны/Ежедневник.md~",
     "Ежедневник/Ежедневник-2026-02-08-23-05.md~",
