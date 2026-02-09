@@ -49,14 +49,13 @@
             "id": "9b8e8fe6fd59f53b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
-                "mode": "source",
-                "source": false
+                "file": "-video-screenshots-without-notes.base",
+                "viewName": "Screenshots"
               },
-              "icon": "lucide-file",
-              "title": "Какие самые полезные плагины для новичка в Obsidian 1"
+              "icon": "lucide-layout-grid",
+              "title": "-video-screenshots-without-notes"
             }
           },
           {
@@ -288,10 +287,15 @@
   },
   "active": "9b8e8fe6fd59f53b",
   "lastOpenFiles": [
+    "Untitled.md.crswap",
+    "Untitled.md",
+    "-hovernotes.base",
+    "-video-screenshots.base",
+    "-video-screenshots-without-notes.base",
+    "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "Ежедневник/Ежедневник-2026-02-09-04-40.md",
     "База данных/Без названия.base",
     "База данных/Ежедневник.base",
-    "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "Clippings/Most Downloaded Obsidian Plugins.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
     "QuickCapture.md",
@@ -302,7 +306,6 @@
     "Книги/Библиотека.md",
     "Книги/222.md",
     "Ежедневник/Ежедневник-2026-02-09-05-13.md",
-    "Untitled.md",
     "База данных/ЕжедневникБаза.base",
     "Ежедневник/Ежедневник-2026-02-09-04-26.md",
     "Графики/Отчет ежедневника.md",
@@ -320,9 +323,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "Clippings",
-    "Без названия.base",
-    "Шаблоны/Ежедневник.md~",
-    "Ежедневник/Ежедневник-2026-02-08-23-05.md~",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
