@@ -49,13 +49,14 @@
             "id": "9b8e8fe6fd59f53b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "-hovernotes.base",
-                "viewName": "Video Notes"
+                "file": "Daily/2026-02-08.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "-hovernotes"
+              "icon": "lucide-file",
+              "title": "2026-02-08"
             }
           },
           {
@@ -287,6 +288,7 @@
   },
   "active": "9b8e8fe6fd59f53b",
   "lastOpenFiles": [
+    "-hovernotes.base",
     "-video-screenshots-without-notes.base",
     "-video-screenshots.base",
     "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
@@ -298,7 +300,6 @@
     "Разработка/Symfony/Exception.md",
     "Untitled.md",
     "Разработка/MySQL",
-    "-hovernotes.base",
     "Untitled 1.md",
     "Untitled.md.crswap",
     "База данных/Без названия.base",
