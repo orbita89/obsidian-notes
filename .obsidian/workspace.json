@@ -49,14 +49,13 @@
             "id": "9b8e8fe6fd59f53b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Разработка/MySQL/Mysql.md",
-                "mode": "source",
-                "source": false
+                "file": "-hovernotes.base",
+                "viewName": "Video Notes"
               },
-              "icon": "lucide-file",
-              "title": "Mysql"
+              "icon": "lucide-layout-grid",
+              "title": "-hovernotes"
             }
           },
           {
@@ -288,19 +287,20 @@
   },
   "active": "9b8e8fe6fd59f53b",
   "lastOpenFiles": [
-    "Разработка/Magento/Magento.md",
+    "-video-screenshots-without-notes.base",
+    "-video-screenshots.base",
+    "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "Инструменты/Obsidian.md",
-    "Ежедневник/Ежедневник-2026-02-09-04-40.md",
+    "Проблемы и решение/Devops/Проблемы и решения.md",
     "Разработка/MySQL/Mysql.md",
+    "Разработка/Magento/Magento.md",
+    "Ежедневник/Ежедневник-2026-02-09-04-40.md",
     "Разработка/Symfony/Exception.md",
     "Untitled.md",
     "Разработка/MySQL",
     "-hovernotes.base",
     "Untitled 1.md",
-    "-video-screenshots-without-notes.base",
-    "-video-screenshots.base",
     "Untitled.md.crswap",
-    "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "База данных/Без названия.base",
     "База данных/Ежедневник.base",
     "Clippings/Most Downloaded Obsidian Plugins.md",
@@ -320,9 +320,7 @@
     "Ежедневник/Ежедневник-2026-02-09-02-09.md",
     "Ежедневник/Ежедневник-2026-02-09-02-11.md",
     "Без названия 1.md",
-    "copilot/copilot-conversations/Привет_ты_работает@20260209_032432.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
