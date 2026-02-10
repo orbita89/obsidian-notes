@@ -995,7 +995,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770599744796,
+        "updatedAt": 1770753507965,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1331,7 +1331,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "projects"
+          "fluentActiveViewId": "habit"
         }
       }
     }
