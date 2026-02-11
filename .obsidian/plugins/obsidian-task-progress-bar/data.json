@@ -442,7 +442,7 @@
       "name": "Теги",
       "icon": "tag",
       "type": "default",
-      "visible": true,
+      "visible": false,
       "hideCompletedAndAbandonedTasks": false,
       "filterRules": {},
       "filterBlanks": false
@@ -995,7 +995,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770841112101,
+        "updatedAt": 1770842057547,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1004,11 +1004,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "id-1770328081112-2shod2k6b",
+                    "id": "id-1770328223284-9xh66ufll",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770328081113-rotscdoe0",
+                        "id": "id-1770328223285-j9s0aqsnp",
                         "property": "completed",
                         "condition": "isFalse"
                       }
@@ -1130,11 +1130,11 @@
                     ]
                   },
                   {
-                    "id": "fluent-proj-group-1770599576702",
+                    "id": "fluent-proj-group-1770841870973",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1770599576702",
+                        "id": "fluent-proj-filter-1770841870973",
                         "property": "project",
                         "condition": "is",
                         "value": "Инструменты"
@@ -1147,19 +1147,17 @@
             },
             "table": {
               "filters": {},
-              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "fluent-proj-group-1770327043187",
+                    "id": "id-1770328223284-9xh66ufll",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "fluent-proj-filter-1770327043187",
-                        "property": "project",
-                        "condition": "is",
-                        "value": "Работа"
+                        "id": "id-1770328223285-j9s0aqsnp",
+                        "property": "completed",
+                        "condition": "isFalse"
                       }
                     ]
                   }
@@ -1213,11 +1211,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "id-1770328223284-9xh66ufll",
+                    "id": "id-1770841977636-q95x0mm99",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770328223285-j9s0aqsnp",
+                        "id": "id-1770841977637-2otcgpqvr",
                         "property": "completed",
                         "condition": "isFalse"
                       }
@@ -1263,11 +1261,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "id-1770328081112-2shod2k6b",
+                    "id": "id-1770328223284-9xh66ufll",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770328081113-rotscdoe0",
+                        "id": "id-1770328223285-j9s0aqsnp",
                         "property": "completed",
                         "condition": "isFalse"
                       }
@@ -1283,11 +1281,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "id-1770328081112-2shod2k6b",
+                    "id": "id-1770328223284-9xh66ufll",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770328081113-rotscdoe0",
+                        "id": "id-1770328223285-j9s0aqsnp",
                         "property": "completed",
                         "condition": "isFalse"
                       }
@@ -1318,7 +1316,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "today"
+          "fluentActiveViewId": "projects"
         }
       }
     }
