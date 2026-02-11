@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544.5
+    "width": 544.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,11 +301,14 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "ed77a5e32bd96c5d",
   "lastOpenFiles": [
     "Daily/2026-02-09.md",
-    "Daily/2026-02-10.md",
+    "База данных/Ежедневник.base",
+    "QuickCapture.md",
     "Daily/2026-02-08.md",
+    "Daily/2026-02-10.md",
+    "Daily/2026-02-11.md",
     "-hovernotes.base",
     "-video-screenshots-without-notes.base",
     "-video-screenshots.base",
@@ -320,10 +324,8 @@
     "Untitled 1.md",
     "Untitled.md.crswap",
     "База данных/Без названия.base",
-    "База данных/Ежедневник.base",
     "Clippings/Most Downloaded Obsidian Plugins.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
-    "QuickCapture.md",
     "Книги/1984.md",
     "Книги/SAA\n\n.md",
     "Книги/ddd\n.md",
@@ -334,8 +336,6 @@
     "База данных/ЕжедневникБаза.base",
     "Ежедневник/Ежедневник-2026-02-09-04-26.md",
     "Графики/Отчет ежедневника.md",
-    "Ежедневник/Ежедневник-2026-02-09-02-00.md",
-    "Ежедневник/Ежедневник-2026-02-09-02-09.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "Без названия.canvas",
