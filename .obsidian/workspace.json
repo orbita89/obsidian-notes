@@ -18,12 +18,24 @@
                 "viewMode": "list",
                 "viewModeByViewId": {
                   "habit": "list",
-                  "today": "list"
+                  "today": "list",
+                  "projects": "list",
+                  "review": "list",
+                  "tags": "list",
+                  "flagged": "list",
+                  "table": "list",
+                  "forecast": "list",
+                  "gantt": "list",
+                  "kanban": "list",
+                  "calendar": "list",
+                  "working-on": "list",
+                  "inbox": "list",
+                  "upcoming": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "today"
+                "currentViewId": "table"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -235,9 +247,10 @@
   },
   "active": "a098f49970d70c38",
   "lastOpenFiles": [
+    "Лог-2026-02-08-16-15.md",
+    "Инструменты/Obsidian.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Инструменты/Obsidian.md",
     "Графики/Отчет ежедневника.md",
     "База данных/Ежедневник.base",
     "Ежедневник/Ежедневник-2026-02-12-00-19.md",
@@ -267,7 +280,6 @@
     "Книги/ddd\n.md",
     "Книги/прив.md",
     "Книги/Библиотека.md",
-    "Книги/222.md",
     "База данных/ЕжедневникБаза.base",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
