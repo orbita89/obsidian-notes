@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разработка/PHP/Php.md",
+                "file": "Разработка/Magento/Magento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Php"
+              "title": "Magento"
             }
           }
         ],
@@ -246,10 +246,10 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "f8c385bf54c80181",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
-    "Разработка/Magento/Magento.md",
     "Разработка/PHP/Php.md",
+    "Разработка/Magento/Magento.md",
     "Разработка/PHP",
     "Лог-2026-02-08-16-15.md",
     "Инструменты/Obsidian.md",
