@@ -17,25 +17,12 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "habit": "list",
-                  "today": "list",
-                  "projects": "list",
-                  "review": "list",
-                  "tags": "list",
-                  "flagged": "list",
-                  "table": "list",
-                  "forecast": "list",
-                  "gantt": "list",
-                  "kanban": "list",
-                  "calendar": "list",
-                  "working-on": "list",
-                  "inbox": "list",
-                  "upcoming": "list"
+                  "projects": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "table"
+                "currentViewId": "projects"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -240,9 +227,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "terminal:Open terminal": false
     }
   },
   "active": "a098f49970d70c38",
