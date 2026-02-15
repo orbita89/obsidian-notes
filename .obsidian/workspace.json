@@ -57,8 +57,7 @@
               "title": "Magento"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +245,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
     "Разработка/PHP/Php.md",
     "Разработка/Magento/Magento.md",
