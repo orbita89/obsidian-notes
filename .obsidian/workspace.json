@@ -241,8 +241,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "terminal:Open terminal": false
     }
   },
   "active": "a098f49970d70c38",
