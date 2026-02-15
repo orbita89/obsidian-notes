@@ -56,6 +56,19 @@
               "icon": "lucide-file",
               "title": "Magento"
             }
+          },
+          {
+            "id": "23bbab02ee35403c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "База данных/Ежедневник.base",
+                "viewName": "Таблица Ежедневника"
+              },
+              "icon": "lucide-table",
+              "title": "Ежедневник"
+            }
           }
         ]
       }
@@ -241,11 +254,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
   "active": "a098f49970d70c38",
   "lastOpenFiles": [
+    "База данных/Без названия.base",
+    "Ежедневник/Ежедневник-2026-02-16-03-01.md",
+    "Untitled 2.md",
     "Разработка/PHP/Php.md",
     "Разработка/Magento/Magento.md",
     "Разработка/PHP",
@@ -256,7 +273,6 @@
     "Графики/Отчет ежедневника.md",
     "База данных/Ежедневник.base",
     "Ежедневник/Ежедневник-2026-02-12-00-19.md",
-    "Untitled 2.md",
     "QuickCapture.md",
     "Daily/2026-02-09.md",
     "Ежедневник/Ежедневник-2026-02-11-11-25.md",
@@ -273,13 +289,10 @@
     "Разработка/Symfony/Exception.md",
     "Разработка/MySQL",
     "Untitled.md.crswap",
-    "База данных/Без названия.base",
     "Clippings/Most Downloaded Obsidian Plugins.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
     "Книги/1984.md",
     "Книги/SAA\n\n.md",
-    "Книги/ddd\n.md",
-    "Книги/прив.md",
     "База данных/ЕжедневникБаза.base",
     "copilot/copilot-conversations",
     "Без названия.canvas",
