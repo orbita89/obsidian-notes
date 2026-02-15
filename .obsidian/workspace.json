@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "73f3bb02e8d6ab8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c49ec4f1b5984e00",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "elastic.pdf",
+                "page": 30,
+                "left": -31,
+                "top": 499,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "elastic"
+            }
+          }
+        ]
+      },
+      {
         "id": "fc60669cb17f458c",
         "type": "tabs",
         "children": [
@@ -74,16 +96,14 @@
             "id": "b0936acfb986490e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "elastic.pdf",
-                "page": 27,
-                "left": -245,
-                "top": 313,
-                "zoom": 1.5
+                "file": "Закладки.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "elastic"
+              "icon": "lucide-file",
+              "title": "Закладки"
             }
           }
         ],
@@ -276,8 +296,10 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "b0936acfb986490e",
+  "active": "c49ec4f1b5984e00",
   "lastOpenFiles": [
+    "Закладки.md",
+    "elastic.pdf",
     "База данных/Без названия.base",
     "Ежедневник/Ежедневник-2026-02-16-03-01.md",
     "Untitled 2.md",
@@ -310,9 +332,7 @@
     "Clippings/Most Downloaded Obsidian Plugins.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
     "Книги/1984.md",
-    "Книги/SAA\n\n.md",
     "База данных/ЕжедневникБаза.base",
-    "copilot/copilot-conversations",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
