@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разработка/Magento/Magento.md",
+                "file": "Разработка/Подходы/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magento"
+              "title": "Без названия"
             }
           }
         ],
@@ -275,13 +275,15 @@
   },
   "active": "b0936acfb986490e",
   "lastOpenFiles": [
+    "Разработка/Magento/Magento.md",
+    "Разработка/Подходы/Без названия.md",
+    "Разработка/Подходы",
     "elastic.pdf",
     "Закладки.md",
     "База данных/Без названия.base",
     "Ежедневник/Ежедневник-2026-02-16-03-01.md",
     "Untitled 2.md",
     "Разработка/PHP/Php.md",
-    "Разработка/Magento/Magento.md",
     "Разработка/PHP",
     "Лог-2026-02-08-16-15.md",
     "Инструменты/Obsidian.md",
@@ -309,7 +311,6 @@
     "Clippings/Most Downloaded Obsidian Plugins.md",
     "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
     "Книги/1984.md",
-    "База данных/ЕжедневникБаза.base",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
