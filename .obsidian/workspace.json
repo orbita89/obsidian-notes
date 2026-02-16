@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "73f3bb02e8d6ab8a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c49ec4f1b5984e00",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "elastic.pdf",
-                "page": 30,
-                "left": -31,
-                "top": 499,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "elastic"
-            }
-          }
-        ]
-      },
-      {
         "id": "fc60669cb17f458c",
         "type": "tabs",
         "children": [
@@ -96,14 +74,16 @@
             "id": "b0936acfb986490e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Закладки.md",
-                "mode": "source",
-                "source": false
+                "file": "elastic.pdf",
+                "page": 29,
+                "left": -232,
+                "top": 417,
+                "zoom": 1.5
               },
-              "icon": "lucide-file",
-              "title": "Закладки"
+              "icon": "lucide-file-text",
+              "title": "elastic"
             }
           }
         ],
@@ -296,7 +276,7 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "c49ec4f1b5984e00",
+  "active": "b0936acfb986490e",
   "lastOpenFiles": [
     "Закладки.md",
     "elastic.pdf",
