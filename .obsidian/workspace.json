@@ -74,16 +74,14 @@
             "id": "b0936acfb986490e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "elastic.pdf",
-                "page": 29,
-                "left": -232,
-                "top": 417,
-                "zoom": 1.5
+                "file": "Разработка/Magento/Magento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "elastic"
+              "icon": "lucide-file",
+              "title": "Magento"
             }
           }
         ],
@@ -164,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad9865416a954910",
@@ -278,8 +275,8 @@
   },
   "active": "b0936acfb986490e",
   "lastOpenFiles": [
-    "Закладки.md",
     "elastic.pdf",
+    "Закладки.md",
     "База данных/Без названия.base",
     "Ежедневник/Ежедневник-2026-02-16-03-01.md",
     "Untitled 2.md",
