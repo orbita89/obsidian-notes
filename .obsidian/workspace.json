@@ -84,8 +84,7 @@
               "title": "Заметки Optimax"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,8 +143,8 @@
             "state": {
               "type": "tagfolder-link-view",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Link Folder"
+              "icon": "lucide-ghost",
+              "title": "tagfolder-link-view"
             }
           },
           {
@@ -154,8 +153,8 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
+              "icon": "lucide-ghost",
+              "title": "tagfolder-view"
             }
           }
         ]
@@ -241,8 +240,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -266,15 +265,16 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "b0936acfb986490e",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
+    "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Разработка/Архитектура и подходы/Сервисы и хранилище.md",
     "Инструменты/Obsidian.md",
@@ -310,7 +310,6 @@
     "Разработка/MySQL",
     "Untitled.md.crswap",
     "Clippings/Most Downloaded Obsidian Plugins.md",
-    "Excalidraw/Drawing 2026-01-26 01.42.45.excalidraw.md",
     "Без названия.canvas",
     "Работа/Без названия.canvas",
     "Книги/Закладки.canvas"
