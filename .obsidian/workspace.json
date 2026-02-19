@@ -84,7 +84,8 @@
               "title": "Заметки Optimax"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,12 +273,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a098f49970d70c38",
+  "active": "b0936acfb986490e",
   "lastOpenFiles": [
+    "Инструменты/Obsidian.md",
     "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Разработка/Архитектура и подходы/Сервисы и хранилище.md",
-    "Инструменты/Obsidian.md",
     "Разработка/Magento/Magento.md",
     "База данных/Ежедневник.base",
     "Разработка/Архитектура и подходы",
