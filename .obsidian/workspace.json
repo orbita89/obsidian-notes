@@ -17,15 +17,13 @@
                 "currentWorkspace": "ws_1769305922420_hcptf2vli",
                 "viewMode": "list",
                 "viewModeByViewId": {
-                  "projects": "list",
-                  "habit": "list",
-                  "forecast": "list",
-                  "working-on": "list"
+                  "projects": "list"
                 },
                 "searchQuery": "",
                 "filters": {},
                 "filterInputValue": "",
-                "currentViewId": "working-on"
+                "selectedProject": "Работа",
+                "currentViewId": "projects"
               },
               "pinned": true,
               "icon": "task-genius",
@@ -269,7 +267,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
