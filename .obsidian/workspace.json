@@ -87,8 +87,7 @@
               "title": "Хлам работа"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,7 +276,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "032618149075f6ce",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
     "Разработка/Magento/Magento.md",
     "Работа Optimax/Хлам работа.md",

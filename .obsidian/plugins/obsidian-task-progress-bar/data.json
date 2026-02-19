@@ -996,7 +996,7 @@
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1771485540643,
+        "updatedAt": 1771494884251,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1158,6 +1158,7 @@
             },
             "projects": {
               "filters": {},
+              "selectedProject": "Работа",
               "advancedFilter": {
                 "rootCondition": "all",
                 "filterGroups": [
@@ -1169,6 +1170,18 @@
                         "id": "id-1770842367787-ejjrhn5pf",
                         "property": "completed",
                         "condition": "isFalse"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "fluent-proj-group-1771494883750",
+                    "groupCondition": "all",
+                    "filters": [
+                      {
+                        "id": "fluent-proj-filter-1771494883750",
+                        "property": "project",
+                        "condition": "is",
+                        "value": "Работа"
                       }
                     ]
                   }
@@ -1265,7 +1278,7 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "working-on"
+          "fluentActiveViewId": "projects"
         }
       },
       "ws_1771485531622_aq79yf1v0": {
