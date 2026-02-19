@@ -989,13 +989,14 @@
     "defaultWorkspaceId": "ws_1769305922420_hcptf2vli",
     "activeWorkspaceId": "ws_1769305922420_hcptf2vli",
     "order": [
-      "ws_1769305922420_hcptf2vli"
+      "ws_1769305922420_hcptf2vli",
+      "ws_1771485531622_aq79yf1v0"
     ],
     "byId": {
       "ws_1769305922420_hcptf2vli": {
         "id": "ws_1769305922420_hcptf2vli",
         "name": "Default",
-        "updatedAt": 1770842403031,
+        "updatedAt": 1771485540643,
         "settings": {
           "fluentFilterState": {
             "forecast": {
@@ -1044,11 +1045,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "id-1770841977636-q95x0mm99",
+                    "id": "id-1770842367786-lehs8nwym",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770841977637-2otcgpqvr",
+                        "id": "id-1770842367787-ejjrhn5pf",
                         "property": "completed",
                         "condition": "isFalse"
                       }
@@ -1249,11 +1250,11 @@
                 "rootCondition": "all",
                 "filterGroups": [
                   {
-                    "id": "id-1770841977636-q95x0mm99",
+                    "id": "id-1770842367786-lehs8nwym",
                     "groupCondition": "all",
                     "filters": [
                       {
-                        "id": "id-1770841977637-2otcgpqvr",
+                        "id": "id-1770842367787-ejjrhn5pf",
                         "property": "completed",
                         "condition": "isFalse"
                       }
@@ -1264,7 +1265,22 @@
               "viewMode": "list"
             }
           },
-          "fluentActiveViewId": "projects"
+          "fluentActiveViewId": "working-on"
+        }
+      },
+      "ws_1771485531622_aq79yf1v0": {
+        "id": "ws_1771485531622_aq79yf1v0",
+        "name": "ppp",
+        "updatedAt": 1771485538055,
+        "settings": {
+          "fluentFilterState": {
+            "forecast": {
+              "filters": {},
+              "advancedFilter": null,
+              "viewMode": "list"
+            }
+          },
+          "fluentActiveViewId": "forecast"
         }
       }
     }
