@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
+                "file": "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Какие самые полезные плагины для новичка в Obsidian 1"
+              "title": "Шаблоны ДЛЯ chatGpt OPTIMAX"
             }
           }
         ],
@@ -274,8 +274,9 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "55b077ed6983193f",
+  "active": "0e2669d907cb20bd",
   "lastOpenFiles": [
+    "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "Clippings/copilot/copilot-conversations/Привет_ты_работает@20260209_032432.md",
     "Clippings/copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "Clippings/copilot/copilot-custom-prompts/Clip Web Page.md",
@@ -306,7 +307,6 @@
     "Daily/2026-02-09.md",
     "Ежедневник/Ежедневник-2026-02-11-11-25.md",
     "Daily/2026-02-08.md",
-    "Daily/2026-02-10.md",
     "-hovernotes.base",
     "-video-screenshots-without-notes.base",
     "-video-screenshots.base",
