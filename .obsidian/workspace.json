@@ -85,8 +85,7 @@
               "title": "Шаблоны ДЛЯ chatGpt OPTIMAX"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,8 +144,8 @@
             "state": {
               "type": "tagfolder-link-view",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Link Folder"
+              "icon": "lucide-ghost",
+              "title": "tagfolder-link-view"
             }
           },
           {
@@ -155,8 +154,8 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
+              "icon": "lucide-ghost",
+              "title": "tagfolder-view"
             }
           }
         ]
@@ -267,15 +266,16 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "a098f49970d70c38",
   "lastOpenFiles": [
+    "Инструменты/Obsidian.md",
     "Clippings/Какие самые полезные плагины для новичка в Obsidian 1.md",
     "Clippings/copilot/copilot-conversations/Привет_ты_работает@20260209_032432.md",
     "Clippings/copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -287,7 +287,6 @@
     "База данных/Ежедневник.base",
     "Работа Optimax/Шаблоны ДЛЯ chatGpt OPTIMAX.md",
     "Работа Optimax/Заметки Optimax.md",
-    "Инструменты/Obsidian.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Разработка/Архитектура и подходы/Сервисы и хранилище.md",
     "Разработка/Архитектура и подходы",
