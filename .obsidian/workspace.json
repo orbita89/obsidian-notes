@@ -281,11 +281,11 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-task-progress-bar:Открыть вид Task Genius": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
   "active": "0e2669d907cb20bd",
