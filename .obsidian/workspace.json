@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа Optimax/Заметки Optimax.md",
+                "file": "Разработка/Magento/Magento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки Optimax"
+              "title": "Magento"
             }
           }
         ],
@@ -232,13 +232,13 @@
       "obsidian-task-progress-bar:Открыть вид Task Genius": false
     }
   },
-  "active": "0e2669d907cb20bd",
+  "active": "032618149075f6ce",
   "lastOpenFiles": [
+    "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Задачи OPTIMAX.md",
     "Проблемы и решение/-video-screenshots-without-notes.base",
     "Проблемы и решение/-video-screenshots.base",
     "Проблемы и решение/-hovernotes.base",
-    "Работа Optimax/Заметки Optimax.md",
     "Работа Optimax/Хлам работа.md",
     "Инструменты/Obsidian.md",
     "Разработка/Magento/Magento.md",
